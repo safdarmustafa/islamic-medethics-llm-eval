@@ -38,8 +38,8 @@ relevant fatwa before it answered did.
 
 | | Baseline | With verified references (RAG) |
 |---|:-:|:-:|
-| Mean score, English (0–4) | 2.68 | **3.82** |
-| Mean score, Hinglish (0–4) | 1.74 | **2.78** |
+| Mean score, English (0 to 4) | 2.68 | **3.82** |
+| Mean score, Hinglish (0 to 4) | 1.74 | **2.78** |
 | Fully correct, English | 11 / 50 | **42 / 50** |
 | Hallucinated, English | 7 / 50 | **0 / 50** |
 | Hallucinated, Hinglish | 19 / 50 | 9 / 50 |
@@ -48,7 +48,13 @@ relevant fatwa before it answered did.
 [Reference answers](#reference-answers) · [What the model gets wrong](#what-the-model-gets-wrong) ·
 [What fixes it](#what-fixes-it) · [Failure examples](#failure-examples) ·
 [All 50 questions](#all-50-questions) · [Limitations](#limitations) ·
-[Next steps](#next-steps) · [Files](#files)
+[Path forward](#path-forward) · [Files](#files)
+
+> **For the Fatima Fellowship reviewers.** Question 1 (the blind spot) is
+> answered in [Why this matters](#why-this-matters). The evaluation for
+> Question 2 is in [How it works](#how-it-works) through
+> [All 50 questions](#all-50-questions). Question 3 is answered in
+> [Path forward](#path-forward).
 
 ---
 
@@ -83,7 +89,7 @@ speak at home. So I tested both.
 | Decoding | temperature 0.1, repetition penalty 1.1, up to 512 new tokens |
 | Questions | 50, five categories of ten, each asked in English and in Hinglish |
 | Conditions | three (below), so 300 responses in total |
-| Scoring | 0–4 against a verified reference answer, with a written note for each |
+| Scoring | 0 to 4 against a verified reference answer, with a written note for each |
 
 The float16 weights (about 6.2 GB) don't fit next to macOS in 8 GB of memory,
 so every run uses the 4-bit build of the same model. Quantization can move
@@ -170,7 +176,7 @@ correct answer has to contain, and links to its sources.
   TheMufti.com, AskMufti, SeekersGuidance
 - **islamqa.info:** 33 fatwas, linked per question
 - Ibn ʿĀbidīn, *Radd al-Muḥtār*, on early abortion in the Hanafi school;
-  Qur'an 2:184–185, 4:29 and 17:33
+  Qur'an 2:184 to 185, 4:29 and 17:33
 </details>
 
 <details>
@@ -201,7 +207,7 @@ These results are for the baseline (condition A).
 
 | | English | Hinglish |
 |---|:-:|:-:|
-| Mean score (0–4) | 2.68 | 1.74 |
+| Mean score (0 to 4) | 2.68 | 1.74 |
 | Fully correct (4) | 11 | 5 |
 | Partial (3) | 26 | 15 |
 | Wrong (2) | 6 | 11 |
@@ -289,7 +295,7 @@ the same prompt with verified references retrieved into the context (C).
 
 | | A · EN | B · EN | C · EN | A · HI | B · HI | C · HI |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
-| Mean score (0–4) | 2.68 | 2.48 | **3.82** | 1.74 | 0.84 | **2.78** |
+| Mean score (0 to 4) | 2.68 | 2.48 | **3.82** | 1.74 | 0.84 | **2.78** |
 | Fully correct | 11 | 6 | **42** | 5 | 0 | **19** |
 | Acceptable (3 or 4) | 37 | 32 | **49** | 20 | 8 | **38** |
 | Hallucinated | 7 | 7 | **0** | 19 | 33 | 9 |
@@ -413,7 +419,7 @@ Scores for every question under the baseline (A) and grounded (C)
 conditions. EN = English, HI = Hinglish. Click a category to open it.
 
 <details>
-<summary><b>Fasting and medication</b> (Q01–Q10)</summary>
+<summary><b>Fasting and medication</b> (Q01 to Q10)</summary>
 
 | # | Question | Verified ruling | A · EN | A · HI | C · EN | C · HI |
 |---|---|---|:-:|:-:|:-:|:-:|
@@ -431,7 +437,7 @@ conditions. EN = English, HI = Hinglish. Click a category to open it.
 </details>
 
 <details>
-<summary><b>Surgery and procedures</b> (Q11–Q20)</summary>
+<summary><b>Surgery and procedures</b> (Q11 to Q20)</summary>
 
 | # | Question | Verified ruling | A · EN | A · HI | C · EN | C · HI |
 |---|---|---|:-:|:-:|:-:|:-:|
@@ -449,7 +455,7 @@ conditions. EN = English, HI = Hinglish. Click a category to open it.
 </details>
 
 <details>
-<summary><b>Blood, organ donation and transplant</b> (Q21–Q30)</summary>
+<summary><b>Blood, organ donation and transplant</b> (Q21 to Q30)</summary>
 
 | # | Question | Verified ruling | A · EN | A · HI | C · EN | C · HI |
 |---|---|---|:-:|:-:|:-:|:-:|
@@ -467,7 +473,7 @@ conditions. EN = English, HI = Hinglish. Click a category to open it.
 </details>
 
 <details>
-<summary><b>End-of-life care</b> (Q31–Q40)</summary>
+<summary><b>End-of-life care</b> (Q31 to Q40)</summary>
 
 | # | Question | Verified ruling | A · EN | A · HI | C · EN | C · HI |
 |---|---|---|:-:|:-:|:-:|:-:|
@@ -485,7 +491,7 @@ conditions. EN = English, HI = Hinglish. Click a category to open it.
 </details>
 
 <details>
-<summary><b>Controversial ethics</b> (Q41–Q50)</summary>
+<summary><b>Controversial ethics</b> (Q41 to Q50)</summary>
 
 | # | Question | Verified ruling | A · EN | A · HI | C · EN | C · HI |
 |---|---|---|:-:|:-:|:-:|:-:|
@@ -517,25 +523,132 @@ conditions. EN = English, HI = Hinglish. Click a category to open it.
 - The Hinglish questions use one style of Roman-script Hindi and Urdu. Real
   spelling varies far more, so the language gap is probably understated.
 
-## Next steps
+## Path forward
 
-The experiment points to a fairly specific plan.
+I haven't tested any of this yet. It is what I would build next, based on
+what the experiment showed.
 
-1. **Build the knowledge base properly.** Grounding was the only thing that
-   worked, so the main job is a large, verified collection of medical fatwas,
-   tagged by school and checked by both scholars and doctors. That means
-   sources like the OIC Fiqh Academy, Deoband, FIMA, JIMA and IslamQA.
-2. **Test retrieval at realistic scale.** Run condition C against thousands
-   of fatwas instead of 50, and measure how often the right one is found.
-3. **Fix the Hinglish output, not just the input.** Retrieval already copes
-   with Hinglish questions. The failures are in generation, so a small
-   amount of Hinglish instruction tuning, or answering in English with an
-   optional translation, should close much of the remaining gap.
-4. **Evaluate each Sunni school separately,** since rulings differ between
-   Hanafi, Shafi'i, Maliki and Hanbali, and the model is weakest exactly
-   there.
-5. **Repeat with larger and more varied models** to see whether scale fixes
-   any of this without grounding.
+The model doesn't fail for one reason. It fails for four, and each one
+needs a different fix.
+
+| What goes wrong | What I saw | What I think fixes it |
+|---|---|---|
+| It doesn't know the rulings | Giving it the right fatwa raised English from 2.68 to 3.82 and removed every hallucination | A verified fatwa collection it can look things up in |
+| It gets the school wrong | It said "Hanafi" in 39 of 50 English answers, yet averaged 2.57 on the seven Hanafi questions | Rulings labelled by school, and retrieval that respects the label |
+| It is never unsure | Not one refusal or hedge in 100 baseline answers, and once it contradicted the fatwa it had just been given (Q07, Hinglish) | Training that rewards answering from the source and admitting when it can't |
+| It can't write Hinglish | 13 grounded Hinglish replies slipped into Urdu or Devanagari script. The 37 that stayed in Roman script averaged 3.35 | Training on Roman script answers, and blocking other scripts while it writes |
+
+So my plan is to keep the knowledge outside the model and use fine tuning
+only to change how it behaves. Rulings differ between schools, they get
+updated, and a family needs to see where an answer came from. A 3B model
+that has memorised fatwas can't show any of that, and I suspect it would
+start inventing citations again, which was exactly what grounding stopped.
+
+### The data
+
+The most important piece is a proper collection of medical fatwas. I would
+store each one as a record with the same fields as my `ground_truth.json`:
+the question, the ruling, the school, the conditions, the evidence, who
+issued it, when, and a link. Fifty records proved the idea; a few thousand
+would make it useful.
+
+I would collect them in order of authority. First the collective bodies,
+the OIC Fiqh Academy and the Muslim World League Fiqh Council. Then the
+fatwa services of each school: Deoband and other Hanafi muftis for South
+Asia, and their Shafi'i, Maliki and Hanbali counterparts. Then medical
+ethics work from FIMA, JIMA and IOMS. Every ruling keeps the school it came
+from. I would never blend them into one "Islamic view", because that
+blending is the mistake the model already makes.
+
+Each record would be checked twice, once by a scholar for the ruling and
+once by a doctor for the medicine behind it. Several of the fasting errors
+I found came from a correct principle applied to the wrong thing, such as
+treating an IV drip like a tablet. A doctor would catch that faster than a
+mufti.
+
+Three more things would go into the training set:
+
+1. **The same question answered by each school,** for the issues where
+   they disagree, like inhalers, organ donation and early abortion. This is
+   the clearest way to show the model that "Hanafi" is a specific claim and
+   not a label to attach to every answer.
+2. **Questions the collection can't answer,** paired with an honest reply
+   that says so and suggests asking a mufti. At the moment the model has
+   never seen an example of this.
+3. **Real Hinglish.** People who actually speak it would rewrite each
+   question a few different ways, with the spelling people really use
+   (roza, roze, rozah; jaiz, jayez; kya, kia), and write the answers in
+   Roman script. Machine translation would only reproduce the problem.
+
+The 50 questions in this evaluation would stay out of the training data
+completely, so they remain a fair test.
+
+### The training
+
+I would train in two steps, using LoRA so that it still fits on one
+consumer GPU or a free Colab session.
+
+The first step is supervised fine tuning in the style of RAFT. Every
+example shows the model a question, the correct fatwa, and two or three
+fatwas that look similar but don't answer it, some from a different school.
+The answer it learns to give always has the same shape: the ruling in one
+sentence, then the school, then the conditions, then which source it used.
+In roughly one example in five the correct fatwa is left out on purpose,
+and the right answer is to say the sources don't cover the question. That
+teaches the model to lean on what it is given, to ignore the near misses,
+and to stop when it should.
+
+The second step is preference training with DPO. For each new question I
+would write a good answer and pair it with bad ones that copy the mistakes
+I actually saw: a made up hadith, the wrong school, a confident answer
+where scholars disagree, an answer that contradicts the source, an answer
+to the wrong question, and an answer that drifts into another script. This
+evaluation already gives me a clear list of those mistakes. It just
+shouldn't give me the questions.
+
+About a third of all training examples would be Hinglish in and Hinglish
+out, so the model learns to write it and not only to read it.
+
+### Changes around the model
+
+**Retrieval that knows the school.** If the question names a school, only
+that school's rulings are retrieved. If it doesn't, the system fetches one
+ruling from each major school, so the model can describe the disagreement
+honestly and not invent one.
+
+**Better search for Hinglish.** BM25 found the right reference every time
+here, but only because there were just 50 to choose from. With thousands of
+records I would add a multilingual embedding model next to BM25, and
+standardise common Hinglish spellings before searching.
+
+**Checking quotes after the answer is written.** Any hadith, verse or
+fatwa the model quotes has to match the retrieved text or a verified hadith
+collection. If it doesn't match, it is removed. My prompt asked the model
+not to invent hadith, and it couldn't follow that reliably. A check can.
+
+**Keeping Hinglish in Roman script.** When the question is in Roman
+script, the system can stop the model from producing Devanagari or Arabic
+script characters while it writes. This goes straight at the biggest
+problem left in Hinglish. If the 13 replies that drifted had scored like
+the 37 that didn't, the Hinglish average would have been about 3.35
+instead of 2.78. That is a best case guess, not a result.
+
+**A simple version to beat.** The cheapest option is to convert the
+Hinglish question into English, answer it with the English setup (which
+scored 3.82), and convert the answer back. If all the training above can't
+do better than that, it isn't worth the effort.
+
+### How I would measure it
+
+I would run this same benchmark again with the same rubric, and add a
+harder version of condition C that searches the whole collection and not
+just the 50 reference answers. I would watch five numbers: how often the
+answer is fully correct, how often it hallucinates, how often it names the
+right school when schools disagree, how often it holds back when it should,
+and how often a Hinglish answer stays in Roman script. I would call it a
+success if grounded Hinglish comes within 0.3 of English without English
+getting worse. Then I would repeat it on a 7B model or larger, to make sure
+the gains aren't just patching the weaknesses of one small model.
 
 ## Files
 
@@ -554,6 +667,7 @@ results/solutions/raw_*.json            conditions B and C output
 results/solutions/scores_solutions.json conditions B and C scores and notes
 results/solutions/all_conditions_scores.csv   all 300 scores in one table
 results/summary.json                    summary statistics
+model/                                  the exact 4 bit MLX weights I evaluated (mlx-community/Qwen2.5-3B-Instruct-4bit, revision 4f83f8f)
 ```
 
 To reproduce on Apple Silicon:
