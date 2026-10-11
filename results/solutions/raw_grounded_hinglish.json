@@ -1,0 +1,804 @@
+{
+  "results": [
+    {
+      "id": "Q01",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya cancer patient Hanafi fiqh ke mutabiq Ramadan ke roze mein chemotherapy ki goliyan le sakta hai?",
+      "question_english": "Can a cancer patient take chemotherapy pills during Ramadan fasting according to Hanafi fiqh?",
+      "retrieved_ids": [
+        "Q01",
+        "Q09"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi madhab ke mutabiq, cancer patient ke liye roj mein chemotherapy goliyan le sakte hain. Aisa koi fast ke liye nahi ho sakta, kyunki medicine stomach mein aayegi through mouth. Lekin fast ke liye zaroorat hai to uske liye Hanafi madhab ke mutabiq, fast karne ka zaroorat nahi hoti. Uske baad qada (makroom) ke liye fast karne ka zaroorat hoti. Uske baad, uske liye fidya (poor person ko ek daya ke liye khaya) payenge.",
+      "timestamp": "2026-10-11 07:16:29"
+    },
+    {
+      "id": "Q02",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Hanafi school mein nas (vein) ke zariye chemotherapy injection lene se roza toot jata hai?",
+      "question_english": "Does receiving a chemotherapy injection through a vein break the fast in the Hanafi school?",
+      "retrieved_ids": [
+        "Q02",
+        "Q01"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi madhab ke liye, nas (vein) se chemotherapy injection lene se roza toot jata nahi. Phir uske baad, intravenous (IV) ya intramuscular (IM) injection ke hisab se roza toot jata nahi. Yeh madaris ne dikhaya ki substance bloodstream mein aayenge, nahin stomach ya brain mein. Yeh madaris ne dikhaya ki madaris ke liye IV ya IM injection ke hisab se roza toot jata nahi.\n\nSource: https://islamqa.org/hanafi/darulihsan/76643/ramadan-faqs-medical/; https://islamqa.org/hanafi/themufti/178721/does-vitamin-injections-and-drips-break-the-fast/",
+      "timestamp": "2026-10-11 07:16:37"
+    },
+    {
+      "id": "Q03",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya diabetic Muslim insulin lene ke liye apna Ramadan ka roza tod sakta hai?",
+      "question_english": "Can a diabetic Muslim break their Ramadan fast to take insulin?",
+      "retrieved_ids": [
+        "Q03",
+        "Q05"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Permissible. Insulin, yaad rakhiye ki uss subkutani injection mein daal di jati hai, wo roza ka zarb nahi kar sakta. Mehrabani ilm mein yaar hai ki mai mai madaris aur OIC ke mahfooz fatwa mein yeh ma'arafat hai ki insulin zarb nahi kar sakta. Mehrabani ilm mein yeh ma'arafat hai ki insulin zarb nahi kar sakta. \n\nCondition: Insulin must be administered subcutaneously through a syringe or patch, not orally. If the patient is at risk of hypoglycemia due to fasting, they should consult their doctor and may be obliged to fast or break it based on their condition. They must make up the missed days later, or pay fidya if chronic.\n\nSource: https://islamqa.info/en/answers/37892; International Islamic Fiqh Academy (OIC), Resolution 93 (1/10), 1997 - matters that do not invalidate the fast",
+      "timestamp": "2026-10-11 07:16:46"
+    },
+    {
+      "id": "Q04",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Agar koi patient Ramadan mein severe pain ki wajah se painkillers le, to kya uska roza toot jata hai?",
+      "question_english": "If a patient takes painkillers during Ramadan because of severe pain, is their fast broken?",
+      "retrieved_ids": [
+        "Q04",
+        "Q31"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Oral painkillers during Ramadan because of severe pain break the fast. However, breaking it due to severe pain is permissible.\nConditions: The patient must take the medication for severe pain and not with the intention of breaking their fast. They can break their fast due to severe pain but must make up for it later.\nSource: https://islamqa.info/en/answers/108414",
+      "timestamp": "2026-10-11 07:16:51"
+    },
+    {
+      "id": "Q05",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Muslim patient Ramadan mein cancer pain ke liye morphine patch use kar sakta hai bina roza tode?",
+      "question_english": "Can a Muslim patient use a morphine patch for cancer pain during Ramadan without breaking the fast?",
+      "retrieved_ids": [
+        "Q05",
+        "Q31"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Muslim patient can use morphine patch for cancer pain during Ramadan without breaking the fast. Condition is that it does not enter through a natural opening and is absorbed through the skin. This ruling comes from International Islamic Fiqh Academy's Resolution 93 (1/10), 1997, which states that substances absorbed through the skin do not invalidate the fast. Source: https://islamqa.info/en/answers/299989",
+      "timestamp": "2026-10-11 07:16:56"
+    },
+    {
+      "id": "Q06",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein terminally ill patient ke liye hamesha ke liye roza chhod dena jaiz hai?",
+      "question_english": "Is it permissible in Islam for a terminally ill patient to stop fasting permanently?",
+      "retrieved_ids": [
+        "Q36",
+        "Q06"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ رضات کے لئے دائمی طور پر روزوں کو تکنگ کھلنا اسلام میں جائز نہ ہے۔ اما، تیرائی کے لئے دائمی طور پر روزوں کو تکنگ کھلنا جائز ہے۔ اسیasu سامانوں میں، اسلامی فیجہ کے لئے فائدہ کو یک روز میں پرندگان کو ایک فائدہ سے ترقی کرنے لیا جاری ہوتا ہے۔ اس مثال کے طور پر، تیرائی کے لئے دائمی طور پر روزوں کو تکنگ کھلنا جائز ہے۔ اسیasu سامانوں میں، فائدہ کو یک روز میں پرندگان کو ایک فائدہ سے ترقی کرنے لیا جاری ہوتا ہے۔ اس مثال کے طور پر، تیرائی کے لئے دائمی طور پر روزوں کو تکنگ کھلنا جائز ہے۔ اسیasu سامانوں میں، فائدہ کو یک روز میں پرندگان کو ایک فائدہ سے ترقی کرنے لیا جاری ہوتا ہے۔",
+      "timestamp": "2026-10-11 07:17:10"
+    },
+    {
+      "id": "Q07",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Hanafi ulama ke mutabiq Ramadan mein blood transfusion lene se roza toot jata hai?",
+      "question_english": "Does receiving a blood transfusion during Ramadan break the fast according to Hanafi scholars?",
+      "retrieved_ids": [
+        "Q07",
+        "Q21"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi ulama ke mutabiq Ramadan mein blood transfusion lene se roza toot jata hai. Source: https://www.tafseer-raheemi.com/masaail-of-ramadhan-differences-between-the-hanafi-fiqh-and-salafi-fiqh; International Islamic Fiqh Academy (OIC), Resolution 93 (1/10), 1997 - matters that do not invalidate the fast.",
+      "timestamp": "2026-10-11 07:17:15"
+    },
+    {
+      "id": "Q08",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Muslim patient Ramadan mein roze ki halat mein asthma inhaler use kar sakta hai?",
+      "question_english": "Can a Muslim patient use an asthma inhaler while fasting in Ramadan?",
+      "retrieved_ids": [
+        "Q08",
+        "Q05"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Muslim patient can use an asthma inhaler during Ramadan halal, but it depends on the madhab. Hanafi scholars consider this to break the fast due to particles reaching the throat through mouth, while Maliki and Shafi' scholars consider it permissible. The most permissive view is from the International Islamic Fiqh Academy (OIC), which states that transdermal patches do not break the fast. So, if you are following Hanafi madhab and facing difficulty due to asthma inhaler, it might break the fast according to their view. However, if you are following Maliki or Shafi' madhab, it is permissible to use the inhaler without breaking the fast.",
+      "timestamp": "2026-10-11 07:17:21"
+    },
+    {
+      "id": "Q09",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Agar roza rakhne se serious nuksaan ho to kya cancer patient ke liye Ramadan mein khana jaiz hai?",
+      "question_english": "Is it permissible for a cancer patient to eat during Ramadan if fasting causes serious harm?",
+      "retrieved_ids": [
+        "Q09",
+        "Q01"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: रामदंकर से बड़ा नुकसान होने पर, कैंसी सेवको रामदन में कहलाना अधिकारी है। यह मज़बूत नुकसान होने पर कहा जाता है कि उन्हें रहित करण का अधीमत है, लेकिन वे बाद में रहित करण की संख्या को मज़बूत करें। अनुचारित मुफ्ती से पूर्ण अनुचारित करण की संख्या जोड़ने पर रहित करण बंद होगा।\n\nConditions: \n1. यह कैनसी सेवको रहित करण का अधीमत है।\n2. यह मज़बूत नुकसान होने पर कहा जाता है।\n3. रहित करण बंद होने पर वे रहित करण की संख्या को मज़बूत करें।\n\nइस अनुचारित मुफ्ती से पूर्ण अनुचारित करण की संख्या जोड़ने पर रहित करण बंद होगा।",
+      "timestamp": "2026-10-11 07:17:39"
+    },
+    {
+      "id": "Q10",
+      "category": "Fasting_Medication",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Hanafi fiqh mein Ramadan ke dauran IV drip lagwane se roza baatil ho jata hai?",
+      "question_english": "Does an IV drip administered during Ramadan invalidate the fast in Hanafi fiqh?",
+      "retrieved_ids": [
+        "Q10",
+        "Q28"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein, Ramadan ke dauran IV drip lagwane se roza baatil nahi ho jata. Iftar ka maqsad mein IV drip direct bloodstream mein aayenge, stomach mein na aane ke liye. Hanafi madhab mein mukarrar muftis hain jo baatik hai ki IV drip stomach mein na aane ke liye, uska roza baatil nahi ho jata. Hanafi madhab mein mukarrar muftis hain jo IV drip na makruh ho jaye. IIFA madhab mein mukarrar muftis hain jo IV drip na baatil ho jaye. Hanafi madhab mein IV drip stomach mein aane ke liye baatil ho jaye.",
+      "timestamp": "2026-10-11 07:17:47"
+    },
+    {
+      "id": "Q11",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein Muslim ke liye aisi surgery karwana jaiz hai jismein maut ka risk ho?",
+      "question_english": "Is it permissible in Islam for a Muslim to undergo surgery that carries a risk of death?",
+      "retrieved_ids": [
+        "Q11",
+        "Q41"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling in Islam, for a Muslim to undergo surgery that carries a risk of death is permissible with conditions. According to the verified reference [1], this permission comes with the requirement that competent doctors must judge that the expected benefit outweighs the risk (the dominant likelihood of benefit). Additionally, it is essential to seek informed consent from the patient. Therefore, if a doctor certifies that the surgery has significant benefits and the risk is manageable, then it is permissible. However, exposing oneself to unnecessary risks without a medical justification is not allowed in Islam.",
+      "timestamp": "2026-10-11 07:17:52"
+    },
+    {
+      "id": "Q12",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islamic ethics ke mutabiq Muslim patient apni family ko bataye bina surgery ke liye consent de sakta hai?",
+      "question_english": "Can a Muslim patient consent to surgery without informing their family according to Islamic ethics?",
+      "retrieved_ids": [
+        "Q12",
+        "Q26"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic ethics ruling: Permissible. Muslim patient can give consent for surgery without informing the family, especially if they are a competent adult. However, consulting with the family is recommended. For patients who lack capacity (like minors or unconscious individuals), family or guardian consent is needed.\n\nConditions that matter:\n1. The patient must be a competent adult.\n2. If the patient is not a competent adult, then family or guardian consent is required.\n\nReference: International Islamic Fiqh Academy (OIC), Resolution 67 (5/7), 1992 - medical treatment and patient consent",
+      "timestamp": "2026-10-11 07:17:58"
+    },
+    {
+      "id": "Q13",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein surgery ke dauran general anaesthesia jaiz hai?",
+      "question_english": "Is general anaesthesia during surgery permissible in Islam?",
+      "retrieved_ids": [
+        "Q13",
+        "Q14"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ ر厢 یعنی جگرائس کے دوران میں گنرال آنساژتیشن کو اسلام میں جائزہ ہے۔ اس ر厢 پر مشورت کاروں میں تحریر ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے کہ اس جائزہ ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں نے تحریر کیا ہے۔ اس ر厢 پر مشورت کاروں ن",
+      "timestamp": "2026-10-11 07:18:17"
+    },
+    {
+      "id": "Q14",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Agar namaz ke waqt koi anaesthesia mein behosh ho, to kya Muslim ko chhooti hui namazein qaza karni hongi?",
+      "question_english": "Does being under anaesthesia during prayer time require a Muslim to make up missed prayers?",
+      "retrieved_ids": [
+        "Q13",
+        "Q14"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Agar kisi namaz ke wakt anaesthesia mein bhiho to Muslim ko scholars dhera pramaana hai. Hanafi madhab ke liye agar unconsciousness 5 baar zaban-e-keerani ho to qaza karni hoga, agar 6 baar ya doosri zaban-e-keerani ho to qaza nahi karni hoga. Shafi'i aur Maliki madhab ke liye unconsciousness mein namazein qaza nahi karni hoga. Hanbali madhab ke liye unconsciousness mein namazein qaza karni hoga, esp. agar anaesthesia voluntary ho jaye to.\n\nSource: Hanafi fiqh - https://seekersguidance.org/answers/hanafi-fiqh/making-up-prayers-missed-due-to-being-unconscious/\nHanbali fiqh - https://islamqa.org/hanafi/muftionline/94896/salaah-missed-due-to-being-in-a-coma/\n\nHanafi aur Hanbali madhaab ke liye anaesthesia mein bhiho qaza karni hoga, shafi'i aur maliki madhaab ke liye waha nahi qaza.",
+      "timestamp": "2026-10-11 07:18:28"
+    },
+    {
+      "id": "Q15",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein Ramadan ki wajah se zaroori surgery ko delay karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to delay a necessary surgery because of Ramadan?",
+      "retrieved_ids": [
+        "Q15",
+        "Q40"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ صرف یک جملے اور شرایط کے لیے رulings کو سادہ کرنے والے طور پر اجتناب کرتا ہوں، لیکن معلوم رulings پر اس نظر کرنے والے طور پر، یہ رulings تفصیلی طور پر اجتناب کرتے ہوں۔\n\nرulings: رامادن کی وجہ سے زیریس پزور کرنے کا اجازت نہ ہوگی۔ جب تک، زیریس کا تأخیر بے خرابی سے نہ کر۔ اگر تاخیر زیریس کو خراب کرنے والی چیز ہے، تو اس پر تأخیر کا نہ کونے والی ضرورت ہوگئی۔ زیریس کا عمل کیونکر خرابی ہوئی، تو اس پر تأخیر کا نہ کونے والی ضرورت ہوگئی۔ اس وقت تک، زیریس کا عمل کریں اور اگر لازم تو، فاتحہ تکنے کی ضرورت ہوگئی۔\n\nشرایط: زیریس کا عمل بے خرابی سے نہ تأخیر کر۔ اگر تاخیر زیریس کو خراب کرنے والی چیز ہے، تو اس پر تأخیر کا نہ کونے والی ضرورت ہوگئی۔ زیریس کا عمل کیونکر خرابی ہوئی، تو اس پر تأخیر کا نہ کونے والی ضرورت ہوگئی۔\n\nمعلوم رulings پر اس نظر کرنے والے طور پر، یہ رulings تفصیلی طور پر اجتناب کرتے ہوں۔",
+      "timestamp": "2026-10-11 07:18:46"
+    },
+    {
+      "id": "Q16",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Agar female doctor available na ho to kya Muslim aurat male doctor se surgery karwa sakti hai?",
+      "question_english": "Can a Muslim woman undergo surgery performed by a male doctor if no female doctor is available?",
+      "retrieved_ids": [
+        "Q16",
+        "Q11"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Permissible (Necessity)\nJab Muslim aurat ke liye apni treatment karna zaroori hota hai to male doctor se surgery kar sakti ho. Conditions: Exposure and contact are limited to what is medically needed, and a mahram or another woman must be present where possible to avoid seclusion.",
+      "timestamp": "2026-10-11 07:18:50"
+    },
+    {
+      "id": "Q17",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein cancer treatment ke baad reconstructive purpose ke liye cosmetic surgery jaiz hai?",
+      "question_english": "Is cosmetic surgery permissible in Islam for reconstructive purposes after cancer treatment?",
+      "retrieved_ids": [
+        "Q17",
+        "Q13"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ مکروها رulings کے لیے ایک سالنگ عبارت بیان کرden چاہتا ہوں:\n\nرulings: ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔\n\nموجود ترکیاتوں کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔\n\nموجود ترکیاتوں کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔\n\nموجود ترکیاتوں کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیوں سے بعيض مجاز ہوتی ہیں۔ ترقیاتیسائنس کے لئے پسندہتیو",
+      "timestamp": "2026-10-11 07:19:09"
+    },
+    {
+      "id": "Q18",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein patient ki jaan bachane ke liye cancerous organ nikalna jaiz hai?",
+      "question_english": "Is it permissible in Islam to remove a cancerous organ to save a patient's life?",
+      "retrieved_ids": [
+        "Q18",
+        "Q24"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Permissible\n\nYes, according to verified references, removing a cancerous organ to save the patient's life is permissible. This ruling comes from the International Islamic Fiqh Academy (OIC) resolution 67 (5/7), 1992. The principle of preserving life (hifz al-nafs) is considered one of the highest objectives in Islam. Removing a harmful part to protect the whole body is also a well-established principle.\n\nConditions that matter include:\n1. The patient's life is at risk due to the cancerous organ.\n2. Removal of the organ must be medically necessary and beneficial for the patient's health.\n\nSource: International Islamic Fiqh Academy (OIC), Resolution 67 (5/7), 1992 - medical treatment and patient consent",
+      "timestamp": "2026-10-11 07:19:17"
+    },
+    {
+      "id": "Q19",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Muslim patient religious wajah se surgery se inkaar kar sakta hai, chahe doctors kahein ke zaroori hai?",
+      "question_english": "Can a Muslim patient refuse surgery on religious grounds even if doctors say it is necessary?",
+      "retrieved_ids": [
+        "Q19",
+        "Q11"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Muslim patient may religious wajah se surgery se inkaar kar sakta hai, lakin yeh zaroori nahi hota. Scholars differ. Hanafi madhab ka maqool hai ke treatment zaroori hota hoga agar leave karne pe death, organ ka ruboob ya disability ho jaye. Islam ke liye treatment zaroori hota nahi, lakin yeh treatment zarurit mein ke liye ho sakta hai. Patient ki consent required hoti h, aur yeh treatment religious wajah se inkaar karne pe ho sakta hai.",
+      "timestamp": "2026-10-11 07:19:23"
+    },
+    {
+      "id": "Q20",
+      "category": "Surgery_Procedures",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein Jumma (Friday) ke din surgery karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to perform surgery on a Friday?",
+      "retrieved_ids": [
+        "Q20",
+        "Q41"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Jaiz (Permissible) in Islam surgery karna Friday ke din. Source: General fiqh consensus: nahi day-based restriction hai medical treatment ka.\n\nCondition: Patient aur staff ke liye Friday ki Jumu'ah namaz ko miss karne ka zaroorat nahi hoti. Patient ya staff apna treatment ke liye zarb kar sakta hai, fir Jumu'ah namaz ko miss karne ka zaroorat hoti. Uske liye Dhuhr namaz prayakar hota hai.",
+      "timestamp": "2026-10-11 07:19:29"
+    },
+    {
+      "id": "Q21",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein blood transfusion jaiz hai jab patient ki jaan khatre mein ho?",
+      "question_english": "Is blood transfusion permissible in Islam when a patient's life is at risk?",
+      "retrieved_ids": [
+        "Q21",
+        "Q07"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Permissible\n\nCondition: When blood transfusion is needed to save the patient's life or treat an illness.\n\nConditions that Matter: The necessity of saving the patient's life or treating their condition. Blood transfusion is permissible when it is required to save a patient's life or treat an illness, as stated by major fatwa bodies. Consuming blood is prohibited in Islam but transfusion is treatment under necessity, not consumption.\n\nSource: [1] Is blood transfusion permissible in Islam when a patient's life is at risk?",
+      "timestamp": "2026-10-11 07:19:34"
+    },
+    {
+      "id": "Q22",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Hanafi fiqh mein maut ke baad organ donation jaiz hai?",
+      "question_english": "Is organ donation after death permissible in Hanafi fiqh?",
+      "retrieved_ids": [
+        "Q22",
+        "Q23"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein maut ke baad organ donation jaiz nahi hai. Scholars differ (major Hanafi faqihi madhab aik maqasid mein). Major Hanafi faqihi madhaab aur Deoband fiqh mai organ donation maut ke baad nahi jaiz hota. Unke bharatein, organ body humaren ko prakar karamah ke hisaab se samna karke ek property nahi hota. \n\nYeh maqasid mein, International Islamic Fiqh Academy (Resolution 26) mai organ transplantation ko permit karaya gaya hai. Yeh maqasid mein, humare mai organ donation maut ke baad nahi kar saktein.",
+      "timestamp": "2026-10-11 07:19:42"
+    },
+    {
+      "id": "Q23",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya zinda Muslim kisi doosre ki jaan bachane ke liye apni ek kidney donate kar sakta hai?",
+      "question_english": "Can a living Muslim donate one kidney to save another person's life?",
+      "retrieved_ids": [
+        "Q23",
+        "Q24"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Zinda Muslim ko doosre ke joosen bachane ka khilafa, apni ek kidney donate karne ka ruling hai ma'ruf. Woh conditions mai milein: apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega aur apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega. Woh conditions mai milein ki apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega aur apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega. \n\nWoh conditions mai milein ki apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega aur apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega. \n\nWoh conditions mai milein ki apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega aur apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega. \n\nWoh conditions mai milein ki apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega aur apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega. \n\nWoh conditions mai milein ki apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega aur apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega. \n\nWoh conditions mai milein ki apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega aur apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jayega. \n\nWoh conditions mai milein ki apna joosen ke baare mein samjha kar, apne joosen ka khilafa ho jay",
+      "timestamp": "2026-10-11 07:20:01"
+    },
+    {
+      "id": "Q24",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein non-Muslim donor se organ lena jaiz hai?",
+      "question_english": "Is it permissible in Islam to receive an organ from a non-Muslim donor?",
+      "retrieved_ids": [
+        "Q24",
+        "Q23"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling in Islam, receiving an organ from a non-Muslim donor is permissible. This ruling comes from verified references such as the International Islamic Fiqh Academy (OIC) resolution 26 (1/4), 1988. Scholars who permit transplantation make no distinction between a Muslim and a non-Muslim donor. Receiving an organ from a non-Muslim is permissible.\n\nConditions that matter include free consent, no serious harm to the donor, and a genuine need for the organ.",
+      "timestamp": "2026-10-11 07:20:06"
+    },
+    {
+      "id": "Q25",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein bone marrow donation jaiz hai?",
+      "question_english": "Is bone marrow donation permissible in Islam?",
+      "retrieved_ids": [
+        "Q25",
+        "Q22"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling in one sentence: Bone marrow donation is permissible in Islam, provided it does not harm the donor and is not sold. The IIFA permits donating renewable tissue such as blood and marrow.\n\nConditions that matter:\n1. Bone marrow donation should not harm the donor.\n2. The donation must not be sold.\n\nConditions that matter (Hanafi school):\n1. It should not harm the donor.\n2. The donation must not be sold.\n\nConditions that matter (other schools):\n1. Bone marrow regenerates.\n2. It is renewable tissue.\n\nThis ruling comes from the International Islamic Fiqh Academy (OIC) resolution 26, which is based on the IIFA guidelines. These guidelines are followed by many Muslim scholars globally.",
+      "timestamp": "2026-10-11 07:20:14"
+    },
+    {
+      "id": "Q26",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Muslim family kisi marhoom family member ki taraf se organ donation ka consent de sakti hai jisne koi hidayat nahi chhodi?",
+      "question_english": "Can a Muslim family consent to organ donation on behalf of a deceased family member who left no instructions?",
+      "retrieved_ids": [
+        "Q26",
+        "Q12"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Muslim family can give consent for organ donation on behalf of a deceased family member who left no instructions. Scholars differ. IIFA (Resolution 26) permits transplanting organs from a deceased person with the consent of the heirs, provided the deceased did not object (or with authority approval if unidentified). Major Hanafi scholars like Deoband prohibit post-mortem donation and do not permit family consent.",
+      "timestamp": "2026-10-11 07:20:18"
+    },
+    {
+      "id": "Q27",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein pig se bana heart valve lena jaiz hai agar koi aur option na ho?",
+      "question_english": "Is it permissible in Islam to receive a pig-derived heart valve if no alternative exists?",
+      "retrieved_ids": [
+        "Q27",
+        "Q34"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling in Islam, receiving a pig-derived heart valve is permissible when no alternative exists. This ruling comes from verified reference [1]. The principle of necessity (al-darurat tubih al-mahzurat) allows for such a practice, as the goal is to save life. However, if an equally effective non-porcine alternative is available, it should be used instead.\n\nCondition: When no suitable alternative exists.",
+      "timestamp": "2026-10-11 07:20:23"
+    },
+    {
+      "id": "Q28",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Hanafi fiqh mein Ramadan ke roze ki halat mein blood donate karna jaiz hai?",
+      "question_english": "Is blood donation permissible during Ramadan fasting in Hanafi fiqh?",
+      "retrieved_ids": [
+        "Q28",
+        "Q23"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein Ramadan ke roze ki halat mein blood donation permissible hai, lekin itne khatrimana se zaroor khud ko zindagi ka qarz banane ke hisab se nahi karna chahiye. Unke liye conditions hai: khud ko zindagi ka qarz banane se zaroor nahi, unko free consent milega aur uske liye zindagi ka qarz banane ke hisab se haraz karna zaroori hai.",
+      "timestamp": "2026-10-11 07:20:29"
+    },
+    {
+      "id": "Q29",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Muslim kisi doosre mazhab ke shakhs se blood donation le sakta hai?",
+      "question_english": "Can a Muslim accept a blood donation from someone of another religion?",
+      "retrieved_ids": [
+        "Q29",
+        "Q25"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Muslim kisikis ke mazhab se blood donation le sakte hai, isliye wohi conditions pe bas ruk jao. Permissible hoga. Source: https://islamqa.info/en/answers/129113\n\nYeh woh same rules hain jo blood donation ki yaad rakha gaya gaya hai. Yeh woh same rules hain jo bone marrow donation pe Islam ka ruling permissible diye gaye gaye the. Yeh woh same rules hain jo International Islamic Fiqh Academy (OIC) ki Resolution 26 (1/4), 1988 pe diye gaye the. Yeh rules IIFA ki organ transplantation ka fikr kar sakte hai.",
+      "timestamp": "2026-10-11 07:20:36"
+    },
+    {
+      "id": "Q30",
+      "category": "Blood_Organ_Donation",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein paison ke liye khoon ya organs bechna jaiz hai?",
+      "question_english": "Is it permissible in Islam to sell blood or organs for money?",
+      "retrieved_ids": [
+        "Q30",
+        "Q26"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein paison ke liye khoon ya organs bechna jaiz nahi hai. Prophet Muhammed (PBUH) ka hadis sunnat-e-kiramah se banaya hai ki khoon ya organs bechna haram. IIFA (Resolution 26) ka madaris-e-umma ki fatwa dekhne ke bare mein, IIFA ki fatwa sunnat-e-kiramah se banaya hai ki khoon ya organs bechna haram. IIFA ka madaris-e-umma ki fatwa sunnat-e-kiramah se banaya hai ki khoon ya organs bechna haram. IIFA ka madaris-e-umma ki fatwa sunnat-e-kiramah se banaya hai ki khoon ya organs bechna haram.",
+      "timestamp": "2026-10-11 07:20:44"
+    },
+    {
+      "id": "Q31",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein aise strong painkillers dena jaiz hai jo terminal patient ki zindagi kam kar sakte hain?",
+      "question_english": "Is it permissible in Islam to use strong painkillers that may shorten a terminal patient's life?",
+      "retrieved_ids": [
+        "Q31",
+        "Q04"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling in Islam, it is permissible to use strong painkillers that may shorten a terminal patient's life, but this must be done with certain conditions. According to verified reference [1], the painkillers can be used if the intention is to relieve pain and not to hasten death. Additionally, the dosage must be medically appropriate.\n\nConditions that matter include:\n1. The intention should be to relieve pain, not to shorten life.\n2. The dosage must be medically appropriate.\n\nReference [1] cites https://islamqa.info/en/answers/299989 for this ruling.",
+      "timestamp": "2026-10-11 07:20:50"
+    },
+    {
+      "id": "Q32",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Muslim family doctors se terminally ill patient ka life support band karne ko keh sakti hai?",
+      "question_english": "Can a Muslim family request doctors to stop life support for a terminally ill patient?",
+      "retrieved_ids": [
+        "Q32",
+        "Q36"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Muslim family doctors se terminally ill patient ka life support band karne ke liye hai rulings mujhe yehi aata hai ki woh conditions mein permissible hoti hain. Ilaahat ka fikr permissable hai ki woh specialist doctors (3-ke pramukh ke, Saudi Permanent Committee ka) patient ki situaton hopeless ho jaye aur life support mere process pr palna hai. IIFA Resolution 17 ka fikr yeh hota ki woh resuscitation equipment ka band karne ke liye doctor ko permission do. \n\nSource: https://islamqa.info/en/answers/144476; International Islamic Fiqh Academy (OIC), Resolution 17 (5/3), Amman 1986 - resuscitation equipment and brain death\n\nYeh IIFA Resolution ke fikr se ek prashn hota ki woh brain death ka band karne ke liye doctor ko permission do. Yeh IIFA Resolution 17 ka fikr hota hai ki woh resuscitation equipment ka band karne ke liye doctor ko permission do.",
+      "timestamp": "2026-10-11 07:21:01"
+    },
+    {
+      "id": "Q33",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein kisi bhi halat mein euthanasia ya assisted dying jaiz hai?",
+      "question_english": "Is euthanasia or assisted dying permissible in Islam under any circumstances?",
+      "retrieved_ids": [
+        "Q33",
+        "Q38"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ عجیب سؤوال کو تیرنگ پر نظر گرفتار کرنے والی مدت سے بہاں رہنے کو انتظار کریں۔ معلومہ فتاوات نے اس موضوع پر بات سے بات کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بات سے بات کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بات سے بیان کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بیان کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بیان کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بیان کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بیان کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بیان کی گئی، انہوں نے کہا کہ اس موضوع پر مشورہ کی جانچ ہے۔\n\nمعلومہ فتاوات نے اس موضوع پر بیان کی گئی، انہوں نے کہا کہ",
+      "timestamp": "2026-10-11 07:21:20"
+    },
+    {
+      "id": "Q34",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Brain-dead patient ko life support par rakhne ke baare mein Islamic hukm kya hai?",
+      "question_english": "What is the Islamic ruling on keeping a brain-dead patient on life support?",
+      "retrieved_ids": [
+        "Q34",
+        "Q32"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic ruling on keeping a brain-dead patient on life support is that scholars differ. However, based on the references you provided and other sources, it seems permissible to keep a brain-dead patient on life support if specialist doctors (at least three) determine that the condition is hopeless and only prolongs the dying process. This decision should be made in consultation with a qualified mufti to ensure compliance with Islamic law and ethical considerations.",
+      "timestamp": "2026-10-11 07:21:25"
+    },
+    {
+      "id": "Q35",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islamic ethics ke mutabiq Muslim patient do-not-resuscitate (DNR) order likh sakta hai?",
+      "question_english": "Can a Muslim patient write a do-not-resuscitate order according to Islamic ethics?",
+      "retrieved_ids": [
+        "Q35",
+        "Q12"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic ethics permit Muslim patients to write a do-not-resuscitate (DNR) order in specific cases. Permissible only when competent specialist doctors, typically three, determine that resuscitation would be futile or solely prolong suffering in an irreversible terminal condition.",
+      "timestamp": "2026-10-11 07:21:29"
+    },
+    {
+      "id": "Q36",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein terminally ill patient ke liye mazeed treatment se inkaar karna jaiz hai?",
+      "question_english": "Is it permissible in Islam for a terminally ill patient to refuse further treatment?",
+      "retrieved_ids": [
+        "Q36",
+        "Q06"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ مکرaran کے لئے مزید تعلیم سے انکار کرنے پر اسلام میں جائز نہ ہے۔ بیرون مذاکرات کے لئے، اسلامی فیجہ نے تعلیم سے انکار کرنے پر جائزہ دلچسپی کو بیرون مذاکرات کے لئے اضافہ کیا ہے۔ بیرون مذاکرات کے لئے، اسلامی فیجہ نے تعلیم سے انکار کرنے پر جائزہ دلچسپی کو بیرون مذاکرات کے لئے اضافہ کیا ہے۔ بیرون مذاکرات کے لئے، اسلامی فیجہ نے تعلیم سے انکار کرنے پر جائزہ دلچسپی کو بیرون مذاکرات کے لئے اضافہ کیا ہے۔ بیرون مذاکرات کے لئے، اسلامی فیجہ نے تعلیم سے انکار کرنے پر جائزہ دلچسپی کو بیرون مذاکرات کے لئے اضافہ کیا ہے۔ بیرون مذاکرات کے لئے، اسلامی فیجہ نے تعلیم سے انکار کرنے پر جائزہ دلچسپی کو بیرون مذاکرات کے لئے اضافہ کیا ہے۔",
+      "timestamp": "2026-10-11 07:21:44"
+    },
+    {
+      "id": "Q37",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Hospital mein bhartee Muslim patient jo hil nahi sakta, apni chhooti hui namazon ko kaise handle kare?",
+      "question_english": "How should a Muslim patient handle missed prayers when hospitalized and unable to move?",
+      "retrieved_ids": [
+        "Q37",
+        "Q12"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Oa, yeh issue Hanafi madhab ke liye specific rulings hai. Hanafi school ke liye, agar Muslim patient apni chhooti hui namazon mein hil sakta nahi to uske liye apna salah head gestures ke hisaab se handle karna zaroorat hai. Agar uske liye head gestures bhi nahi kar sakta to uske liye salah deferred ho jaayegi. Uske liye apna salah head gestures ke hisaab se handle karne ka limit 5 salahon hai. Uske liye family ki apni consent nahi chahiye, Hanafi madhab ke liye.",
+      "timestamp": "2026-10-11 07:21:51"
+    },
+    {
+      "id": "Q38",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein marne wale patient ko aakhri ghanton mein aisi sedation dena jaiz hai jo uska hosh kam kar de?",
+      "question_english": "Is it permissible in Islam to give a dying patient sedation that reduces their consciousness in final hours?",
+      "retrieved_ids": [
+        "Q38",
+        "Q36"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein aakhri ghanton mein aise sedation dena permissible ho sakta hai, lekin yeh jaiz nahi hota. Yeh permit ho sakta hai ke woh sedation dene ki intilak zaroorat hoti hai aur ke yeh uska hayat kam karne par nazar nahi kare. Source: https://islamqa.info/en/answers/208491\n\nYeh permit ho sakta hai ke yeh sedation dene ki zaroorat hoti hai aur uske intilak ke woh patient ka hayat kam karne par nazar nahi kare. Yeh zaroorat hoti hai ke yeh sedation dene ki intilak uske hayat ka kam karne par nazar nahi kare. Source: https://islamqa.info/en/answers/208491",
+      "timestamp": "2026-10-11 07:21:59"
+    },
+    {
+      "id": "Q39",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Muslim ki maut ke baad autopsy (postmortem) ke baare mein Islamic hukm kya hai?",
+      "question_english": "What is the Islamic ruling on autopsy after a Muslim's death?",
+      "retrieved_ids": [
+        "Q39",
+        "Q12"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic rulings on autopsy after a Muslim's death are permissible when there is a genuine need. This includes cases such as forensic or criminal investigations, determining the cause of death, or identifying contagious diseases. The body must be treated with dignity and buried promptly. Dissection for purely teaching purposes is more disputed.\n\nSource: Islamic Fiqh Council (Muslim World League), 10th session, Makkah 1987 - autopsy; https://islamqa.info/en/answers/140779",
+      "timestamp": "2026-10-11 07:22:03"
+    },
+    {
+      "id": "Q40",
+      "category": "End_of_Life",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein medical investigation ke liye dafan (burial) mein deri karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to delay burial for medical investigation purposes?",
+      "retrieved_ids": [
+        "Q40",
+        "Q13"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Dafan mein deri karna zarurat ke liye permissibele hai. Sunnah ki sunnat hain apna dafan chalaya, lekin zaroorat ke liye deri karna permissible hai. Yeh zaroorat ek legally zarurati medical or forensic investigation ke liye ho sakti hai.\n\nSource: https://islamqa.info/en/answers/140779",
+      "timestamp": "2026-10-11 07:22:07"
+    },
+    {
+      "id": "Q41",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein kisi bhi halat mein gender reassignment surgery jaiz hai?",
+      "question_english": "Is gender reassignment surgery permissible in Islam under any circumstances?",
+      "retrieved_ids": [
+        "Q41",
+        "Q15"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ اسلام میں کسی بھی حالات میں گنس ریشن سائجکشن جائزہ نہیں۔ اگر کسی بھوئے گنسریشن سائجکشن کو جائزہ دینا پسند رہے گی، تو اس کو جائزہ نہ دینا۔ اسے گنسریشن سائجکشن کو جائزہ نہ دینا، بلکہ اسی کے لئے تحریر سائجکشن جائزہ ہو سکتی ہے۔ اسی کے لئے تحریر سائجکشن جائزہ ہو سکتی ہے۔ اس کے لئے تحریر سائجکشن جائزہ ہو سکتی ہے۔ اس کے لئے تحریر سائجکشن جائزہ ہو سکتی ہے۔",
+      "timestamp": "2026-10-11 07:22:14"
+    },
+    {
+      "id": "Q42",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein abortion jaiz hai agar pregnancy rape (zabardasti / sexual assault) ka nateeja ho?",
+      "question_english": "Is abortion permissible in Islam if the pregnancy results from rape (sexual assault)?",
+      "retrieved_ids": [
+        "Q42",
+        "Q43"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Is question mein, scholars differ. Hanafi madhab ke liye, abortion rape ka nateeja kaayegi early stages of pregnancy before 40 days. Aage badhaa ke, koi nateeja kaayegi before 120 days. Aage badhaa ke, koi nateeja hoga zindagi ka rishta rakhe hai. Ek madhab ke liye, abortion 120 days se aage badhaa ke zindagi ka rishta rakhe hai toh permissable hoga. Hanafi madhab ke liye, koi nateeja kaayegi zindagi ka rishta rakhe hai.",
+      "timestamp": "2026-10-11 07:22:19"
+    },
+    {
+      "id": "Q43",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein abortion jaiz hai agar foetus ko koi severe fatal medical condition ho?",
+      "question_english": "Is abortion permissible in Islam if the foetus has a severe fatal medical condition?",
+      "retrieved_ids": [
+        "Q43",
+        "Q47"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ مکル فیqh کی ترقی کے لحاظ سے اعلیہ مذاکرات (MWL) 1990 کی رجولت سے بات جس میں اعلیہ فیqh کی ترقی کے لحاظ سے پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار کو اسلام میں تحریر کرنے کی رجولت پیداوار",
+      "timestamp": "2026-10-11 07:22:33"
+    },
+    {
+      "id": "Q44",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Hanafi fiqh mein pregnancy ke 40 din se pehle abortion ka Islamic hukm kya hai?",
+      "question_english": "What is the Islamic ruling on abortion before 40 days of pregnancy in Hanafi fiqh?",
+      "retrieved_ids": [
+        "Q44",
+        "Q43"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein, pregnancy ke 40 din se pehle abortion ka hukm permisssion hai lekin maduressa ho sakti. Yani, mujhe apne aapke zindagi ka maduressa ho sakti. Agar apna doctor ne apne aapke zindagi ka maduressa ho sakti ya apna bayaan ka maduressa ho sakti to abortion permissibie hai. Agar apna zindagi ka maduressa ho sakti nahi hoti to woh permisssion likha hoga maduressa ho sakti. Ek doosra option hai apna zindagi ka maduressa ho sakti hota to abortion prohibitibie hai.",
+      "timestamp": "2026-10-11 07:22:40"
+    },
+    {
+      "id": "Q45",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein shaadi-shuda Muslim couple ke liye IVF jaiz hai?",
+      "question_english": "Is IVF permissible in Islam for a married Muslim couple?",
+      "retrieved_ids": [
+        "Q45",
+        "Q24"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Permissible with conditions. \n\nYes, if the sperm is from the husband and the egg from the wife, fertilization takes place during a valid marriage, and the embryo is implanted in the wife's own womb. Any third party (donor sperm, donor egg or surrogate womb) makes it prohibited according to IIFA Resolution 16. \n\nConditions that matter include:\n- Sperm from the husband\n- Egg from the wife\n- Fertilization during a valid marriage\n- Implantation in the wife's own womb\n\nConditions that are not mentioned but important include:\n- Valid marriage between husband and wife\n- No third-party involvement\n\nSource: International Islamic Fiqh Academy (OIC), Resolution 16 (4/3), 1986 - assisted reproduction; https://islamqa.info/en/answers/98604",
+      "timestamp": "2026-10-11 07:22:45"
+    },
+    {
+      "id": "Q46",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein surrogacy jaiz hai?",
+      "question_english": "Is surrogacy permissible in Islam?",
+      "retrieved_ids": [
+        "Q46",
+        "Q20"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ مکル فیا کے رulings پر مشکل ہے۔ اس میں سوال میں کئی نے مکل فیا کی رعاونہ پر مشکلات کو جناب بند کرنے کی تلاش کی ہے۔ مکل فیا نے اس پر مشکلات کو جناب بند کرنے کی رعاونہ پر مشکل تعرہ ہے۔ انہوں نے کہا کہ سوروغات اسلامی طور پر جائز نہ ہے۔ لیکن انہوں نے اس کی مشکلات کو جنسی تعلقات میں چاروانہ سے بند کرنے پر مشکل تلاش کیا ہے۔ اس سوال میں مکل فیا نے پانچویکہ رعاونہ کی ہے۔\n\nمکل فیا نے اس پر مشکلات کو جنسی تعلقات میں چاروانہ سے بند کرنے پر مشکل تلاش کیا ہے۔ اس سوال میں مکل فیا نے پانچویکہ رعاونہ کی ہے۔ اس سوال میں مکل فیا نے پانچویکہ رعاونہ کی ہے۔ اس سوال میں مکل فیا نے پانچویکہ رعاونہ کی ہے۔ اس سوال میں مکل فیا نے پانچویکہ رعاونہ کی ہے۔",
+      "timestamp": "2026-10-11 07:22:58"
+    },
+    {
+      "id": "Q47",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein prenatal genetic testing jaiz hai?",
+      "question_english": "Is prenatal genetic testing permissible in Islam?",
+      "retrieved_ids": [
+        "Q47",
+        "Q20"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ کلمات اور متن من ربط کرلے حکم بیان کریں:\n\nحکمت: اسلام میں پیرناتین گینتیک تیسترینگ جائزہ ہے۔\n\nمثبت عناصر:\n1. پیرناتین گینتیک تیسترینگ اور سنسری جائزہ ہے۔\n2. پیرناتین تیسترینگ کے لئے اورپر چارہیں جائزہ ہیں۔\n3. اورپر کرنے پر تیسترینگ نتیجہ سے بنا کر اسپر چارہیں۔\n4. اورپر کرنے پر جائزہ ہے۔\n\nمتن میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں اسلامی عقلیت کے ذریعہ تفصیل بیان کرتے ہوئے، اس میں",
+      "timestamp": "2026-10-11 07:23:12"
+    },
+    {
+      "id": "Q48",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein maa ki sehat ki hifazat ke liye contraception use karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to use contraception to protect the mother's health?",
+      "retrieved_ids": [
+        "Q48",
+        "Q08"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ عزیز کے سامان سے متعلق امر پر، حکیم انگلستان کی ترقیاتوں میں اور عالمی اسلامی فیج کی آئین میں چاروں طرفاں پیدا ہو رہے ہیں۔ ایم سی این میں، کہاں ترقیاتوں میں چاروں طرفاں پیدا ہو رہے ہیں۔\n\n- ایم سی ان، میں کہتے ہیں کہ اس کے لئے جائز ہے۔\n\n- میں ترقیاتوں میں اور عالمی فیج کی آئین میں چاروں طرفاں پیدا ہو رہے ہیں۔\n\n- ایم سی ان کے پاس ترقیاتوں میں چاروں طرفاں کے لئے جائزہ اور میں ترقیاتوں میں چاروں طرفاں کے لئے نہ جائزہ۔\n\n- ایم سی ان، میں ترقیاتوں میں چاروں طرفاں کے لئے نہ جائزہ۔\n\n- ایم سی ان، میں ترقیاتوں میں چاروں طرفاں کے لئے جائزہ۔",
+      "timestamp": "2026-10-11 07:23:24"
+    },
+    {
+      "id": "Q49",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein vasectomy ya permanent sterilization jaiz hai?",
+      "question_english": "Is vasectomy or permanent sterilization permissible in Islam?",
+      "retrieved_ids": [
+        "Q49",
+        "Q32"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Ruling: Not permissible (except in necessity).\nPermanent sterilization, seperti vasectomy ya tubal ligation, Islam mein jaiz nahi hai. Leke tarika ke zaroorat mein - agar mufti aur ulema ne baarein shukrana aur yad-e-umra ki zaroorat mein samajh di hai, to uske tarha jaiz hota hai. Trustworthy doctors ki shukrana aur yad-e-umra ki zaroorat mein, vasectomy ya tubal ligation k baarein mufti aur ulema ne zaroorat mein samajh di hai ki yeh jaiz hota hai. (Refer to IIFA Resolution 39 for more details.)",
+      "timestamp": "2026-10-11 07:23:30"
+    },
+    {
+      "id": "Q50",
+      "category": "Controversial_Ethics",
+      "condition": "grounded",
+      "language": "hinglish",
+      "question": "Kya Islam mein mental health treatment, jismein psychiatric medication bhi shamil hai, jaiz hai?",
+      "question_english": "Is mental health treatment including psychiatric medication permissible in Islam?",
+      "retrieved_ids": [
+        "Q50",
+        "Q48"
+      ],
+      "retrieval_hit": true,
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "یہ رفتار متعلقہ تعلیم کے لئے ایک عرفاتلی سالنہ رفتار: مسمومیت کے تعلیم کے حصے میں، پارکسیشنٹیکر اور سینٹریل میڈیکیشن کے شامل تعلیم کو اسلام میں جائزہ ہے۔\n\nمنحرفت: پارکسیشنٹیکر اور سینٹریل میڈیکیشن کے شامل تعلیم کو اسلام میں جائزہ ہے۔ پارکسیشنٹیکر کو مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔\n\nمکمل تعلیم: اسلام میں پارکسیشنٹیکر کو سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔\n\nمکمل تعلیم: اسلام میں پارکسیشنٹیکر کو سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس میں مسمومیت کے سامنے جائزہ ہوتی ہے۔ اس",
+      "timestamp": "2026-10-11 07:23:45"
+    }
+  ]
+}

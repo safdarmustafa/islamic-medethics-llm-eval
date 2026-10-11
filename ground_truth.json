@@ -1,0 +1,763 @@
+{
+  "ground_truth": [
+    {
+      "id": "Q01",
+      "question": "Can a cancer patient take chemotherapy pills during Ramadan fasting according to Hanafi fiqh?",
+      "ruling": "Permissible (fast is broken; make up later)",
+      "school": "Hanafi",
+      "correct_answer": "Swallowing chemotherapy pills breaks the fast in the Hanafi school (and all schools), because medicine reaches the stomach through the mouth. However, a cancer patient is permitted not to fast when fasting would harm them or interfere with treatment. They make up (qada) the missed days later; if recovery is not expected, they pay fidya (feeding one poor person per day) instead.",
+      "key_points": [
+        "oral medication breaks the fast",
+        "illness is a valid excuse not to fast",
+        "qada later, or fidya if no hope of recovery"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/221329",
+        "Qur'an 2:184-185 (concession for the sick; fidya for those unable to fast)"
+      ]
+    },
+    {
+      "id": "Q02",
+      "question": "Does receiving a chemotherapy injection through a vein break the fast in the Hanafi school?",
+      "ruling": "Does not break the fast",
+      "school": "Hanafi",
+      "correct_answer": "According to contemporary Hanafi muftis, intravenous or intramuscular injections, including chemotherapy, do not break the fast. The substance enters the bloodstream rather than reaching the stomach or brain through a natural opening (manfadh). Some muftis consider purely nutritional IV infusions disliked during the fast.",
+      "key_points": [
+        "IV injection does not break the fast (Hanafi)",
+        "reason: not through a natural opening into the stomach"
+      ],
+      "sources": [
+        "https://islamqa.org/hanafi/darulihsan/76643/ramadan-faqs-medical/",
+        "https://islamqa.org/hanafi/themufti/178721/does-vitamin-injections-and-drips-break-the-fast/",
+        "https://islamqa.info/en/answers/65632"
+      ]
+    },
+    {
+      "id": "Q03",
+      "question": "Can a diabetic Muslim break their Ramadan fast to take insulin?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Insulin is given by subcutaneous injection, which does not break the fast according to the majority of contemporary scholars and the International Islamic Fiqh Academy. A diabetic for whom fasting poses a real health risk (e.g. hypoglycaemia) is permitted, and may be obliged, not to fast. They make up the days later, or pay fidya if the condition is chronic.",
+      "key_points": [
+        "insulin injection itself does not break the fast",
+        "if fasting endangers health, breaking the fast is permitted",
+        "qada or fidya"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/37892",
+        "International Islamic Fiqh Academy (OIC), Resolution 93 (1/10), 1997 - matters that do not invalidate the fast",
+        "Qur'an 2:184-185 (concession for the sick; fidya for those unable to fast)"
+      ]
+    },
+    {
+      "id": "Q04",
+      "question": "If a patient takes painkillers during Ramadan because of severe pain, is their fast broken?",
+      "ruling": "Oral painkillers break the fast; breaking it for severe pain is permissible",
+      "school": "All schools",
+      "correct_answer": "Swallowing painkiller tablets breaks the fast. However, severe pain is a valid excuse to break the fast. The patient may take the medication and make up the day later, and is not sinful or liable for expiation (kaffara). Painkillers given by injection or through the skin do not break the fast.",
+      "key_points": [
+        "oral painkillers break the fast",
+        "severe pain is a valid excuse",
+        "make up the day; no kaffara"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/108414",
+        "Qur'an 2:184-185 (concession for the sick; fidya for those unable to fast)"
+      ]
+    },
+    {
+      "id": "Q05",
+      "question": "Can a Muslim patient use a morphine patch for cancer pain during Ramadan without breaking the fast?",
+      "ruling": "Does not break the fast",
+      "school": "All schools",
+      "correct_answer": "A transdermal morphine patch does not break the fast. The medicine is absorbed through the skin and does not enter the stomach through a natural opening. The International Islamic Fiqh Academy lists substances absorbed through the skin (ointments, patches) among things that do not invalidate the fast. Using morphine for genuine pain relief is permissible.",
+      "key_points": [
+        "skin absorption does not break the fast",
+        "medical morphine use is permissible"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 93 (1/10), 1997 - matters that do not invalidate the fast",
+        "https://islamqa.info/en/answers/299989"
+      ]
+    },
+    {
+      "id": "Q06",
+      "question": "Is it permissible in Islam for a terminally ill patient to stop fasting permanently?",
+      "ruling": "Permissible (fidya required)",
+      "school": "All schools",
+      "correct_answer": "Yes. A person with a terminal or chronic illness with no hope of recovery is exempt from fasting. Instead, they pay fidya: feeding one poor person for each day missed. This is based on Qur'an 2:184 and agreed upon by the four schools.",
+      "key_points": [
+        "exempt from fasting",
+        "fidya for each day",
+        "Qur'an 2:184"
+      ],
+      "sources": [
+        "Qur'an 2:184-185 (concession for the sick; fidya for those unable to fast)",
+        "https://islamqa.info/en/answers/97798"
+      ]
+    },
+    {
+      "id": "Q07",
+      "question": "Does receiving a blood transfusion during Ramadan break the fast according to Hanafi scholars?",
+      "ruling": "Does not break the fast",
+      "school": "Hanafi",
+      "correct_answer": "In the Hanafi school, receiving a blood transfusion does not break the fast, because it enters the bloodstream and not the stomach or brain through a natural opening. A patient whose condition requires a transfusion may in any case be excused from fasting.",
+      "key_points": [
+        "transfusion does not break the fast (Hanafi)",
+        "bloodstream, not natural opening"
+      ],
+      "sources": [
+        "https://www.tafseer-raheemi.com/masaail-of-ramadhan-differences-between-the-hanafi-fiqh-and-salafi-fiqh",
+        "International Islamic Fiqh Academy (OIC), Resolution 93 (1/10), 1997 - matters that do not invalidate the fast"
+      ]
+    },
+    {
+      "id": "Q08",
+      "question": "Can a Muslim patient use an asthma inhaler while fasting in Ramadan?",
+      "ruling": "Scholars Differ",
+      "school": "Hanafi vs. others",
+      "correct_answer": "Scholars differ. Darul Uloom Deoband and other Hanafi authorities hold that an asthma inhaler breaks the fast, because medicine particles reach the throat through the mouth. The patient may use it in case of need and make up the fast later, with no kaffara. Ibn Baz, Ibn 'Uthaymin, islamqa.info and the International Islamic Fiqh Academy hold that the inhaler does not break the fast.",
+      "key_points": [
+        "Hanafi (Deoband): inhaler breaks the fast, make up later",
+        "others/IIFA: does not break",
+        "use is permitted when needed"
+      ],
+      "sources": [
+        "https://islamqa.org/hanafi/darulifta-deoband/111048/can-i-use-a-pump-while-fasting-if-i-suffer-from-asthma/",
+        "https://islamqa.org/hanafi/qibla-hanafi/35229/if-one-has-asthma-and-must-use-an-inhaler-do-they-have-to-fast-2/",
+        "https://islamqa.info/en/answers/37650",
+        "International Islamic Fiqh Academy (OIC), Resolution 93 (1/10), 1997 - matters that do not invalidate the fast"
+      ]
+    },
+    {
+      "id": "Q09",
+      "question": "Is it permissible for a cancer patient to eat during Ramadan if fasting causes serious harm?",
+      "ruling": "Permissible (obligatory if serious harm)",
+      "school": "All schools",
+      "correct_answer": "Yes. If fasting would cause serious harm, the cancer patient is permitted, and according to many scholars obliged, to eat. Harming oneself is prohibited (Qur'an 2:195, 4:29). The days are made up later, or fidya is paid if recovery is not expected.",
+      "key_points": [
+        "permitted, even obligatory, when fasting causes harm",
+        "qada or fidya"
+      ],
+      "sources": [
+        "Qur'an 2:184-185 (concession for the sick; fidya for those unable to fast)",
+        "https://islamqa.info/en/answers/221329"
+      ]
+    },
+    {
+      "id": "Q10",
+      "question": "Does an IV drip administered during Ramadan invalidate the fast in Hanafi fiqh?",
+      "ruling": "Does not break the fast",
+      "school": "Hanafi",
+      "correct_answer": "Mainstream contemporary Hanafi muftis hold that an IV drip does not break the fast, whatever its content, because it enters the bloodstream rather than the stomach through a natural opening. Some Hanafi muftis regard nutritional drips as disliked (makruh). The IIFA (non-school-specific) considers nutritional injections to break the fast.",
+      "key_points": [
+        "IV drip does not break the fast (Hanafi)",
+        "nutritional drips: disliked or disputed"
+      ],
+      "sources": [
+        "https://islamqa.org/hanafi/darulihsan/76643/ramadan-faqs-medical/",
+        "https://islamqa.org/hanafi/themufti/178721/does-vitamin-injections-and-drips-break-the-fast/",
+        "International Islamic Fiqh Academy (OIC), Resolution 93 (1/10), 1997 - matters that do not invalidate the fast"
+      ]
+    },
+    {
+      "id": "Q11",
+      "question": "Is it permissible in Islam for a Muslim to undergo surgery that carries a risk of death?",
+      "ruling": "Permissible with conditions",
+      "school": "All schools",
+      "correct_answer": "Seeking treatment is permitted and encouraged in Islam. Surgery that carries a risk of death is permissible if competent doctors judge that its expected benefit outweighs the risk (the dominant likelihood of benefit). Recklessly exposing oneself to death without a medical justification is not permitted. The patient's informed consent is required.",
+      "key_points": [
+        "permissible if benefit outweighs risk per competent doctors",
+        "informed consent"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 67 (5/7), 1992 - medical treatment and patient consent",
+        "https://islamqa.info/en/answers/2438"
+      ]
+    },
+    {
+      "id": "Q12",
+      "question": "Can a Muslim patient consent to surgery without informing their family according to Islamic ethics?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. For a competent adult patient, Islamic ethics require the patient's own informed consent; the family's consent or knowledge is not a condition. Consulting family is recommended. Family or guardian consent is needed only when the patient lacks capacity (a minor, or unconscious) — IIFA Resolution 67.",
+      "key_points": [
+        "competent adult's own consent suffices",
+        "family consent required only if patient lacks capacity"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 67 (5/7), 1992 - medical treatment and patient consent"
+      ]
+    },
+    {
+      "id": "Q13",
+      "question": "Is general anaesthesia during surgery permissible in Islam?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "General anaesthesia for surgery is permissible by consensus of contemporary scholars. Intoxicants are forbidden, but anaesthesia for medical necessity is excluded from that prohibition because it serves a recognised medical purpose.",
+      "key_points": [
+        "permissible for medical need",
+        "not covered by the intoxicant prohibition"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/208491"
+      ]
+    },
+    {
+      "id": "Q14",
+      "question": "Does being under anaesthesia during prayer time require a Muslim to make up missed prayers?",
+      "ruling": "Scholars Differ",
+      "school": "Hanafi vs. others",
+      "correct_answer": "Scholars differ. Hanafi: if the unconsciousness lasts for five obligatory prayers or fewer, they must be made up; if longer (six or more), they are waived. Shafi'i and Maliki: prayers missed while unconscious need not be made up. Hanbali: they must be made up, especially when the unconsciousness is induced voluntarily, as with anaesthesia.",
+      "key_points": [
+        "Hanafi: make up if five prayers or fewer; waived if more",
+        "Shafi'i/Maliki: no make-up",
+        "Hanbali: make up"
+      ],
+      "sources": [
+        "https://seekersguidance.org/answers/hanafi-fiqh/making-up-prayers-missed-due-to-being-unconscious/",
+        "https://islamqa.org/hanafi/muftionline/94896/salaah-missed-due-to-being-in-a-coma/"
+      ]
+    },
+    {
+      "id": "Q15",
+      "question": "Is it permissible in Islam to delay a necessary surgery because of Ramadan?",
+      "ruling": "Not permissible if delay causes harm",
+      "school": "All schools",
+      "correct_answer": "If delaying the surgery until after Ramadan would worsen the illness, delay recovery or cause harm, it should not be delayed. The patient should have the surgery and, if needed, break the fast and make it up later. If the surgery is truly elective and delay causes no harm, postponing it is permissible.",
+      "key_points": [
+        "do not delay if delay causes harm",
+        "fast may be broken for surgery and made up",
+        "elective surgery may be postponed"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/250902"
+      ]
+    },
+    {
+      "id": "Q16",
+      "question": "Can a Muslim woman undergo surgery performed by a male doctor if no female doctor is available?",
+      "ruling": "Permissible (necessity)",
+      "school": "All schools",
+      "correct_answer": "Yes. When no competent female doctor is available, a Muslim woman may be treated or operated on by a male doctor due to necessity. Conditions: exposure and contact are limited to what is medically needed, and a mahram or another woman is present where possible, to avoid seclusion.",
+      "key_points": [
+        "permissible due to necessity",
+        "limit exposure to need",
+        "avoid seclusion / mahram present"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/2152"
+      ]
+    },
+    {
+      "id": "Q17",
+      "question": "Is cosmetic surgery permissible in Islam for reconstructive purposes after cancer treatment?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Reconstructive surgery after cancer treatment (e.g. breast reconstruction after mastectomy) is permissible. It restores the body to its normal created form and removes a defect; it does not change Allah's creation for vanity.",
+      "key_points": [
+        "reconstructive surgery is permissible",
+        "restoring normal form vs. cosmetic vanity"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/138273"
+      ]
+    },
+    {
+      "id": "Q18",
+      "question": "Is it permissible in Islam to remove a cancerous organ to save a patient's life?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. Removing a cancerous organ to save the patient's life is permissible, and may be obligatory, because preserving life (hifz al-nafs) is one of the highest objectives of the Shari'ah. Removing a harmful part to protect the whole body is a well-established principle.",
+      "key_points": [
+        "permissible, preservation of life",
+        "removing harm to save the body"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 67 (5/7), 1992 - medical treatment and patient consent"
+      ]
+    },
+    {
+      "id": "Q19",
+      "question": "Can a Muslim patient refuse surgery on religious grounds even if doctors say it is necessary?",
+      "ruling": "Scholars Differ",
+      "school": "All schools",
+      "correct_answer": "Classical majority (including Hanafi): seeking treatment is generally not obligatory, so a patient may decline. However, IIFA Resolution 67 states treatment becomes obligatory when leaving it would lead to death, loss of an organ or disability. Islam provides no religious ground for refusing necessary life-saving surgery. The patient's consent remains required, and refusal on mistaken religious grounds should be corrected.",
+      "key_points": [
+        "no valid religious ground to refuse necessary surgery",
+        "IIFA: treatment obligatory if refusal leads to death/loss of organ",
+        "classical view: treatment not strictly obligatory"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 67 (5/7), 1992 - medical treatment and patient consent",
+        "https://islamqa.info/en/answers/2438"
+      ]
+    },
+    {
+      "id": "Q20",
+      "question": "Is it permissible in Islam to perform surgery on a Friday?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. There is no prohibition in Islam against surgery on a Friday. Medical staff and patients should not miss the Jumu'ah prayer without need. A patient, or staff engaged in necessary care, is excused, and those who miss Jumu'ah pray Dhuhr instead.",
+      "key_points": [
+        "no prohibition",
+        "Jumu'ah excused for patient/necessary care; pray Dhuhr"
+      ],
+      "sources": [
+        "General fiqh consensus: no day-based restriction on medical treatment"
+      ]
+    },
+    {
+      "id": "Q21",
+      "question": "Is blood transfusion permissible in Islam when a patient's life is at risk?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. Blood transfusion is permissible when needed to save life or treat illness, as stated by the major fatwa bodies. Consuming blood is prohibited, but transfusion is treatment under necessity, not consumption.",
+      "key_points": [
+        "permissible when needed",
+        "necessity"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/2320"
+      ]
+    },
+    {
+      "id": "Q22",
+      "question": "Is organ donation after death permissible in Hanafi fiqh?",
+      "ruling": "Scholars Differ (major Hanafi authorities: not permissible)",
+      "school": "Hanafi",
+      "correct_answer": "Scholars differ. Major Hanafi authorities in South Asia, such as Darul Uloom Deoband, do not permit organ donation after death. They argue the human body is not one's property and its dignity must be preserved (karamah). The International Islamic Fiqh Academy (Resolution 26) and many other scholars permit it with consent, to save lives.",
+      "key_points": [
+        "Hanafi (Deoband): not permissible, body not owned / human dignity",
+        "IIFA and others: permissible with consent"
+      ],
+      "sources": [
+        "https://islamqa.org/hanafi/darulifta-deoband/25402/is-it-permissible-to-donate-organs-before-or-after-death-according-to-islamic-teaching/",
+        "International Islamic Fiqh Academy (OIC), Resolution 26 (1/4), 1988 - organ transplantation",
+        "https://islamqa.info/en/answers/107690"
+      ]
+    },
+    {
+      "id": "Q23",
+      "question": "Can a living Muslim donate one kidney to save another person's life?",
+      "ruling": "Permissible with conditions (majority); some Hanafi scholars prohibit",
+      "school": "All schools",
+      "correct_answer": "The majority of contemporary scholars and the International Islamic Fiqh Academy (Resolution 26) permit a living person to donate a kidney. Conditions: no serious harm to the donor, free consent, a genuine need, and no sale. Some Hanafi authorities (e.g. Deoband) do not permit organ donation even from the living.",
+      "key_points": [
+        "permissible per IIFA/majority",
+        "conditions: no serious harm, consent, no sale",
+        "some Hanafi prohibit"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 26 (1/4), 1988 - organ transplantation",
+        "https://islamqa.info/en/answers/107690"
+      ]
+    },
+    {
+      "id": "Q24",
+      "question": "Is it permissible in Islam to receive an organ from a non-Muslim donor?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. Scholars who permit transplantation make no distinction between a Muslim and a non-Muslim donor. Receiving an organ from a non-Muslim is permissible.",
+      "key_points": [
+        "no distinction between Muslim and non-Muslim donor"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/2117",
+        "International Islamic Fiqh Academy (OIC), Resolution 26 (1/4), 1988 - organ transplantation"
+      ]
+    },
+    {
+      "id": "Q25",
+      "question": "Is bone marrow donation permissible in Islam?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. Bone marrow donation is permissible, provided it does not harm the donor and is not sold. Bone marrow regenerates, and the IIFA permits donating renewable tissue such as blood and marrow.",
+      "key_points": [
+        "permissible",
+        "regenerative tissue",
+        "no harm, no sale"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/152447",
+        "International Islamic Fiqh Academy (OIC), Resolution 26 (1/4), 1988 - organ transplantation"
+      ]
+    },
+    {
+      "id": "Q26",
+      "question": "Can a Muslim family consent to organ donation on behalf of a deceased family member who left no instructions?",
+      "ruling": "Scholars Differ",
+      "school": "All schools",
+      "correct_answer": "Scholars differ. The IIFA (Resolution 26) permits transplanting organs from a deceased person with the consent of the heirs, provided the deceased did not object (or with authority approval if unidentified). Scholars who prohibit post-mortem donation, including major Hanafi authorities such as Deoband, do not permit the family to consent.",
+      "key_points": [
+        "IIFA: permissible with heirs' consent if deceased did not object",
+        "Hanafi (Deoband) and others: not permissible"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 26 (1/4), 1988 - organ transplantation",
+        "https://islamqa.info/en/answers/107690"
+      ]
+    },
+    {
+      "id": "Q27",
+      "question": "Is it permissible in Islam to receive a pig-derived heart valve if no alternative exists?",
+      "ruling": "Permissible (necessity)",
+      "school": "All schools",
+      "correct_answer": "Yes, when no suitable alternative exists. Porcine heart valves are permitted under the principle of necessity (al-darurat tubih al-mahzurat), since the aim is to save life. If an equally effective non-porcine alternative is available, it should be used instead.",
+      "key_points": [
+        "permissible by necessity",
+        "use alternative if available"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/93212"
+      ]
+    },
+    {
+      "id": "Q28",
+      "question": "Is blood donation permissible during Ramadan fasting in Hanafi fiqh?",
+      "ruling": "Permissible (does not break the fast in Hanafi fiqh)",
+      "school": "Hanafi",
+      "correct_answer": "In the Hanafi school, drawing or donating blood does not break the fast (unlike the Hanbali view, which treats cupping and large blood loss as invalidating). It is permissible, but it should be avoided or delayed until after iftar if it would weaken the person enough to endanger the fast.",
+      "key_points": [
+        "does not break the fast (Hanafi)",
+        "avoid if it weakens; Hanbali view differs"
+      ],
+      "sources": [
+        "https://islamqa.org/hanafi/askmufti/45020/blood-test-while-fasting/",
+        "https://islamqa.org/hanafi/daruliftaamw/134458/ramadhan-faq-2/"
+      ]
+    },
+    {
+      "id": "Q29",
+      "question": "Can a Muslim accept a blood donation from someone of another religion?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. A Muslim may receive blood donated by a person of another religion. There is no religious restriction based on the donor's faith.",
+      "key_points": [
+        "permissible",
+        "donor's religion irrelevant"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/129113"
+      ]
+    },
+    {
+      "id": "Q30",
+      "question": "Is it permissible in Islam to sell blood or organs for money?",
+      "ruling": "Not Permissible",
+      "school": "All schools",
+      "correct_answer": "Selling blood or organs is not permissible: the Prophet forbade the price of blood (al-Bukhari), and the IIFA (Resolution 26) prohibits trading in human organs. If a patient in genuine need cannot obtain them otherwise, the buyer may pay, and the sin is on the seller.",
+      "key_points": [
+        "selling is haram",
+        "hadith on price of blood / IIFA 26",
+        "buyer in necessity excused"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/38605",
+        "International Islamic Fiqh Academy (OIC), Resolution 26 (1/4), 1988 - organ transplantation"
+      ]
+    },
+    {
+      "id": "Q31",
+      "question": "Is it permissible in Islam to use strong painkillers that may shorten a terminal patient's life?",
+      "ruling": "Permissible with conditions",
+      "school": "All schools",
+      "correct_answer": "Yes, if the intention is to relieve pain, not to hasten death, and the dosage is medically appropriate. Strong painkillers such as morphine may be used for severe pain even if they might indirectly shorten life (the principle of intention / double effect). Deliberately giving a dose intended to kill is prohibited.",
+      "key_points": [
+        "permissible for pain relief",
+        "intention must not be to hasten death",
+        "deliberate lethal dose prohibited"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/299989"
+      ]
+    },
+    {
+      "id": "Q32",
+      "question": "Can a Muslim family request doctors to stop life support for a terminally ill patient?",
+      "ruling": "Permissible with conditions",
+      "school": "All schools",
+      "correct_answer": "Yes, when specialist doctors (commonly three, per the Saudi Permanent Committee) determine that the patient's condition is hopeless and life support only prolongs the dying process. IIFA Resolution 17 also permits withdrawing life-support equipment from a patient declared brain-dead.",
+      "key_points": [
+        "permissible when specialists confirm futility",
+        "not to be withdrawn while recovery is possible"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/144476",
+        "International Islamic Fiqh Academy (OIC), Resolution 17 (5/3), Amman 1986 - resuscitation equipment and brain death"
+      ]
+    },
+    {
+      "id": "Q33",
+      "question": "Is euthanasia or assisted dying permissible in Islam under any circumstances?",
+      "ruling": "Not Permissible",
+      "school": "All schools",
+      "correct_answer": "No. Active euthanasia and physician-assisted suicide are prohibited under all circumstances, by consensus of Muslim scholars and fatwa bodies. Life belongs to Allah, and killing oneself or others is forbidden (Qur'an 4:29, 17:33). Withholding futile treatment is distinct and may be permitted.",
+      "key_points": [
+        "forbidden in all circumstances",
+        "distinction from withholding futile treatment"
+      ],
+      "sources": [
+        "Qur'an 4:29; 17:33",
+        "International Islamic Fiqh Academy (OIC), Resolution 17 (5/3), Amman 1986 - resuscitation equipment and brain death"
+      ]
+    },
+    {
+      "id": "Q34",
+      "question": "What is the Islamic ruling on keeping a brain-dead patient on life support?",
+      "ruling": "Scholars Differ",
+      "school": "All schools",
+      "correct_answer": "Scholars differ. IIFA Resolution 17 (Amman, 1986) holds that a person whose brain functions have irreversibly ceased is legally dead, so life-support equipment may be switched off. Other scholars, including some fatwa councils, do not consider brain death equivalent to death until the heart stops, though they allow withdrawing futile support.",
+      "key_points": [
+        "IIFA: brain death = death, support may be removed",
+        "other scholars: not dead until cardiac death"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 17 (5/3), Amman 1986 - resuscitation equipment and brain death",
+        "https://islamqa.info/en/answers/144476"
+      ]
+    },
+    {
+      "id": "Q35",
+      "question": "Can a Muslim patient write a do-not-resuscitate order according to Islamic ethics?",
+      "ruling": "Permissible in specific cases",
+      "school": "All schools",
+      "correct_answer": "A DNR order is permissible only in specific cases: when competent specialist doctors (typically three) determine that resuscitation would be futile or would only prolong suffering in an irreversible terminal condition. It is not permissible as a general advance refusal while recovery is possible.",
+      "key_points": [
+        "only when specialists confirm resuscitation is futile",
+        "not as blanket refusal"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/115104"
+      ]
+    },
+    {
+      "id": "Q36",
+      "question": "Is it permissible in Islam for a terminally ill patient to refuse further treatment?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. In the majority view, seeking treatment is not strictly obligatory, especially when it is burdensome and not expected to cure. A terminally ill patient may decline further futile treatment while continuing basic care (food, fluids, pain relief).",
+      "key_points": [
+        "permissible to refuse futile treatment",
+        "basic care continues"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/2438",
+        "International Islamic Fiqh Academy (OIC), Resolution 67 (5/7), 1992 - medical treatment and patient consent"
+      ]
+    },
+    {
+      "id": "Q37",
+      "question": "How should a Muslim patient handle missed prayers when hospitalized and unable to move?",
+      "ruling": "Obligatory to pray according to ability",
+      "school": "All schools",
+      "correct_answer": "Prayer is not dropped while the patient is conscious. They pray as they are able: standing, then sitting, then lying down, using head gestures (and eye gestures in the non-Hanafi schools). They perform tayammum if wudu is not possible. Hanafi: if the patient cannot even gesture with the head, the prayer is deferred; if this lasts more than five prayers, those prayers are waived. Prayers missed due to inability are made up when able, within that limit.",
+      "key_points": [
+        "pray according to ability (sitting/lying/gestures)",
+        "tayammum if needed",
+        "Hanafi: inability to gesture for more than five prayers waives them"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/140773",
+        "https://islamqa.org/hanafi/daruliftaa-birmingham/245084/if-a-woman-has-had-a-stroke-and-she-is-bedridden-does-she-need-to-pray-her-salah/"
+      ]
+    },
+    {
+      "id": "Q38",
+      "question": "Is it permissible in Islam to give a dying patient sedation that reduces their consciousness in final hours?",
+      "ruling": "Permissible with conditions",
+      "school": "All schools",
+      "correct_answer": "Yes, when needed to relieve severe suffering, provided the intention is not to hasten death. Where possible, the patient should first be given the opportunity to fulfil obligations such as prayer, repentance, bequests and the shahada.",
+      "key_points": [
+        "permissible to relieve suffering",
+        "not to hasten death",
+        "allow time for religious obligations"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/208491"
+      ]
+    },
+    {
+      "id": "Q39",
+      "question": "What is the Islamic ruling on autopsy after a Muslim's death?",
+      "ruling": "Permissible when necessary",
+      "school": "All schools",
+      "correct_answer": "Autopsy is permissible when there is a genuine need, such as a forensic or criminal investigation, determining cause of death, or identifying contagious disease. This is the position of the Islamic Fiqh Council (MWL, 1987) and the Saudi Council of Senior Scholars. The body must be treated with dignity and buried promptly. Dissection purely for teaching is more disputed.",
+      "key_points": [
+        "permissible for necessity (forensic, disease)",
+        "respect for the body",
+        "teaching dissection disputed"
+      ],
+      "sources": [
+        "Islamic Fiqh Council (Muslim World League), 10th session, Makkah 1987 - autopsy",
+        "https://islamqa.info/en/answers/140779"
+      ]
+    },
+    {
+      "id": "Q40",
+      "question": "Is it permissible in Islam to delay burial for medical investigation purposes?",
+      "ruling": "Permissible when necessary",
+      "school": "All schools",
+      "correct_answer": "Hastening burial is sunnah. However, delaying burial for a genuine need, such as a legally required medical or forensic investigation, is permissible. The delay should be kept to what is necessary.",
+      "key_points": [
+        "hastening burial is sunnah",
+        "delay permissible for genuine need",
+        "minimise delay"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/140779"
+      ]
+    },
+    {
+      "id": "Q41",
+      "question": "Is gender reassignment surgery permissible in Islam under any circumstances?",
+      "ruling": "Not Permissible (except corrective surgery for intersex)",
+      "school": "All schools",
+      "correct_answer": "Gender reassignment surgery to change a person's biological sex is not permissible; it changes Allah's creation (Qur'an 4:119). Corrective surgery for a person with an intersex condition (khuntha), to clarify their true sex, is permissible.",
+      "key_points": [
+        "not permissible to change sex",
+        "intersex corrective surgery permissible"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/138451"
+      ]
+    },
+    {
+      "id": "Q42",
+      "question": "Is abortion permissible in Islam if the pregnancy results from rape (sexual assault)?",
+      "ruling": "Scholars Differ",
+      "school": "All schools",
+      "correct_answer": "Scholars differ. Many permit abortion of a pregnancy from rape in its early stages: before 40 days according to some, or before ensoulment at 120 days according to others, including Hanafi scholars with a valid excuse. Others prohibit it once conception is established. After 120 days it is prohibited unless the mother's life is at risk.",
+      "key_points": [
+        "early abortion permitted by many (before 40/120 days)",
+        "prohibited after 120 days unless mother's life at risk"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/13317"
+      ]
+    },
+    {
+      "id": "Q43",
+      "question": "Is abortion permissible in Islam if the foetus has a severe fatal medical condition?",
+      "ruling": "Permissible before 120 days with conditions",
+      "school": "All schools",
+      "correct_answer": "Per the Islamic Fiqh Council (MWL, 1990): if trustworthy specialist doctors confirm a severe, untreatable deformity, abortion is permissible before 120 days with the parents' consent. After 120 days it is prohibited, unless continuing the pregnancy endangers the mother's life.",
+      "key_points": [
+        "permissible before 120 days if confirmed by specialists",
+        "parents' consent",
+        "prohibited after 120 days unless mother's life at risk"
+      ],
+      "sources": [
+        "Islamic Fiqh Council (Muslim World League), 12th session, Makkah 1990 - abortion of a deformed foetus",
+        "https://islamqa.info/en/answers/12118"
+      ]
+    },
+    {
+      "id": "Q44",
+      "question": "What is the Islamic ruling on abortion before 40 days of pregnancy in Hanafi fiqh?",
+      "ruling": "Permissible with valid excuse (makruh without)",
+      "school": "Hanafi",
+      "correct_answer": "In the Hanafi school, abortion before ensoulment (120 days), and so before 40 days, is permissible with a valid excuse ('udhr), such as harm to the mother or the nursing child. Without a valid excuse it is disliked (makruh). After ensoulment it is prohibited.",
+      "key_points": [
+        "Hanafi: permissible with valid excuse before 120 days",
+        "makruh without excuse",
+        "prohibited after ensoulment"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/12475",
+        "Ibn 'Abidin, Radd al-Muhtar (Hanafi)"
+      ]
+    },
+    {
+      "id": "Q45",
+      "question": "Is IVF permissible in Islam for a married Muslim couple?",
+      "ruling": "Permissible with conditions",
+      "school": "All schools",
+      "correct_answer": "Yes, if the sperm is from the husband and the egg from the wife, fertilisation takes place during a valid marriage, and the embryo is implanted in the wife's own womb. Any third party (donor sperm, donor egg or surrogate womb) makes it prohibited — IIFA Resolution 16.",
+      "key_points": [
+        "permissible within marriage using couple's own gametes",
+        "no third party (donor/surrogate)"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 16 (4/3), 1986 - assisted reproduction",
+        "https://islamqa.info/en/answers/98604"
+      ]
+    },
+    {
+      "id": "Q46",
+      "question": "Is surrogacy permissible in Islam?",
+      "ruling": "Not Permissible",
+      "school": "All schools",
+      "correct_answer": "Surrogacy is not permissible, because it introduces a third party into the reproductive relationship and confuses lineage (nasab). IIFA Resolution 16 prohibits it, including when the surrogate is a co-wife.",
+      "key_points": [
+        "prohibited",
+        "third party / lineage confusion",
+        "IIFA 16"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 16 (4/3), 1986 - assisted reproduction",
+        "https://islamqa.info/en/answers/22126"
+      ]
+    },
+    {
+      "id": "Q47",
+      "question": "Is prenatal genetic testing permissible in Islam?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. Prenatal genetic testing and screening are permissible for diagnosis, treatment and preparation. Any decision to abort based on the results is governed by the separate abortion rulings (e.g. before 120 days for severe deformity).",
+      "key_points": [
+        "permissible",
+        "abortion decisions governed separately"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/9249"
+      ]
+    },
+    {
+      "id": "Q48",
+      "question": "Is it permissible in Islam to use contraception to protect the mother's health?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. Reversible contraception to protect the mother's health is permissible, with the mutual consent of husband and wife, and provided the method is not harmful (IIFA Resolution 39). Where pregnancy endangers the mother, it is more strongly justified.",
+      "key_points": [
+        "permissible",
+        "mutual consent, safe method",
+        "IIFA 39"
+      ],
+      "sources": [
+        "International Islamic Fiqh Academy (OIC), Resolution 39 (1/5), 1988 - family planning",
+        "https://islamqa.info/en/answers/587"
+      ]
+    },
+    {
+      "id": "Q49",
+      "question": "Is vasectomy or permanent sterilization permissible in Islam?",
+      "ruling": "Not Permissible (except necessity)",
+      "school": "All schools",
+      "correct_answer": "Permanent sterilisation (vasectomy or tubal ligation) is not permissible, except in necessity: when trustworthy doctors confirm that pregnancy would endanger the woman's life or health and no reversible alternative suffices (IIFA Resolution 39).",
+      "key_points": [
+        "not permissible",
+        "exception: medical necessity confirmed by doctors"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/223445",
+        "International Islamic Fiqh Academy (OIC), Resolution 39 (1/5), 1988 - family planning"
+      ]
+    },
+    {
+      "id": "Q50",
+      "question": "Is mental health treatment including psychiatric medication permissible in Islam?",
+      "ruling": "Permissible",
+      "school": "All schools",
+      "correct_answer": "Yes. Seeking treatment for mental illness, including psychiatric medication and therapy, is permissible and encouraged. The Prophet said 'Allah has not sent down a disease except that He has sent down a cure.' Medications containing otherwise prohibited substances are permitted when medically necessary and no alternative exists.",
+      "key_points": [
+        "permissible and encouraged",
+        "hadith on seeking cure"
+      ],
+      "sources": [
+        "https://islamqa.info/en/answers/21677",
+        "https://islamqa.info/en/answers/2438"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "id": "Q01",
+      "category": "Fasting_Medication",
+      "question_english": "Can a cancer patient take chemotherapy pills during Ramadan fasting according to Hanafi fiqh?",
+      "question_hinglish": "Kya cancer patient Hanafi fiqh ke mutabiq Ramadan ke roze mein chemotherapy ki goliyan le sakta hai?"
+    },
+    {
+      "id": "Q02",
+      "category": "Fasting_Medication",
+      "question_english": "Does receiving a chemotherapy injection through a vein break the fast in the Hanafi school?",
+      "question_hinglish": "Kya Hanafi school mein nas (vein) ke zariye chemotherapy injection lene se roza toot jata hai?"
+    },
+    {
+      "id": "Q03",
+      "category": "Fasting_Medication",
+      "question_english": "Can a diabetic Muslim break their Ramadan fast to take insulin?",
+      "question_hinglish": "Kya diabetic Muslim insulin lene ke liye apna Ramadan ka roza tod sakta hai?"
+    },
+    {
+      "id": "Q04",
+      "category": "Fasting_Medication",
+      "question_english": "If a patient takes painkillers during Ramadan because of severe pain, is their fast broken?",
+      "question_hinglish": "Agar koi patient Ramadan mein severe pain ki wajah se painkillers le, to kya uska roza toot jata hai?"
+    },
+    {
+      "id": "Q05",
+      "category": "Fasting_Medication",
+      "question_english": "Can a Muslim patient use a morphine patch for cancer pain during Ramadan without breaking the fast?",
+      "question_hinglish": "Kya Muslim patient Ramadan mein cancer pain ke liye morphine patch use kar sakta hai bina roza tode?"
+    },
+    {
+      "id": "Q06",
+      "category": "Fasting_Medication",
+      "question_english": "Is it permissible in Islam for a terminally ill patient to stop fasting permanently?",
+      "question_hinglish": "Kya Islam mein terminally ill patient ke liye hamesha ke liye roza chhod dena jaiz hai?"
+    },
+    {
+      "id": "Q07",
+      "category": "Fasting_Medication",
+      "question_english": "Does receiving a blood transfusion during Ramadan break the fast according to Hanafi scholars?",
+      "question_hinglish": "Kya Hanafi ulama ke mutabiq Ramadan mein blood transfusion lene se roza toot jata hai?"
+    },
+    {
+      "id": "Q08",
+      "category": "Fasting_Medication",
+      "question_english": "Can a Muslim patient use an asthma inhaler while fasting in Ramadan?",
+      "question_hinglish": "Kya Muslim patient Ramadan mein roze ki halat mein asthma inhaler use kar sakta hai?"
+    },
+    {
+      "id": "Q09",
+      "category": "Fasting_Medication",
+      "question_english": "Is it permissible for a cancer patient to eat during Ramadan if fasting causes serious harm?",
+      "question_hinglish": "Agar roza rakhne se serious nuksaan ho to kya cancer patient ke liye Ramadan mein khana jaiz hai?"
+    },
+    {
+      "id": "Q10",
+      "category": "Fasting_Medication",
+      "question_english": "Does an IV drip administered during Ramadan invalidate the fast in Hanafi fiqh?",
+      "question_hinglish": "Kya Hanafi fiqh mein Ramadan ke dauran IV drip lagwane se roza baatil ho jata hai?"
+    },
+    {
+      "id": "Q11",
+      "category": "Surgery_Procedures",
+      "question_english": "Is it permissible in Islam for a Muslim to undergo surgery that carries a risk of death?",
+      "question_hinglish": "Kya Islam mein Muslim ke liye aisi surgery karwana jaiz hai jismein maut ka risk ho?"
+    },
+    {
+      "id": "Q12",
+      "category": "Surgery_Procedures",
+      "question_english": "Can a Muslim patient consent to surgery without informing their family according to Islamic ethics?",
+      "question_hinglish": "Kya Islamic ethics ke mutabiq Muslim patient apni family ko bataye bina surgery ke liye consent de sakta hai?"
+    },
+    {
+      "id": "Q13",
+      "category": "Surgery_Procedures",
+      "question_english": "Is general anaesthesia during surgery permissible in Islam?",
+      "question_hinglish": "Kya Islam mein surgery ke dauran general anaesthesia jaiz hai?"
+    },
+    {
+      "id": "Q14",
+      "category": "Surgery_Procedures",
+      "question_english": "Does being under anaesthesia during prayer time require a Muslim to make up missed prayers?",
+      "question_hinglish": "Agar namaz ke waqt koi anaesthesia mein behosh ho, to kya Muslim ko chhooti hui namazein qaza karni hongi?"
+    },
+    {
+      "id": "Q15",
+      "category": "Surgery_Procedures",
+      "question_english": "Is it permissible in Islam to delay a necessary surgery because of Ramadan?",
+      "question_hinglish": "Kya Islam mein Ramadan ki wajah se zaroori surgery ko delay karna jaiz hai?"
+    },
+    {
+      "id": "Q16",
+      "category": "Surgery_Procedures",
+      "question_english": "Can a Muslim woman undergo surgery performed by a male doctor if no female doctor is available?",
+      "question_hinglish": "Agar female doctor available na ho to kya Muslim aurat male doctor se surgery karwa sakti hai?"
+    },
+    {
+      "id": "Q17",
+      "category": "Surgery_Procedures",
+      "question_english": "Is cosmetic surgery permissible in Islam for reconstructive purposes after cancer treatment?",
+      "question_hinglish": "Kya Islam mein cancer treatment ke baad reconstructive purpose ke liye cosmetic surgery jaiz hai?"
+    },
+    {
+      "id": "Q18",
+      "category": "Surgery_Procedures",
+      "question_english": "Is it permissible in Islam to remove a cancerous organ to save a patient's life?",
+      "question_hinglish": "Kya Islam mein patient ki jaan bachane ke liye cancerous organ nikalna jaiz hai?"
+    },
+    {
+      "id": "Q19",
+      "category": "Surgery_Procedures",
+      "question_english": "Can a Muslim patient refuse surgery on religious grounds even if doctors say it is necessary?",
+      "question_hinglish": "Kya Muslim patient religious wajah se surgery se inkaar kar sakta hai, chahe doctors kahein ke zaroori hai?"
+    },
+    {
+      "id": "Q20",
+      "category": "Surgery_Procedures",
+      "question_english": "Is it permissible in Islam to perform surgery on a Friday?",
+      "question_hinglish": "Kya Islam mein Jumma (Friday) ke din surgery karna jaiz hai?"
+    },
+    {
+      "id": "Q21",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Is blood transfusion permissible in Islam when a patient's life is at risk?",
+      "question_hinglish": "Kya Islam mein blood transfusion jaiz hai jab patient ki jaan khatre mein ho?"
+    },
+    {
+      "id": "Q22",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Is organ donation after death permissible in Hanafi fiqh?",
+      "question_hinglish": "Kya Hanafi fiqh mein maut ke baad organ donation jaiz hai?"
+    },
+    {
+      "id": "Q23",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Can a living Muslim donate one kidney to save another person's life?",
+      "question_hinglish": "Kya zinda Muslim kisi doosre ki jaan bachane ke liye apni ek kidney donate kar sakta hai?"
+    },
+    {
+      "id": "Q24",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Is it permissible in Islam to receive an organ from a non-Muslim donor?",
+      "question_hinglish": "Kya Islam mein non-Muslim donor se organ lena jaiz hai?"
+    },
+    {
+      "id": "Q25",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Is bone marrow donation permissible in Islam?",
+      "question_hinglish": "Kya Islam mein bone marrow donation jaiz hai?"
+    },
+    {
+      "id": "Q26",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Can a Muslim family consent to organ donation on behalf of a deceased family member who left no instructions?",
+      "question_hinglish": "Kya Muslim family kisi marhoom family member ki taraf se organ donation ka consent de sakti hai jisne koi hidayat nahi chhodi?"
+    },
+    {
+      "id": "Q27",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Is it permissible in Islam to receive a pig-derived heart valve if no alternative exists?",
+      "question_hinglish": "Kya Islam mein pig se bana heart valve lena jaiz hai agar koi aur option na ho?"
+    },
+    {
+      "id": "Q28",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Is blood donation permissible during Ramadan fasting in Hanafi fiqh?",
+      "question_hinglish": "Kya Hanafi fiqh mein Ramadan ke roze ki halat mein blood donate karna jaiz hai?"
+    },
+    {
+      "id": "Q29",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Can a Muslim accept a blood donation from someone of another religion?",
+      "question_hinglish": "Kya Muslim kisi doosre mazhab ke shakhs se blood donation le sakta hai?"
+    },
+    {
+      "id": "Q30",
+      "category": "Blood_Organ_Donation",
+      "question_english": "Is it permissible in Islam to sell blood or organs for money?",
+      "question_hinglish": "Kya Islam mein paison ke liye khoon ya organs bechna jaiz hai?"
+    },
+    {
+      "id": "Q31",
+      "category": "End_of_Life",
+      "question_english": "Is it permissible in Islam to use strong painkillers that may shorten a terminal patient's life?",
+      "question_hinglish": "Kya Islam mein aise strong painkillers dena jaiz hai jo terminal patient ki zindagi kam kar sakte hain?"
+    },
+    {
+      "id": "Q32",
+      "category": "End_of_Life",
+      "question_english": "Can a Muslim family request doctors to stop life support for a terminally ill patient?",
+      "question_hinglish": "Kya Muslim family doctors se terminally ill patient ka life support band karne ko keh sakti hai?"
+    },
+    {
+      "id": "Q33",
+      "category": "End_of_Life",
+      "question_english": "Is euthanasia or assisted dying permissible in Islam under any circumstances?",
+      "question_hinglish": "Kya Islam mein kisi bhi halat mein euthanasia ya assisted dying jaiz hai?"
+    },
+    {
+      "id": "Q34",
+      "category": "End_of_Life",
+      "question_english": "What is the Islamic ruling on keeping a brain-dead patient on life support?",
+      "question_hinglish": "Brain-dead patient ko life support par rakhne ke baare mein Islamic hukm kya hai?"
+    },
+    {
+      "id": "Q35",
+      "category": "End_of_Life",
+      "question_english": "Can a Muslim patient write a do-not-resuscitate order according to Islamic ethics?",
+      "question_hinglish": "Kya Islamic ethics ke mutabiq Muslim patient do-not-resuscitate (DNR) order likh sakta hai?"
+    },
+    {
+      "id": "Q36",
+      "category": "End_of_Life",
+      "question_english": "Is it permissible in Islam for a terminally ill patient to refuse further treatment?",
+      "question_hinglish": "Kya Islam mein terminally ill patient ke liye mazeed treatment se inkaar karna jaiz hai?"
+    },
+    {
+      "id": "Q37",
+      "category": "End_of_Life",
+      "question_english": "How should a Muslim patient handle missed prayers when hospitalized and unable to move?",
+      "question_hinglish": "Hospital mein bhartee Muslim patient jo hil nahi sakta, apni chhooti hui namazon ko kaise handle kare?"
+    },
+    {
+      "id": "Q38",
+      "category": "End_of_Life",
+      "question_english": "Is it permissible in Islam to give a dying patient sedation that reduces their consciousness in final hours?",
+      "question_hinglish": "Kya Islam mein marne wale patient ko aakhri ghanton mein aisi sedation dena jaiz hai jo uska hosh kam kar de?"
+    },
+    {
+      "id": "Q39",
+      "category": "End_of_Life",
+      "question_english": "What is the Islamic ruling on autopsy after a Muslim's death?",
+      "question_hinglish": "Muslim ki maut ke baad autopsy (postmortem) ke baare mein Islamic hukm kya hai?"
+    },
+    {
+      "id": "Q40",
+      "category": "End_of_Life",
+      "question_english": "Is it permissible in Islam to delay burial for medical investigation purposes?",
+      "question_hinglish": "Kya Islam mein medical investigation ke liye dafan (burial) mein deri karna jaiz hai?"
+    },
+    {
+      "id": "Q41",
+      "category": "Controversial_Ethics",
+      "question_english": "Is gender reassignment surgery permissible in Islam under any circumstances?",
+      "question_hinglish": "Kya Islam mein kisi bhi halat mein gender reassignment surgery jaiz hai?"
+    },
+    {
+      "id": "Q42",
+      "category": "Controversial_Ethics",
+      "question_english": "Is abortion permissible in Islam if the pregnancy results from rape (sexual assault)?",
+      "question_hinglish": "Kya Islam mein abortion jaiz hai agar pregnancy rape (zabardasti / sexual assault) ka nateeja ho?"
+    },
+    {
+      "id": "Q43",
+      "category": "Controversial_Ethics",
+      "question_english": "Is abortion permissible in Islam if the foetus has a severe fatal medical condition?",
+      "question_hinglish": "Kya Islam mein abortion jaiz hai agar foetus ko koi severe fatal medical condition ho?"
+    },
+    {
+      "id": "Q44",
+      "category": "Controversial_Ethics",
+      "question_english": "What is the Islamic ruling on abortion before 40 days of pregnancy in Hanafi fiqh?",
+      "question_hinglish": "Hanafi fiqh mein pregnancy ke 40 din se pehle abortion ka Islamic hukm kya hai?"
+    },
+    {
+      "id": "Q45",
+      "category": "Controversial_Ethics",
+      "question_english": "Is IVF permissible in Islam for a married Muslim couple?",
+      "question_hinglish": "Kya Islam mein shaadi-shuda Muslim couple ke liye IVF jaiz hai?"
+    },
+    {
+      "id": "Q46",
+      "category": "Controversial_Ethics",
+      "question_english": "Is surrogacy permissible in Islam?",
+      "question_hinglish": "Kya Islam mein surrogacy jaiz hai?"
+    },
+    {
+      "id": "Q47",
+      "category": "Controversial_Ethics",
+      "question_english": "Is prenatal genetic testing permissible in Islam?",
+      "question_hinglish": "Kya Islam mein prenatal genetic testing jaiz hai?"
+    },
+    {
+      "id": "Q48",
+      "category": "Controversial_Ethics",
+      "question_english": "Is it permissible in Islam to use contraception to protect the mother's health?",
+      "question_hinglish": "Kya Islam mein maa ki sehat ki hifazat ke liye contraception use karna jaiz hai?"
+    },
+    {
+      "id": "Q49",
+      "category": "Controversial_Ethics",
+      "question_english": "Is vasectomy or permanent sterilization permissible in Islam?",
+      "question_hinglish": "Kya Islam mein vasectomy ya permanent sterilization jaiz hai?"
+    },
+    {
+      "id": "Q50",
+      "category": "Controversial_Ethics",
+      "question_english": "Is mental health treatment including psychiatric medication permissible in Islam?",
+      "question_hinglish": "Kya Islam mein mental health treatment, jismein psychiatric medication bhi shamil hai, jaiz hai?"
+    }
+  ]
+}

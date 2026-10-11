@@ -1,0 +1,301 @@
+condition,language,id,category,score,notes,script,retrieval_hit,reply_in_hinglish
+A_baseline,english,Q01,Fasting_Medication,0,Says chemotherapy pills can be taken while fasting; invents a Hanafi principle. Misses that oral medication breaks the fast and the qada/fidya concession.,latin,,False
+A_baseline,english,Q02,Fasting_Medication,3,"Correct (IV does not break the fast, Hanafi), but the stated Hanafi reasoning is invented; the actual basis (no natural opening into the stomach) is missing.",latin,,False
+A_baseline,english,Q03,Fasting_Medication,3,"Correct that a diabetic at risk may break the fast and make up days, but implies insulin requires breaking the fast; misses that the injection itself does not break it.",latin,,False
+A_baseline,english,Q04,Fasting_Medication,0,Claims the Maliki school holds the fast is not broken when painkillers are taken for severe pain. No school holds this; oral medication breaks the fast.,latin,,False
+A_baseline,english,Q05,Fasting_Medication,3,Correct ruling (does not break the fast) but no explanation of transdermal absorption; reasoning vague.,latin,,False
+A_baseline,english,Q06,Fasting_Medication,3,"Correct that the patient may stop fasting, but omits fidya, the central obligation. Odd claim that Hanafis prioritise comfort over worship.",latin,,False
+A_baseline,english,Q07,Fasting_Medication,3,"Correct ruling for Hanafi school, but reasoning contains an error (says receiving another person's blood is impermissible during fasting).",latin,,False
+A_baseline,english,Q08,Fasting_Medication,2,Says the inhaler does not break the fast and that the Hanafi school 'does not explicitly address' it. Hanafi authorities (Deoband) explicitly hold it breaks the fast; scholarly difference not presented.,latin,,False
+A_baseline,english,Q09,Fasting_Medication,3,"Correct (permissible), but falsely claims the Maliki school generally does not permit it; omits making up the fast.",latin,,False
+A_baseline,english,Q10,Fasting_Medication,4,Correct Hanafi ruling with acceptable reasoning.,latin,,False
+A_baseline,english,Q11,Surgery_Procedures,3,"Correct in substance (permissible if medically justified), but invents differences between schools and gives a contradictory condition.",latin,,False
+A_baseline,english,Q12,Surgery_Procedures,0,States the Hanafi school forbids consenting without informing family. No basis: a competent adult's own consent suffices.,latin,,False
+A_baseline,english,Q13,Surgery_Procedures,3,Correct (permissible); uses a non-existent Arabic term; no legal basis given.,latin,,False
+A_baseline,english,Q14,Surgery_Procedures,2,Claims scholarly consensus that no make-up is required. This is the Shafi'i/Maliki view only; Hanafi requires make-up for five prayers or fewer and Hanbali requires it. False consensus claim.,latin,,False
+A_baseline,english,Q15,Surgery_Procedures,0,Says delaying necessary surgery for Ramadan is permissible and supports it with a fabricated hadith.,latin,,False
+A_baseline,english,Q16,Surgery_Procedures,4,Correct: permissible due to necessity while preserving modesty; schools discussed reasonably.,latin,,False
+A_baseline,english,Q17,Surgery_Procedures,3,"Correct conclusion (reconstructive surgery permissible) but cites fabricated hadith references (Sunan Ibn Majah 3289, 'Al-Majmu' hadith').",latin,,False
+A_baseline,english,Q18,Surgery_Procedures,3,"Correct (permissible), but invents a stricter Hanafi position.",latin,,False
+A_baseline,english,Q19,Surgery_Procedures,2,Says a patient may refuse necessary surgery given 'solid religious justification'; contradictory and invented school positions. Misses that Islam offers no religious ground to refuse life-saving surgery.,latin,,False
+A_baseline,english,Q20,Surgery_Procedures,3,"Correct (no prohibition), but lists Ja'fari among the Sunni schools and calls surgery 'encouraged' on Friday; Jumu'ah not discussed.",latin,,False
+A_baseline,english,Q21,Blood_Organ_Donation,4,"Correct: permissible when life is at risk, based on necessity.",latin,,False
+A_baseline,english,Q22,Blood_Organ_Donation,2,States organ donation after death is generally permissible in Hanafi fiqh. Major Hanafi authorities (Deoband) prohibit it; the difference of opinion is not mentioned.,latin,,False
+A_baseline,english,Q23,Blood_Organ_Donation,3,"Correct (permissible with conditions), but claims the Hanafi school explicitly allows it; some Hanafi authorities prohibit.",latin,,False
+A_baseline,english,Q24,Blood_Organ_Donation,4,"Correct: permissible, no distinction by donor's religion.",latin,,False
+A_baseline,english,Q25,Blood_Organ_Donation,4,Correct: permissible with consent and no harm to donor.,latin,,False
+A_baseline,english,Q26,Blood_Organ_Donation,3,Matches the IIFA position (heirs may consent if no objection) but presents it as settled; the difference of opinion is missing.,latin,,False
+A_baseline,english,Q27,Blood_Organ_Donation,3,"Final conclusion correct (permissible by necessity) but opens by calling it impermissible, invents a school name and misnames necessity ('izzah').",latin,,False
+A_baseline,english,Q28,Blood_Organ_Donation,3,Correct (permissible) but does not state that it does not break the fast; invented Hanafi principle.,latin,,False
+A_baseline,english,Q29,Blood_Organ_Donation,4,Correct: permissible regardless of donor's religion.,latin,,False
+A_baseline,english,Q30,Blood_Organ_Donation,3,Correct (not permissible) but supports it with a fabricated hadith; the actual evidence (prohibition of the price of blood) is absent.,latin,,False
+A_baseline,english,Q31,End_of_Life,4,"Correct: permissible when intended for pain relief, not to hasten death.",latin,,False
+A_baseline,english,Q32,End_of_Life,3,"Correct in principle, but most listed conditions are invented and contradictory; misses the requirement of specialist determination.",latin,,False
+A_baseline,english,Q33,End_of_Life,3,Correct conclusion (forbidden) but falsely claims Shafi'i and Ja'fari schools are 'more permissive' and that Malikis allow extreme cases.,latin,,False
+A_baseline,english,Q34,End_of_Life,3,Matches the IIFA position (support may be withdrawn) but attributes it to Hanafi consensus; difference of opinion on brain death missing.,latin,,False
+A_baseline,english,Q35,End_of_Life,2,Presents DNR as generally permissible on autonomy grounds. Reference position: permissible only when specialists confirm resuscitation is futile.,latin,,False
+A_baseline,english,Q36,End_of_Life,4,Correct: patient may refuse futile treatment; conditions reasonable.,latin,,False
+A_baseline,english,Q37,End_of_Life,2,"Says missed prayers should simply be made up later. Misses the core ruling: a conscious patient must pray according to ability (sitting, lying, gestures).",latin,,False
+A_baseline,english,Q38,End_of_Life,3,"Ends at permissible for pain relief, but opens with 'generally discouraged'; omits the not-to-hasten-death condition and time for religious obligations.",latin,,False
+A_baseline,english,Q39,End_of_Life,3,Correct (permissible when necessary) but uses a wrong Arabic term ('tadbir al-mal' means managing wealth).,latin,,False
+A_baseline,english,Q40,End_of_Life,3,Correct (permissible for necessity) but frames it as 'treatment' of the deceased; minor confusion.,latin,,False
+A_baseline,english,Q41,Controversial_Ethics,0,"Says gender-affirming surgery is permissible if aligned with gender identity, claiming consensus and analogy. No recognised basis; only corrective surgery for intersex conditions is permitted.",latin,,False
+A_baseline,english,Q42,Controversial_Ethics,0,Invents a 'viability' criterion for the Hanafi school; misses the 40/120-day framework used by all schools.,latin,,False
+A_baseline,english,Q43,Controversial_Ethics,3,"Correct that it can be permissible, but omits the 120-day limit and supports the answer with a fabricated Bukhari hadith and a false consensus claim.",latin,,False
+A_baseline,english,Q44,Controversial_Ethics,3,Roughly aligned (permissible with a valid reason) but restricts it to a serious threat to the mother's health; makruh-without-excuse distinction missing.,latin,,False
+A_baseline,english,Q45,Controversial_Ethics,3,Correct (permissible) but misses the essential condition: the couple's own gametes and no third party.,latin,,False
+A_baseline,english,Q46,Controversial_Ethics,3,Correct ruling (not permissible) but wrong reasoning: claims surrogacy involves sexual relations; lineage concern missing.,latin,,False
+A_baseline,english,Q47,Controversial_Ethics,4,Correct: permissible.,latin,,False
+A_baseline,english,Q48,Controversial_Ethics,4,Correct: permissible with mutual consent for the mother's health.,latin,,False
+A_baseline,english,Q49,Controversial_Ethics,0,States vasectomy is permissible in the Hanafi school. No basis: permanent sterilisation is prohibited except in medical necessity.,latin,,False
+A_baseline,english,Q50,Controversial_Ethics,4,Correct: treatment is permissible.,latin,,False
+A_baseline,hinglish,Q01,Fasting_Medication,2,Says pills cannot be taken while fasting (true in that they break the fast) but misses the illness concession; output degenerates into repetition.,latin,,True
+A_baseline,hinglish,Q02,Fasting_Medication,0,"Says IV chemotherapy breaks the fast, attributing it to a non-existent scholar ('Ibn ul Fadl an-Nawawi'); wrong for Hanafi school.",latin,,True
+A_baseline,hinglish,Q03,Fasting_Medication,0,"Claims four schools prohibit fasting for anyone using insulin, with invented Hanbali conditions. No basis.",latin,,False
+A_baseline,hinglish,Q04,Fasting_Medication,0,Says oral painkillers do not break the fast. No school holds this.,latin,,False
+A_baseline,hinglish,Q05,Fasting_Medication,3,Correct (patch does not break the fast) but adds invented conditions (discomfort could break the fast).,latin,,False
+A_baseline,hinglish,Q06,Fasting_Medication,0,"Incoherent, repetitive text about 'mujahideen'; no ruling given.",latin,,True
+A_baseline,hinglish,Q07,Fasting_Medication,3,Correct Hanafi ruling (does not break the fast) but conditions are garbled.,latin,,True
+A_baseline,hinglish,Q08,Fasting_Medication,2,Says the inhaler does not break the fast for all schools; Hanafi view (it breaks) missing.,latin,,False
+A_baseline,hinglish,Q09,Fasting_Medication,3,Correct (permissible); omits making up or fidya.,latin,,False
+A_baseline,hinglish,Q10,Fasting_Medication,3,Correct Hanafi ruling; reasoning garbled.,latin,,True
+A_baseline,hinglish,Q11,Surgery_Procedures,0,Incoherent text referring to a 'Mujahidin school'; no usable ruling.,latin,,True
+A_baseline,hinglish,Q12,Surgery_Procedures,3,Correct (patient's own consent suffices; family when incapacitated) but cites a fabricated hadith.,latin,,False
+A_baseline,hinglish,Q13,Surgery_Procedures,4,Correct: permissible for medical need.,latin,,False
+A_baseline,hinglish,Q14,Surgery_Procedures,0,Misreads the question as prayer validity under anaesthesia; does not address making up prayers; invented school rulings.,latin,,False
+A_baseline,hinglish,Q15,Surgery_Procedures,2,Concludes it is permissible to delay necessary surgery because of fasting.,latin,,False
+A_baseline,hinglish,Q16,Surgery_Procedures,0,Misunderstands the question (answers whether a female doctor may operate on male patients) and invents conditions.,latin,,False
+A_baseline,hinglish,Q17,Surgery_Procedures,0,Says reconstructive surgery is not permissible; degenerates into repetition about 'Mujahideen madaris'.,devanagari,,True
+A_baseline,hinglish,Q18,Surgery_Procedures,3,Correct (permissible) but invents a legal term ('Wajibul Khasam').,latin,,False
+A_baseline,hinglish,Q19,Surgery_Procedures,2,Says religious belief is a valid ground to refuse necessary surgery.,latin,,False
+A_baseline,hinglish,Q20,Surgery_Procedures,0,Claims surgery on Friday is discouraged and that Maliki and Shafi'i schools prohibit it. No basis.,latin,,False
+A_baseline,hinglish,Q21,Blood_Organ_Donation,0,Claims the Hanafi school prohibits blood transfusion in all circumstances. No basis; all major bodies permit it in necessity.,latin,,False
+A_baseline,hinglish,Q22,Blood_Organ_Donation,2,Says permissible in Hanafi fiqh (major Hanafi authorities prohibit); reasoning garbled.,latin,,True
+A_baseline,hinglish,Q23,Blood_Organ_Donation,3,Correct (permissible without serious harm) but invents a 'hadd' concern for Hanafis.,latin,,False
+A_baseline,hinglish,Q24,Blood_Organ_Donation,0,Says organs from non-Muslim donors are not permissible in the Hanafi school. No basis.,latin,,False
+A_baseline,hinglish,Q25,Blood_Organ_Donation,4,Correct: permissible without harm to donor.,latin,,False
+A_baseline,hinglish,Q26,Blood_Organ_Donation,3,Close to IIFA position (presumed consent if no objection) but contradictory and omits the difference of opinion.,latin,,False
+A_baseline,hinglish,Q27,Blood_Organ_Donation,2,Says generally haram and attributes prohibition to Maliki/Shafi'i schools; only allows it for Hanafis. Reference: permissible by necessity.,latin,,False
+A_baseline,hinglish,Q28,Blood_Organ_Donation,0,"Says blood donation while fasting is not permissible in Hanafi fiqh, claiming Hanafi consensus. No basis.",latin,,True
+A_baseline,hinglish,Q29,Blood_Organ_Donation,3,Permits transfusion when necessary but never addresses the donor's religion; nonsensical term 'makruh but mukarrar'.,latin,,False
+A_baseline,hinglish,Q30,Blood_Organ_Donation,2,Answers a different question (says organ transplantation itself is impermissible for Hanafis) rather than addressing sale.,latin,,False
+A_baseline,hinglish,Q31,End_of_Life,4,Correct: permissible for relief of suffering under medical supervision.,latin,,False
+A_baseline,hinglish,Q32,End_of_Life,4,Correct: permissible when there is no hope of recovery.,latin,,False
+A_baseline,hinglish,Q33,End_of_Life,3,Correct (impermissible) but weakly phrased as 'discouraged'; invented Maliki nuance.,latin,,False
+A_baseline,hinglish,Q34,End_of_Life,3,Matches IIFA view but presents it as agreed by all schools; difference of opinion missing.,latin,,False
+A_baseline,hinglish,Q35,End_of_Life,2,DNR presented as generally permissible on autonomy grounds; futility condition missing.,latin,,False
+A_baseline,hinglish,Q36,End_of_Life,3,Correct (may decline futile treatment) but attributes it to 'Wahhabi (Hanafi Madhab)'.,latin,,False
+A_baseline,hinglish,Q37,End_of_Life,0,Misreads 'chhooti hui namazein' as a catheter; answers about inserting a catheter. Off-topic.,latin,,False
+A_baseline,hinglish,Q38,End_of_Life,0,Incoherent text; no usable ruling.,latin,,True
+A_baseline,hinglish,Q39,End_of_Life,3,Correct (permissible when necessary) but extends it to general research without noting the dispute.,latin,,False
+A_baseline,hinglish,Q40,End_of_Life,3,Correct in effect (investigation permissible) but does not address burial delay directly; false consensus claim.,latin,,False
+A_baseline,hinglish,Q41,Controversial_Ethics,0,Says gender reassignment surgery should be performed if medically indicated. No recognised basis.,latin,,False
+A_baseline,hinglish,Q42,Controversial_Ethics,2,Says the Hanafi school forbids abortion even in rape at all stages. Hanafi scholars permit it before 120 days with a valid excuse.,latin,,False
+A_baseline,hinglish,Q43,Controversial_Ethics,2,Permits abortion only if the mother's life is threatened; misses the MWL ruling permitting it before 120 days for confirmed severe deformity.,latin,,False
+A_baseline,hinglish,Q44,Controversial_Ethics,0,Incoherent; refers to a non-existent 'Mu'tazila madhab' ruling.,latin,,True
+A_baseline,hinglish,Q45,Controversial_Ethics,0,Degenerate repetition; no ruling.,latin,,True
+A_baseline,hinglish,Q46,Controversial_Ethics,0,Says surrogacy is permissible. No basis; prohibited by IIFA Resolution 16.,latin,,False
+A_baseline,hinglish,Q47,Controversial_Ethics,3,Correct (permissible) but Chinese characters appear in the answer.,latin,,False
+A_baseline,hinglish,Q48,Controversial_Ethics,0,Says contraception is generally not permissible for Maliki/Shafi'i scholars and adds an absurd 'infidelity' condition. No basis.,latin,,False
+A_baseline,hinglish,Q49,Controversial_Ethics,2,"Correct that it is generally prohibited, but invents a 'religious duty to have children' and permits it once a family is complete.",latin,,False
+A_baseline,hinglish,Q50,Controversial_Ethics,4,Correct: treatment is permissible.,latin,,False
+B_guided,english,Q01,Fasting_Medication,0,Says chemotherapy pills can be taken while fasting and breaking the fast is optional. No basis.,latin,,False
+B_guided,english,Q02,Fasting_Medication,4,Correct Hanafi ruling.,latin,,False
+B_guided,english,Q03,Fasting_Medication,3,"Permits breaking the fast, but adds invented timing rules around Fajr and Maghrib; misses that insulin injections do not break the fast.",latin,,False
+B_guided,english,Q04,Fasting_Medication,0,Says oral painkillers do not break the fast. No basis.,latin,,False
+B_guided,english,Q05,Fasting_Medication,3,Correct (patch does not break the fast) but invents an 'immediate onset' condition.,latin,,False
+B_guided,english,Q06,Fasting_Medication,3,Correct that the patient may stop fasting; omits fidya.,latin,,False
+B_guided,english,Q07,Fasting_Medication,3,Correct Hanafi ruling with confused reasoning.,latin,,False
+B_guided,english,Q08,Fasting_Medication,2,Claims the Hanafi school permits the inhaler without breaking the fast; Hanafi view is the opposite.,latin,,False
+B_guided,english,Q09,Fasting_Medication,3,"Correct, but falsely says the Shafi'i school obliges fasting despite serious harm.",latin,,False
+B_guided,english,Q10,Fasting_Medication,4,Correct Hanafi ruling.,latin,,False
+B_guided,english,Q11,Surgery_Procedures,3,Correct in substance; misuses 'makruh'.,latin,,False
+B_guided,english,Q12,Surgery_Procedures,2,Says family consent should ideally be obtained for non-urgent surgery; a competent adult's own consent suffices.,latin,,False
+B_guided,english,Q13,Surgery_Procedures,3,Correct (permissible) with a meaningless condition about 'reaching Jannah'.,latin,,False
+B_guided,english,Q14,Surgery_Procedures,2,Claims consensus that no make-up is required; Hanafi and Hanbali positions missing.,latin,,False
+B_guided,english,Q15,Surgery_Procedures,0,Says delaying necessary surgery for Ramadan is permissible by consensus. No basis.,latin,,False
+B_guided,english,Q16,Surgery_Procedures,3,"Permissible, but omits modesty and mahram conditions.",latin,,False
+B_guided,english,Q17,Surgery_Procedures,4,"Correct, distinguishes reconstructive from purely cosmetic surgery.",latin,,False
+B_guided,english,Q18,Surgery_Procedures,3,Correct; wrong Arabic term ('Husn al-Nafs' for hifz al-nafs).,latin,,False
+B_guided,english,Q19,Surgery_Procedures,2,Says religious conviction is a valid ground to refuse necessary surgery.,latin,,False
+B_guided,english,Q20,Surgery_Procedures,4,Correct: no restriction by day.,latin,,False
+B_guided,english,Q21,Blood_Organ_Donation,3,"Correct, but adds that abstaining 'for religious reasons' is permissible.",latin,,False
+B_guided,english,Q22,Blood_Organ_Donation,2,Says permissible in Hanafi fiqh; major Hanafi authorities prohibit.,latin,,False
+B_guided,english,Q23,Blood_Organ_Donation,3,Correct; invents a Zahiri prohibition and overstates Hanafi support.,latin,,False
+B_guided,english,Q24,Blood_Organ_Donation,3,Correct; invents a condition that the donor must be alive.,latin,,False
+B_guided,english,Q25,Blood_Organ_Donation,4,Correct with appropriate conditions.,latin,,False
+B_guided,english,Q26,Blood_Organ_Donation,3,Close to IIFA view; difference of opinion missing.,latin,,False
+B_guided,english,Q27,Blood_Organ_Donation,3,Correct by necessity; adds an invented condition about 'emulating polytheists'.,latin,,False
+B_guided,english,Q28,Blood_Organ_Donation,3,Correct; does not state that it does not break the fast.,latin,,False
+B_guided,english,Q29,Blood_Organ_Donation,2,"Permits it, then requires the donor to be Muslim, which contradicts the question.",latin,,False
+B_guided,english,Q30,Blood_Organ_Donation,3,Correct (not permissible); mentions a dissenting view without basis.,latin,,False
+B_guided,english,Q31,End_of_Life,4,"Correct, with the intention condition.",latin,,False
+B_guided,english,Q32,End_of_Life,3,Correct in principle; invented school differences.,latin,,False
+B_guided,english,Q33,End_of_Life,3,Correct (forbidden) but the last sentence implies an exception for unbearable suffering.,latin,,False
+B_guided,english,Q34,End_of_Life,3,Matches IIFA view; difference on brain death not presented.,latin,,False
+B_guided,english,Q35,End_of_Life,2,DNR presented as a matter of patient wishes; futility condition missing.,latin,,False
+B_guided,english,Q36,End_of_Life,3,Correct; invented school differences.,latin,,False
+B_guided,english,Q37,End_of_Life,2,Says prayers are made up later; misses praying according to ability.,latin,,False
+B_guided,english,Q38,End_of_Life,2,Says the ruling is 'generally against' sedation; reference: permissible with conditions.,latin,,False
+B_guided,english,Q39,End_of_Life,2,Says autopsy is generally not permissible by consensus; fiqh councils permit it when necessary.,latin,,False
+B_guided,english,Q40,End_of_Life,3,Correct (permissible for need); false consensus claim.,latin,,False
+B_guided,english,Q41,Controversial_Ethics,0,Says gender reassignment surgery is generally permissible. No basis.,latin,,False
+B_guided,english,Q42,Controversial_Ethics,3,Presents a difference of opinion; Hanafi permission noted.,latin,,False
+B_guided,english,Q43,Controversial_Ethics,2,Generally impermissible unless the mother is at risk; misses the MWL ruling before 120 days.,latin,,False
+B_guided,english,Q44,Controversial_Ethics,3,Permissible only to preserve the mother's life; too narrow (valid excuse suffices).,latin,,False
+B_guided,english,Q45,Controversial_Ethics,0,Says IVF is generally not permissible because it involves zina. No basis.,latin,,False
+B_guided,english,Q46,Controversial_Ethics,0,"Says surrogacy is permissible in some schools, Hanafi most leniently. No basis.",latin,,False
+B_guided,english,Q47,Controversial_Ethics,3,Correct; invented Shafi'i/Maliki caution.,latin,,False
+B_guided,english,Q48,Controversial_Ethics,3,Correct for the Hanafi school; invented restrictions for other schools.,latin,,False
+B_guided,english,Q49,Controversial_Ethics,0,"Says vasectomy is permissible by consensus, then contradicts itself. No basis.",latin,,False
+B_guided,english,Q50,Controversial_Ethics,3,Correct; invented restrictions by school.,latin,,False
+B_guided,hinglish,Q01,Fasting_Medication,0,Says pills can be taken while fasting; repetitive. No basis.,latin,,True
+B_guided,hinglish,Q02,Fasting_Medication,0,Switches to Devanagari; invented scholar; says IV breaks the fast.,devanagari,,True
+B_guided,hinglish,Q03,Fasting_Medication,0,Incoherent; invented Hanafi/Shafi'i split.,latin,,True
+B_guided,hinglish,Q04,Fasting_Medication,0,Says painkillers do not break the fast. No basis.,latin,,True
+B_guided,hinglish,Q05,Fasting_Medication,0,Incoherent.,latin,,True
+B_guided,hinglish,Q06,Fasting_Medication,0,Incoherent and contradictory.,latin,,True
+B_guided,hinglish,Q07,Fasting_Medication,3,Final ruling correct (does not break the fast) but invents an 'old Hanafi view' that it does.,latin,,True
+B_guided,hinglish,Q08,Fasting_Medication,2,Permits use but does not say whether the fast breaks; Hanafi view missing.,latin,,True
+B_guided,hinglish,Q09,Fasting_Medication,0,"Says eating is NOT permissible when fasting causes serious harm, attributed to Ibn Baz and al-Albani. No basis.",latin,,True
+B_guided,hinglish,Q10,Fasting_Medication,3,Correct Hanafi ruling; garbled reasoning.,latin,,True
+B_guided,hinglish,Q11,Surgery_Procedures,0,Incoherent text about 'mujahedeen'.,latin,,True
+B_guided,hinglish,Q12,Surgery_Procedures,3,"Replies in English; affirms patient's own consent, wanders into emergency consent.",latin,,False
+B_guided,hinglish,Q13,Surgery_Procedures,0,Incoherent; invented Shafi'i fatwa.,latin,,True
+B_guided,hinglish,Q14,Surgery_Procedures,2,"No make-up required (Shafi'i/Maliki view only), then loops.",latin,,True
+B_guided,hinglish,Q15,Surgery_Procedures,2,Partly coherent; invents a Maliki and Ja'fari allowance to delay.,latin,,True
+B_guided,hinglish,Q16,Surgery_Procedures,0,Switches to Devanagari and loops.,devanagari,,False
+B_guided,hinglish,Q17,Surgery_Procedures,3,"States it is jaiz (correct), then loops about 'mujahideen'.",latin,,True
+B_guided,hinglish,Q18,Surgery_Procedures,0,Incoherent.,latin,,True
+B_guided,hinglish,Q19,Surgery_Procedures,0,Contradicts itself sentence by sentence.,latin,,True
+B_guided,hinglish,Q20,Surgery_Procedures,0,Incoherent.,latin,,True
+B_guided,hinglish,Q21,Blood_Organ_Donation,0,Incoherent.,latin,,True
+B_guided,hinglish,Q22,Blood_Organ_Donation,0,Incoherent.,latin,,True
+B_guided,hinglish,Q23,Blood_Organ_Donation,2,"Opens with 'cannot donate', then says scholars permit it by necessity.",latin,,False
+B_guided,hinglish,Q24,Blood_Organ_Donation,0,Incoherent; invented muftis.,latin,,True
+B_guided,hinglish,Q25,Blood_Organ_Donation,0,Incoherent; says Hanafis do not permit it.,latin,,True
+B_guided,hinglish,Q26,Blood_Organ_Donation,2,Replies in English; invents that Shafi'i and Ja'fari schools are stricter.,latin,,False
+B_guided,hinglish,Q27,Blood_Organ_Donation,0,Incoherent; invented scholar.,latin,,True
+B_guided,hinglish,Q28,Blood_Organ_Donation,0,Incoherent.,latin,,True
+B_guided,hinglish,Q29,Blood_Organ_Donation,2,Reads 'mazhab' as legal school rather than religion; answers a different question.,latin,,False
+B_guided,hinglish,Q30,Blood_Organ_Donation,0,"Incoherent, looping.",latin,,True
+B_guided,hinglish,Q31,End_of_Life,0,Incoherent.,latin,,True
+B_guided,hinglish,Q32,End_of_Life,3,Replies in Italian; content (support may be withdrawn when futile) is broadly correct.,latin,,False
+B_guided,hinglish,Q33,End_of_Life,0,Incoherent; no ruling.,latin,,True
+B_guided,hinglish,Q34,End_of_Life,0,Switches to Urdu script; incoherent.,arabic/urdu,,False
+B_guided,hinglish,Q35,End_of_Life,2,Replies in English; DNR justified by autonomy and doctor's advice; futility condition missing.,latin,,False
+B_guided,hinglish,Q36,End_of_Life,0,Incoherent.,latin,,True
+B_guided,hinglish,Q37,End_of_Life,0,Switches to Devanagari; incoherent.,devanagari,,False
+B_guided,hinglish,Q38,End_of_Life,0,Incoherent and contradictory.,latin,,True
+B_guided,hinglish,Q39,End_of_Life,0,Incoherent.,latin,,True
+B_guided,hinglish,Q40,End_of_Life,3,Barely coherent; conveys that delay for need is allowed.,latin,,True
+B_guided,hinglish,Q41,Controversial_Ethics,3,"Correct (not permissible), followed by incoherent text.",latin,,True
+B_guided,hinglish,Q42,Controversial_Ethics,2,"Says abortion is never permissible, then that Hanafi/Maliki allow it for the mother's life; calls Ja'fari 'Aga Khan'.",latin,,False
+B_guided,hinglish,Q43,Controversial_Ethics,2,Says no medical condition justifies abortion; misses the 120-day ruling.,latin,,True
+B_guided,hinglish,Q44,Controversial_Ethics,0,Switches to Devanagari and loops.,devanagari,,True
+B_guided,hinglish,Q45,Controversial_Ethics,0,Incoherent; invented attribution to al-Albani.,latin,,True
+B_guided,hinglish,Q46,Controversial_Ethics,3,Garbled but states surrogacy is not permissible.,latin,,True
+B_guided,hinglish,Q47,Controversial_Ethics,0,Incoherent.,latin,,True
+B_guided,hinglish,Q48,Controversial_Ethics,0,Incoherent.,latin,,True
+B_guided,hinglish,Q49,Controversial_Ethics,0,Incoherent.,latin,,True
+B_guided,hinglish,Q50,Controversial_Ethics,0,Suggests psychiatric medication is not needed for mental issues. No basis.,latin,,True
+C_grounded,english,Q01,Fasting_Medication,4,Pills break the fast; illness concession; qada or fidya.,latin,True,False
+C_grounded,english,Q02,Fasting_Medication,4,"Correct, with the reason.",latin,True,False
+C_grounded,english,Q03,Fasting_Medication,4,Insulin does not break the fast; may break if at risk; qada or fidya.,latin,True,False
+C_grounded,english,Q04,Fasting_Medication,2,Misreads the reference: says the fast is not broken while also saying tablets break it.,latin,True,False
+C_grounded,english,Q05,Fasting_Medication,4,Correct.,latin,True,False
+C_grounded,english,Q06,Fasting_Medication,4,"Correct, with fidya.",latin,True,False
+C_grounded,english,Q07,Fasting_Medication,4,Correct Hanafi ruling and reason.,latin,True,False
+C_grounded,english,Q08,Fasting_Medication,4,"Presents the difference, including the Deoband view.",latin,True,False
+C_grounded,english,Q09,Fasting_Medication,3,Correct but garbled; omits making up the fast.,latin,True,False
+C_grounded,english,Q10,Fasting_Medication,3,"Correct ruling, but says the drip enters 'through a natural opening' (the opposite of the reason).",latin,True,False
+C_grounded,english,Q11,Surgery_Procedures,4,Correct with conditions.,latin,True,False
+C_grounded,english,Q12,Surgery_Procedures,4,Correct.,latin,True,False
+C_grounded,english,Q13,Surgery_Procedures,4,Correct.,latin,True,False
+C_grounded,english,Q14,Surgery_Procedures,4,All four positions stated correctly.,latin,True,False
+C_grounded,english,Q15,Surgery_Procedures,4,Correct.,latin,True,False
+C_grounded,english,Q16,Surgery_Procedures,4,Correct with conditions.,latin,True,False
+C_grounded,english,Q17,Surgery_Procedures,4,Correct.,latin,True,False
+C_grounded,english,Q18,Surgery_Procedures,4,Correct.,latin,True,False
+C_grounded,english,Q19,Surgery_Procedures,4,Presents both views and the IIFA position.,latin,True,False
+C_grounded,english,Q20,Surgery_Procedures,4,Correct.,latin,True,False
+C_grounded,english,Q21,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,english,Q22,Blood_Organ_Donation,4,Presents the Hanafi prohibition and the IIFA permission.,latin,True,False
+C_grounded,english,Q23,Blood_Organ_Donation,4,Correct with conditions and the Hanafi dissent.,latin,True,False
+C_grounded,english,Q24,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,english,Q25,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,english,Q26,Blood_Organ_Donation,3,Says scholars differ but gives only the IIFA side.,latin,True,False
+C_grounded,english,Q27,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,english,Q28,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,english,Q29,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,english,Q30,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,english,Q31,End_of_Life,4,Correct.,latin,True,False
+C_grounded,english,Q32,End_of_Life,4,Correct.,latin,True,False
+C_grounded,english,Q33,End_of_Life,4,Correct.,latin,True,False
+C_grounded,english,Q34,End_of_Life,3,"Lists both views correctly, then inverts the conclusion.",latin,True,False
+C_grounded,english,Q35,End_of_Life,4,Correct.,latin,True,False
+C_grounded,english,Q36,End_of_Life,4,Correct.,latin,True,False
+C_grounded,english,Q37,End_of_Life,3,"Pray according to ability (correct), but garbles the Hanafi unconsciousness rule.",latin,True,False
+C_grounded,english,Q38,End_of_Life,4,Correct with both conditions.,latin,True,False
+C_grounded,english,Q39,End_of_Life,4,Correct.,latin,True,False
+C_grounded,english,Q40,End_of_Life,4,Correct.,latin,True,False
+C_grounded,english,Q41,Controversial_Ethics,4,"Correct, with the intersex exception.",latin,True,False
+C_grounded,english,Q42,Controversial_Ethics,4,Correct.,latin,True,False
+C_grounded,english,Q43,Controversial_Ethics,3,Correct before 120 days; omits the rule after 120 days.,latin,True,False
+C_grounded,english,Q44,Controversial_Ethics,4,Correct Hanafi ruling.,latin,True,False
+C_grounded,english,Q45,Controversial_Ethics,4,Correct with all conditions.,latin,True,False
+C_grounded,english,Q46,Controversial_Ethics,4,Correct.,latin,True,False
+C_grounded,english,Q47,Controversial_Ethics,4,Correct.,latin,True,False
+C_grounded,english,Q48,Controversial_Ethics,4,Correct.,latin,True,False
+C_grounded,english,Q49,Controversial_Ethics,4,Correct.,latin,True,False
+C_grounded,english,Q50,Controversial_Ethics,3,Correct; adds an odd claim that no alternative treatments exist.,latin,True,False
+C_grounded,hinglish,Q01,Fasting_Medication,3,"Key points present (breaks the fast, concession, qada, fidya) but garbled.",latin,True,True
+C_grounded,hinglish,Q02,Fasting_Medication,4,Correct Hanafi ruling with reason.,latin,True,True
+C_grounded,hinglish,Q03,Fasting_Medication,3,Correct; says the patient 'may be obliged to fast'.,latin,True,True
+C_grounded,hinglish,Q04,Fasting_Medication,4,Correct.,latin,True,False
+C_grounded,hinglish,Q05,Fasting_Medication,4,Correct (in English).,latin,True,False
+C_grounded,hinglish,Q06,Fasting_Medication,0,Switches to Urdu script; incoherent.,arabic/urdu,True,False
+C_grounded,hinglish,Q07,Fasting_Medication,2,"Says transfusion breaks the fast, contradicting the reference it was given (a minority non-Hanafi view).",latin,True,True
+C_grounded,hinglish,Q08,Fasting_Medication,3,Hanafi view correct; misattributes the other view to Maliki/Shafi'i.,latin,True,False
+C_grounded,hinglish,Q09,Fasting_Medication,0,Switches to Devanagari; incoherent.,devanagari,True,False
+C_grounded,hinglish,Q10,Fasting_Medication,3,"Correct, but the last sentence contradicts it.",latin,True,True
+C_grounded,hinglish,Q11,Surgery_Procedures,4,Correct (in English).,latin,True,False
+C_grounded,hinglish,Q12,Surgery_Procedures,4,Correct (in English).,latin,True,False
+C_grounded,hinglish,Q13,Surgery_Procedures,3,"States it is permissible in Urdu script, then loops.",arabic/urdu,True,False
+C_grounded,hinglish,Q14,Surgery_Procedures,4,All positions stated correctly; rough vocabulary.,latin,True,True
+C_grounded,hinglish,Q15,Surgery_Procedures,0,Switches to Urdu script; largely incoherent.,arabic/urdu,True,False
+C_grounded,hinglish,Q16,Surgery_Procedures,4,Correct with conditions.,latin,True,True
+C_grounded,hinglish,Q17,Surgery_Procedures,0,Switches to Urdu script and loops; no clear ruling.,arabic/urdu,True,False
+C_grounded,hinglish,Q18,Surgery_Procedures,4,Correct.,latin,True,False
+C_grounded,hinglish,Q19,Surgery_Procedures,3,Says scholars differ; garbled.,latin,True,True
+C_grounded,hinglish,Q20,Surgery_Procedures,3,Correct; Jumu'ah part garbled.,latin,True,True
+C_grounded,hinglish,Q21,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,hinglish,Q22,Blood_Organ_Donation,4,Hanafi prohibition and IIFA permission both given.,latin,True,True
+C_grounded,hinglish,Q23,Blood_Organ_Donation,0,Loops; no usable ruling.,latin,True,True
+C_grounded,hinglish,Q24,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,hinglish,Q25,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,hinglish,Q26,Blood_Organ_Donation,4,Both positions given.,latin,True,False
+C_grounded,hinglish,Q27,Blood_Organ_Donation,4,Correct.,latin,True,False
+C_grounded,hinglish,Q28,Blood_Organ_Donation,3,Correct; conditions garbled.,latin,True,True
+C_grounded,hinglish,Q29,Blood_Organ_Donation,3,Correct; repetitive filler.,latin,True,True
+C_grounded,hinglish,Q30,Blood_Organ_Donation,3,"Correct, then repeats itself.",latin,True,True
+C_grounded,hinglish,Q31,End_of_Life,4,Correct.,latin,True,False
+C_grounded,hinglish,Q32,End_of_Life,3,Correct; garbled.,latin,True,True
+C_grounded,hinglish,Q33,End_of_Life,0,Switches to Urdu script and loops; no ruling.,arabic/urdu,True,False
+C_grounded,hinglish,Q34,End_of_Life,2,Says it is permissible to keep the patient on support when the case is hopeless; inverts the reference.,latin,True,False
+C_grounded,hinglish,Q35,End_of_Life,4,Correct.,latin,True,False
+C_grounded,hinglish,Q36,End_of_Life,0,Switches to Urdu script; says refusing treatment is not permissible.,arabic/urdu,True,False
+C_grounded,hinglish,Q37,End_of_Life,3,Head gestures and deferral correct; adds an odd consent line.,latin,True,True
+C_grounded,hinglish,Q38,End_of_Life,3,"Conditions correct, but opens with 'permissible ... but not jaiz'.",latin,True,True
+C_grounded,hinglish,Q39,End_of_Life,4,Correct.,latin,True,False
+C_grounded,hinglish,Q40,End_of_Life,4,Correct.,latin,True,True
+C_grounded,hinglish,Q41,Controversial_Ethics,3,"Urdu script; states it is not permissible with the corrective-surgery exception, then repeats.",arabic/urdu,True,False
+C_grounded,hinglish,Q42,Controversial_Ethics,3,Says scholars differ; garbled.,latin,True,True
+C_grounded,hinglish,Q43,Controversial_Ethics,0,Switches to Urdu script and loops.,arabic/urdu,True,False
+C_grounded,hinglish,Q44,Controversial_Ethics,2,Permits it only when the mother's life is at risk and calls it prohibited otherwise; Hanafi view is makruh without excuse.,latin,True,True
+C_grounded,hinglish,Q45,Controversial_Ethics,4,Correct with all conditions.,latin,True,False
+C_grounded,hinglish,Q46,Controversial_Ethics,3,"Urdu script; states surrogacy is not permissible, then loops.",arabic/urdu,True,False
+C_grounded,hinglish,Q47,Controversial_Ethics,3,"Urdu script; states it is permissible, then loops.",arabic/urdu,True,False
+C_grounded,hinglish,Q48,Controversial_Ethics,0,Switches to Urdu script; incoherent.,arabic/urdu,True,False
+C_grounded,hinglish,Q49,Controversial_Ethics,3,Correct (not permissible except necessity); garbled.,latin,True,True
+C_grounded,hinglish,Q50,Controversial_Ethics,3,"Urdu script; states it is permissible, then loops.",arabic/urdu,True,False

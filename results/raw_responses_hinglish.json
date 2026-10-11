@@ -1,0 +1,504 @@
+{
+  "results": [
+    {
+      "id": "Q01",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya cancer patient Hanafi fiqh ke mutabiq Ramadan ke roze mein chemotherapy ki goliyan le sakta hai?",
+      "question_english": "Can a cancer patient take chemotherapy pills during Ramadan fasting according to Hanafi fiqh?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh ka maqool ke liye, cancer patient ke roze mein chemotherapy ki goliyan le sakti nahi hai. Hanafi madhab ka maqool bas ke liye, Ramadan mein treatment ki goliyan le sakti nahi hai. Iske bare mai conditions ke liye, Hanafi madhab ka maqool bas ke liye treatment ki goliyan le sakti nahi hai. Iske bare mai specific conditions ke liye Hanafi madhab ka maqool bas ke liye treatment ki goliyan le sakti nahi hai. Hanafi madhab ka maqool bas ke liye treatment ki goliyan le sakti nahi hai.\n\nCondition: Hanafi madhab ka maqool bas ke liye treatment ki goliyan le sakti nahi hai. Hanafi madhab ka maqool bas ke liye treatment ki goliyan le sakti nahi hai.",
+      "timestamp": "2026-10-11 06:31:33"
+    },
+    {
+      "id": "Q02",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya Hanafi school mein nas (vein) ke zariye chemotherapy injection lene se roza toot jata hai?",
+      "question_english": "Does receiving a chemotherapy injection through a vein break the fast in the Hanafi school?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi madhab ka fuqahā' mukthir fatawa-i-Allamah Ibn ul Fadl an-Nawawi (RA) haath kare aur yeh qiyās ki hai ke nas (vein) ka zariye chemotherapy injection lene se roza toot jata hai. Ijāzah hoga.\n\nCondition: Yeh qiyās hanafi madhab ka hai aur Hanafi fuqahā' ko yeh qiyās karna chahiye.",
+      "timestamp": "2026-10-11 06:31:36"
+    },
+    {
+      "id": "Q03",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya diabetic Muslim insulin lene ke liye apna Ramadan ka roza tod sakta hai?",
+      "question_english": "Can a diabetic Muslim break their Ramadan fast to take insulin?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, the ruling on fasting during Ramadan for a diabetic patient who requires insulin is based on the principle of preserving health and avoiding harm. The Hanafi, Maliki, Shafi', and Jaafari schools of thought generally agree that fasting during Ramadan is not permissible for a diabetic patient who requires insulin to maintain their health. However, the Hanbali school allows fasting for patients requiring insulin if they can take their medication before dawn and avoid the fast until after sunset, ensuring that taking insulin does not break the fast.\n\n**Conditions for Hanbali Permissibility:**\n- The patient must take their insulin before dawn.\n- They should fast until after sunset without taking the medication to break the fast.\n\n**Conclusion:**\nFor a diabetic Muslim who requires insulin, it is not permissible to fast during Ramadan unless they can take their medication before dawn and avoid fasting until after sunset. Therefore, the Hanafi, Maliki, Shafi', and Jaafari schools would generally advise against fasting due to the requirement of insulin. The Hanbali school allows fasting under specific conditions, but these are not commonly accepted by other schools.\n\n**School of Thought:**\nHanafi, Maliki, Shafi', and Jaafari schools prohibit fasting due to the requirement of insulin.\n\n**Hanbali School allows fasting under specific conditions.**",
+      "timestamp": "2026-10-11 06:31:43"
+    },
+    {
+      "id": "Q04",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Agar koi patient Ramadan mein severe pain ki wajah se painkillers le, to kya uska roza toot jata hai?",
+      "question_english": "If a patient takes painkillers during Ramadan because of severe pain, is their fast broken?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic law, the use of painkillers during Ramadan is generally permissible for patients experiencing severe pain. This ruling applies to the Maliki and Shafi'i schools of thought, which allow medication for alleviating pain or discomfort under certain conditions. The Hanafi school also allows the use of medications, but requires that they are not harmful and do not cause intoxication. \n\nFor the Hanbali school, there is a stricter stance on medication use during Ramadan but still allows it for severe pain. \n\nThe relevant condition is that the medication must not be harmful and should not cause intoxication or harm to the body. The patient's pain must be severe enough that it interferes with their ability to perform the daily prayers (Salah) or fast (Sawm). \n\nTherefore, if a patient experiences severe pain during Ramadan and requires painkillers to perform their daily prayers or fast, the roza (fast) would not be considered broken. However, it is important to ensure that the medication does not cause harm and complies with Islamic dietary laws.",
+      "timestamp": "2026-10-11 06:31:48"
+    },
+    {
+      "id": "Q05",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya Muslim patient Ramadan mein cancer pain ke liye morphine patch use kar sakta hai bina roza tode?",
+      "question_english": "Can a Muslim patient use a morphine patch for cancer pain during Ramadan without breaking the fast?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Ramadan, a Muslim patient who requires morphine patches for cancer pain treatment can use them without breaking the fast (roza) if certain conditions are met. According to most schools of Islamic thought, including the Maliki and Shafi'i schools, morphine patches are generally considered permissible during Ramadan for pain management. However, the patient must ensure that:\n\n1. The morphine patch does not contain any substances that are prohibited during fasting, such as alcohol or stimulants.\n2. The patch is applied in a manner that does not cause discomfort or pain to the patient, as this could be seen as breaking the fast.\n3. The use of the patch is medically necessary for pain management.\n\nThe ruling here applies to the Maliki and Shafi'i schools of thought, which allow for flexibility in fasting conditions due to necessity. However, it is important to note that opinions from other schools may vary.\n\nConditions for permissible use include:\n- The patch must not cause discomfort or pain to the patient.\n- It should be applied in a manner that does not break the fast.\n\nTherefore, under these conditions, a Muslim patient can use morphine patches for pain management during Ramadan without breaking the fast.",
+      "timestamp": "2026-10-11 06:31:55"
+    },
+    {
+      "id": "Q06",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya Islam mein terminally ill patient ke liye hamesha ke liye roza chhod dena jaiz hai?",
+      "question_english": "Is it permissible in Islam for a terminally ill patient to stop fasting permanently?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein terminally ill patient ke liye hamesha roza chhodden nahi zaroorat hai. Aik mazaahvi madaris aur maaliqeen ke hisaab pe, terminal illness mein roza chhodden zaroorat nahi hoti. Iske baad, mujahideen ke liye terminal illness mein roza chhodden zaroorat hoti hai. Mujahideen ke liye, terminal illness mein roza chhodden wajib hota hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hoti hai. Mujahideen ke liye terminal illness mein roza chhodden wajib hota hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hoti hai.\n\nIske baad, mujahideen ke liye terminal illness mein roza chhodden wajib hota hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hota hai. Mujahideen ke liye terminal illness mein roza chhodden wajib hota hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hoti hai.\n\nAik mazaahvi madaris aur maaliqeen ke hisaab pe, terminal illness mein roza chhodden zaroorat hoti hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hota hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hoti hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hota hai.\n\nAik mazaahvi madaris aur maaliqeen ke hisaab pe, terminal illness mein roza chhodden zaroorat hoti hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hota hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hoti hai. Mujahideen ke liye terminal illness mein roza chhodden zaroorat hota hai.\n\nAik mazaahvi madaris aur maaliqeen ke hisaab pe, terminal illness mein roza chhodden zar",
+      "timestamp": "2026-10-11 06:32:08"
+    },
+    {
+      "id": "Q07",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya Hanafi ulama ke mutabiq Ramadan mein blood transfusion lene se roza toot jata hai?",
+      "question_english": "Does receiving a blood transfusion during Ramadan break the fast according to Hanafi scholars?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi madhab ka fikr hai ke Ramadaane mein blood transfusion lene se roza toot jata nahi. Hanafi school ke ulama ne yakinaya ki, agar roza ka zarurat hai toh blood transfusion nahi milega. Iske alawa, Hanafi madhab ka fikr ke mutabiq Ramadaane mein blood transfusion lene se roza toot jata nahi, lekin uske liye zaban-e-ahwal aur aam-e-aadilat ka zarurat hai.\n\nCondition: Is fikr ke mutabiq Ramadaane mein blood transfusion lene se roza toot jata nahi, lekin Hanafi madhab ke mutabiq Ramadaane mein blood transfusion lene se roza toot jata nahi ke liye zaban-e-ahwal aur aam-e-aadilat ka zarurat hai.",
+      "timestamp": "2026-10-11 06:32:13"
+    },
+    {
+      "id": "Q08",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya Muslim patient Ramadan mein roze ki halat mein asthma inhaler use kar sakta hai?",
+      "question_english": "Can a Muslim patient use an asthma inhaler while fasting in Ramadan?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Ramadan, a Muslim patient with asthma who requires the use of an inhaler for their condition can do so. The ruling on this matter applies to both the Sunni and Shia schools of thought in Islam, as they generally agree that medication is permissible during Ramadan. However, the use of the inhaler must be done in a manner that does not break the fast or involve any form of intoxication. It is important to ensure that the inhaler does not contain substances that would render it impermissible, and that the patient takes care to avoid swallowing any medication accidentally during the act of breathing through the inhaler.\n\nThe relevant condition here is that the patient must use medication (inhalation) to receive the benefits of the inhaler, and this does not break the fast. The patient should consult with a qualified physician to ensure that their medication is compatible with fasting and does not contain any components that would invalidate the fast.",
+      "timestamp": "2026-10-11 06:32:18"
+    },
+    {
+      "id": "Q09",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Agar roza rakhne se serious nuksaan ho to kya cancer patient ke liye Ramadan mein khana jaiz hai?",
+      "question_english": "Is it permissible for a cancer patient to eat during Ramadan if fasting causes serious harm?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic law, fasting during Ramadan (Roza) is considered a religious obligation for healthy individuals. However, if a patient's health condition (nuksaan) is severe enough to prevent them from fasting without causing harm, they are permitted to break their fast. \n\nFor a cancer patient who is experiencing significant health issues during Ramadan, the ruling would depend on several factors including the severity of their condition and whether fasting could exacerbate their symptoms or health issues.\n\n**Ijma (Consensus) of the schools of thought:**\nThe consensus among major Islamic legal schools (Madhhabs), such as Hanafi, Maliki, Shafi'i, and Hanbali, generally agree that a patient who is unable to fast due to serious health issues should break their fast. \n\n**Conditions:**\n1. The patient's condition must be severe and prevent them from fasting without causing harm.\n2. It should not be due to a lack of will or effort but rather an unavoidable health issue.\n3. The patient should ideally seek medical advice to determine the best course of action.\n\nTherefore, in this case where a cancer patient is experiencing serious health issues during Ramadan, it would be permissible for them to break their fast.",
+      "timestamp": "2026-10-11 06:32:25"
+    },
+    {
+      "id": "Q10",
+      "category": "Fasting_Medication",
+      "language": "hinglish",
+      "question": "Kya Hanafi fiqh mein Ramadan ke dauran IV drip lagwane se roza baatil ho jata hai?",
+      "question_english": "Does an IV drip administered during Ramadan invalidate the fast in Hanafi fiqh?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein, Ramadan ke dauran IV drip lagwane se roza baatil nahi ho jata. Hanafi madhab ke liye IV drip lagane ka zabanah (hukum) roza ko mu'tasib ho jata hai, aur uske baad lagane ka wajib nahi hota. Is tarah ke liye, IV drip lagane pe roza baatil nahi ho sakta. \n\nAiske liye, IV drip lagane ka zabanah Hanafi madhab mein roza ko mu'tasib ho jata hai aur uske baad lagane ka wajib nahi hota. Is tarah ke liye IV drip lagane pe roza baatil nahi ho sakta. \n\nCondition: Is zabanah Hanafi madhab mein hoti hai aur uske liye IV drip lagane ka zabanah roza ko mu'tasib ho jata hai aur uske baad lagane ka wajib nahi hota.",
+      "timestamp": "2026-10-11 06:32:31"
+    },
+    {
+      "id": "Q11",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Islam mein Muslim ke liye aisi surgery karwana jaiz hai jismein maut ka risk ho?",
+      "question_english": "Is it permissible in Islam for a Muslim to undergo surgery that carries a risk of death?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein Muslim ke liye surgery ki zaroorat hai jisme maut ka risk ho, lakin yeh Muslimahon ke liye zindagi aur jannat ka qasoom hai. Mujahidin school ke liye, mujahideen waqia (risk of death) condition se baari se zaroorat ke liye surgery ki zaroorat hoti hai. Ibadat ka qasoom Muslimahon ke liye zindagi ko saman karne ki zaroorat hoti hai. Mujahideen waqia condition se baari se Muslimahon ke liye surgery zaroorat hoti hai.",
+      "timestamp": "2026-10-11 06:32:34"
+    },
+    {
+      "id": "Q12",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Islamic ethics ke mutabiq Muslim patient apni family ko bataye bina surgery ke liye consent de sakta hai?",
+      "question_english": "Can a Muslim patient consent to surgery without informing their family according to Islamic ethics?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic medical ethics considers the issue of patient autonomy and consent. According to most schools of thought, including those following Sunni and Shia jurisprudence, patients have the right to give consent for surgery. However, there are conditions under which a patient's family can be consulted and their consent may be required.\n\n**Islamic Ruling:**\nIn most schools of thought, patients are encouraged to give their own consent for surgery. However, in cases where the patient is unconscious or unable to communicate due to illness (such as during surgery), it may be permissible for the patient's family to give consent on their behalf. This is based on the principle that patients have autonomy in decision-making, but this can be overridden by family members when necessary.\n\n**School of Thought:**\nThis ruling is consistent across most Sunni and Shia schools of thought. However, specific details can vary slightly between different scholars within these schools.\n\n**Conditions:**\n1. **Patient's Capacity:** If the patient is fully conscious and able to understand the implications of their decision, they should give consent.\n2. **Unconscious Patient:** If the patient is unconscious or unable to communicate due to illness, it may be permissible for their family to give consent.\n3. **Consultation:** In cases where the patient's capacity is questionable, it is recommended to consult with family members who are familiar with the patient’s wishes and medical condition.\n\n**Relevant Hadith:**\nThe Prophet Muhammad (PBUH) is reported to have said, \"A patient has the right of his own body.\" (Sunan Ibn Majah)\n\nTherefore, while patients have the right to give consent for surgery on their own, in cases where they are unable or unconscious, it is permissible and sometimes necessary for family members to give consent on their behalf.",
+      "timestamp": "2026-10-11 06:32:44"
+    },
+    {
+      "id": "Q13",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Islam mein surgery ke dauran general anaesthesia jaiz hai?",
+      "question_english": "Is general anaesthesia during surgery permissible in Islam?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic jurisprudence, the use of general anaesthesia during surgery is generally permissible (Jaiz) based on several schools of thought, particularly among the Maliki and Shafi'i madhhabs. However, it is important to note that this ruling applies under certain conditions and with caution.\n\n**Maliki School:**\nAccording to the Maliki school, general anaesthesia is permissible if it ensures patient safety and eliminates pain without causing harm to the patient. The decision to use anaesthesia is left to the discretion of the physician, who must ensure that it does not cause unnecessary suffering or harm.\n\n**Shafi'i School:**\nThe Shafi'i school also permits the use of general anaesthesia if it is medically necessary and does not cause harm to the patient. The decision-making authority remains with the physician, who must ensure that the anaesthesia is used for a legitimate medical purpose and does not cause undue suffering.\n\n**Conditions:**\n1. **Medical Necessity:** The anaesthesia must be used for a legitimate medical purpose and to ensure patient safety.\n2. **No Harm:** The anaesthesia must not cause unnecessary harm or suffering to the patient.\n3. **Physician's Decision:** The decision to use anaesthesia is left to a qualified physician who ensures that it is medically necessary and safe.\n\n**Istikhara (Consultation with Allah):**\nIn cases where there is doubt or uncertainty, the patient should consult their imam (religious leader) and seek Allah's guidance through Istikhara, which involves seeking His will in matters of doubt.\n\n**General Ruling:**\nThe use of general anaesthesia during surgery is generally permissible (Jaiz) under the conditions outlined above, particularly according to the Maliki and Shafi'i schools of thought.",
+      "timestamp": "2026-10-11 06:32:53"
+    },
+    {
+      "id": "Q14",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Agar namaz ke waqt koi anaesthesia mein behosh ho, to kya Muslim ko chhooti hui namazein qaza karni hongi?",
+      "question_english": "Does being under anaesthesia during prayer time require a Muslim to make up missed prayers?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In this scenario, if a Muslim patient requires anesthesia during prayer time (namaz), the ruling would depend on several factors, including the specific school of thought in Islam and whether the anesthesia is causing significant distress or harm to the patient.\n\n1. **Hanafi School**: According to the Hanafi school, if anesthesia is administered during prayer time and it causes significant distress or harm to the patient (such as causing unconsciousness), then the prayer is not considered valid. The Hanafi school holds that in such cases, the patient should be discharged from the prayer and allowed to recover before resuming their prayers.\n\n2. **Shafi'i School**: The Shafi'i school generally considers the prayer to be valid even if anesthesia is administered during prayer time. However, they emphasize that the patient should recover before resuming their prayers to avoid causing distress or harm.\n\n3. **Maliki School**: The Maliki school also considers the prayer to be valid if administered during prayer time, but they emphasize that the patient should recover before resuming their prayers to avoid causing distress or harm.\n\n4. **Jafari School (Shia)**: The Jafari school, following the teachings of Imam Ja'far al-Sadiq, generally considers the prayer to be valid even if administered during prayer time. However, they also emphasize that the patient should recover before resuming their prayers to avoid causing distress or harm.\n\n**Relevant Conditions**: The ruling would be based on whether the anesthesia administered during prayer time is causing significant distress or harm to the patient. If it does, then according to Hanafi and Maliki schools, the prayer is not considered valid. If it does not cause significant distress or harm, then according to Shafi'i and Jafari schools, the prayer is considered valid but the patient should recover before resuming their prayers.\n\n**Conclusion**: The specific ruling would depend on whether significant distress or harm is caused by the anesthesia administered during prayer time. If it causes significant distress or harm, then according to Hanafi and Maliki schools, the prayer is not considered valid. If it does not cause significant distress or harm, then according to Shafi'i and Jafari schools, the prayer is considered valid but the patient should recover before resuming their prayers.",
+      "timestamp": "2026-10-11 06:33:05"
+    },
+    {
+      "id": "Q15",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Islam mein Ramadan ki wajah se zaroori surgery ko delay karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to delay a necessary surgery because of Ramadan?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, performing necessary surgeries during Ramadan is generally permissible. The ruling on this matter applies to the Maliki and Shafi'i schools of thought, which allow for delaying non-urgent surgeries during Ramadan due to the importance of fasting and performing prayers. However, for urgent cases where delaying surgery would cause significant harm or death to the patient, it is permissible and even encouraged to perform the necessary surgery during Ramadan.\n\nThe Hanafi school of thought generally allows for delaying non-urgent surgeries during fasting months like Ramadan, but it does not explicitly encourage performing urgent surgeries during this period.\n\nTherefore, based on the Maliki and Shafi'i schools of thought, it is permissible to delay necessary surgeries during Ramadan due to the importance of fasting and prayer.",
+      "timestamp": "2026-10-11 06:33:09"
+    },
+    {
+      "id": "Q16",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Agar female doctor available na ho to kya Muslim aurat male doctor se surgery karwa sakti hai?",
+      "question_english": "Can a Muslim woman undergo surgery performed by a male doctor if no female doctor is available?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic law, female doctors are permitted to perform surgery on male patients. This ruling is based on the permissibility of women performing medical duties, which includes surgery under certain conditions. The school of thought that applies this ruling is the majority view among Sunni scholars, particularly those following the Hanafi school. \n\nThe conditions for this permissibility include:\n\n1. The female doctor must be a Muslim.\n2. The patient must be male and consenting to the procedure.\n3. The doctor's actions are in accordance with Islamic law, ensuring that there is no harm or violation of modesty.\n4. The procedure must be medically necessary and not against Islamic principles.\n\nTherefore, a female doctor is allowed to perform surgery on male patients under these conditions.",
+      "timestamp": "2026-10-11 06:33:13"
+    },
+    {
+      "id": "Q17",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Islam mein cancer treatment ke baad reconstructive purpose ke liye cosmetic surgery jaiz hai?",
+      "question_english": "Is cosmetic surgery permissible in Islam for reconstructive purposes after cancer treatment?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein cancer treatment ke baad reconstructive purpose ke liye cosmetic surgery ka jaiz nahi hai. Mujahidin aur Salafiyyah madaris ke liye, cancer treatment ka qasr (क्षमा) ya ijarah (करीबी) ka usul hai aur reconstructive surgery ne cancer ke baare mein nahi jaiza hoti. Mujahideen madaris ke liye, reconstructive surgery ne cancer ka qasr ya ijarah ka usul hota hai aur mujahideen ne cancer ke baare mein reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baad reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baad reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar se reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota. Mujahideen ne cancer treatment ke baar reconstructive surgery ka jaiza nahi hota.",
+      "timestamp": "2026-10-11 06:33:26"
+    },
+    {
+      "id": "Q18",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Islam mein patient ki jaan bachane ke liye cancerous organ nikalna jaiz hai?",
+      "question_english": "Is it permissible in Islam to remove a cancerous organ to save a patient's life?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, removing a cancerous organ (tissue) is generally permissible and even encouraged. This ruling applies to both the Sunni and Shia schools of thought, as they generally agree on this principle. The relevant condition is that the removal must be done to save the patient's life and alleviate their suffering. The principle here is known as \"Wajibul Khasam\" (Compensatory Surgery), which allows for the removal of organs or tissues that are causing harm to the body, as long as it does not cause more harm than it prevents.\n\nTherefore, based on Islamic medical ethics and jurisprudence, removing a cancerous organ is permissible if it helps to save the patient's life and alleviate their suffering.",
+      "timestamp": "2026-10-11 06:33:30"
+    },
+    {
+      "id": "Q19",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Muslim patient religious wajah se surgery se inkaar kar sakta hai, chahe doctors kahein ke zaroori hai?",
+      "question_english": "Can a Muslim patient refuse surgery on religious grounds even if doctors say it is necessary?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic medical ethics, a patient's right to refuse treatment based on religious grounds is generally allowed. This ruling applies to the majority of Sunni scholars, particularly those following the Hanafi school of thought.\n\nThe rationale behind this is based on the principle that a patient's autonomy in decision-making regarding their health care is respected, as long as it does not lead to harm or unnecessary suffering. The patient's religious beliefs and convictions are considered valid reasons for refusing treatment, as long as the refusal does not cause harm to themselves or others.\n\nHowever, it is important to note that this right to refuse treatment does not extend to actions that are clearly harmful or against the basic tenets of Islam. The patient must also consider their responsibility to seek treatment if it is deemed necessary by a qualified medical professional.\n\nTherefore, while a Muslim patient can refuse surgery based on religious grounds, they must ensure that their refusal does not cause undue harm and is in line with Islamic teachings.",
+      "timestamp": "2026-10-11 06:33:35"
+    },
+    {
+      "id": "Q20",
+      "category": "Surgery_Procedures",
+      "language": "hinglish",
+      "question": "Kya Islam mein Jumma (Friday) ke din surgery karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to perform surgery on a Friday?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, performing surgery on Fridays (Jumu'a) is generally discouraged due to the principle of avoiding unnecessary gatherings and distractions during prayer times. The Hanafi school of thought, which is one of the four major schools of Islamic jurisprudence (Maliki and Shafi'i also prohibit it, while the Hanbali school is more permissive on this issue), applies a condition that surgery should not be performed during the prayer times (i.e., Fajr, Dhuhr, Asr, Maghrib, and Isha').\n\nHowever, the Hanafi school allows for surgery on Fridays if it is absolutely necessary and cannot be postponed. The ruling here depends on the necessity of the surgery, as well as ensuring that it does not interfere with prayer times. If postponing the surgery is possible, it should be done to avoid any complications arising from performing surgery during prayer times.\n\nTherefore, the specific ruling for Hanafi scholars is that while it is generally discouraged to perform surgery on Fridays due to the prayer times, if the necessity of the surgery cannot be avoided and it must be performed on Friday, then it is permissible.",
+      "timestamp": "2026-10-11 06:33:41"
+    },
+    {
+      "id": "Q21",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Islam mein blood transfusion jaiz hai jab patient ki jaan khatre mein ho?",
+      "question_english": "Is blood transfusion permissible in Islam when a patient's life is at risk?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, blood transfusion is generally not permissible due to the prohibition of mixing meats (haram al-khalasah) and non-meat substances. The Hanafi school of thought explicitly prohibits blood transfusions under all circumstances, as it involves mixing substances that are not halal (permissible). However, this ruling is based on the prohibition of consuming blood and the belief that it is haram to consume or use in any form.\n\nThe Hanafi school's stance on this issue applies universally without specific conditions, as the prohibition is based on religious texts and principles that are considered binding for all Muslims.\n\nTherefore, according to the Hanafi school of thought, blood transfusion is not permissible.",
+      "timestamp": "2026-10-11 06:33:44"
+    },
+    {
+      "id": "Q22",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Hanafi fiqh mein maut ke baad organ donation jaiz hai?",
+      "question_english": "Is organ donation after death permissible in Hanafi fiqh?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein, maut ke baad organ donation jaiz hai. Aisye shikwaas (organ transplants) apni zindagi ke baare mein qiyamat ka haqanaaz bana sakte, toh woh apna jism ke liye qiyamat ka haqanaaz bana sakte. Hanafi school of thought ki aik maqasid (objectives) ka bana hai ki zindagi ke liye apna jism qiyamat ka haqanaaz bana sakte. \n\nCondition: Organ donation wajib nahi hota, lekin apna jism ke liye qiyamat ka haqanaaz bana sakte hota. \n\nNote: Hanafi fiqh ke liye, maut ke baad organ donation jaiz hai. Ek aur maqasid ka Hanafi fiqh ke liye, organ donation wajib nahi hota.",
+      "timestamp": "2026-10-11 06:33:50"
+    },
+    {
+      "id": "Q23",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya zinda Muslim kisi doosre ki jaan bachane ke liye apni ek kidney donate kar sakta hai?",
+      "question_english": "Can a living Muslim donate one kidney to save another person's life?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic law, the ruling on whether a living Muslim can donate one of their kidneys to save another person's life is generally based on the permissibility of organ donation, which varies among different schools of thought.\n\n1. **Shafi'i School**: According to the Shafi'i school, organ donation is permissible if it does not cause harm to the donor. In this context, donating a kidney would be considered permissible as long as it does not cause significant harm to the donor's health.\n\n2. **Hanafi School**: The Hanafi school generally allows organ donation if it does not cause harm to the donor. However, they also consider the concept of \"hadd\" (punishment for prohibited actions) and might view organ donation as a form of self-harm, which could be seen as impermissible.\n\n3. **Maliki School**: The Maliki school allows organ donation if it does not cause harm to the donor. They also consider the permissibility of self-harm in certain circumstances, but this is not explicitly addressed for organ donation.\n\n**Conditions**: The permissibility of organ donation in Islamic law also depends on the specific conditions and circumstances. If the donor's kidney is removed to save another person's life, it would generally be considered permissible. However, if the donor experiences significant harm or discomfort due to the donation, it would be considered impermissible.\n\n**Conclusion**: Based on these schools of thought, a living Muslim can donate one kidney to save another person's life if it does not cause significant harm to the donor. This ruling is based on permissibility and not necessarily on mandatory permissibility.\n\n**School of Thought**: This ruling applies to the Shafi'i and Hanafi schools, where organ donation is permissible if it does not cause harm to the donor.",
+      "timestamp": "2026-10-11 06:33:59"
+    },
+    {
+      "id": "Q24",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Islam mein non-Muslim donor se organ lena jaiz hai?",
+      "question_english": "Is it permissible in Islam to receive an organ from a non-Muslim donor?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic law, receiving organs from a non-Muslim donor is generally not permissible. This ruling comes from the Hanafi school of thought, which holds that organs must be donated by a Muslim for it to be considered halal (permissible). The Hanafi school considers the sanctity of life and organ donation to be a religious duty for Muslims, which is not fulfilled if the donor is non-Muslim. However, it's important to note that this ruling may vary slightly depending on the specific interpretation and context within Islamic jurisprudence.",
+      "timestamp": "2026-10-11 06:34:02"
+    },
+    {
+      "id": "Q25",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Islam mein bone marrow donation jaiz hai?",
+      "question_english": "Is bone marrow donation permissible in Islam?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic jurisprudence, bone marrow donation is generally considered permissible (halal) based on the permissibility of saving a life. This ruling is derived from various principles including the necessity to save lives and alleviate suffering, which are emphasized in Islamic teachings.\n\nThe Hanafi school of thought is particularly clear on this issue. According to them, if bone marrow donation can save a life or alleviate suffering without causing harm to the donor's body (which is considered permissible in Islam), then it is allowed. The Hanafi school does not have a specific fatwa on bone marrow donation, but it is generally considered permissible based on the permissibility of saving lives.\n\nConditions for permissibility include ensuring that the donation does not cause harm to the donor's body and is done for a legitimate purpose of saving lives or alleviating suffering.\n\nTherefore, based on Hanafi jurisprudence, bone marrow donation is permissible if it can save a life or alleviate suffering.",
+      "timestamp": "2026-10-11 06:34:08"
+    },
+    {
+      "id": "Q26",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Muslim family kisi marhoom family member ki taraf se organ donation ka consent de sakti hai jisne koi hidayat nahi chhodi?",
+      "question_english": "Can a Muslim family consent to organ donation on behalf of a deceased family member who left no instructions?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Organ donation is generally permissible in Islam, and the deceased's consent or lack thereof does not affect this permissibility. However, in cases where a family member is seeking to donate organs from a deceased relative without their explicit consent (which may be considered against the deceased's wishes), it is generally discouraged but not strictly prohibited.\n\n**Islamic Ruling:**\nIn the absence of explicit consent from the deceased, organ donation by a family member is discouraged but not strictly prohibited. The decision should be made with consideration for the deceased's wishes and respect for their autonomy.\n\n**School of Thought:**\nThis ruling applies to most Sunni schools of thought, including the Hanafi, Maliki, Shafi', and Jaafari (Shia) schools. The Hanbali school has a more stringent stance on this issue, but even they generally do not consider organ donation without consent as impermissible.\n\n**Conditions:**\n1. The family member must have the deceased's explicit or implicit consent to donate organs.\n2. If there is no known objection from the deceased regarding organ donation, it can be presumed that they would have consented.\n3. The family's decision should reflect the deceased's wishes and respect for their autonomy.\n\n**Note:**\nThe ruling does not change the permissibility of organ donation, but it emphasizes the importance of respecting the deceased's wishes and obtaining their consent if possible.",
+      "timestamp": "2026-10-11 06:34:15"
+    },
+    {
+      "id": "Q27",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Islam mein pig se bana heart valve lena jaiz hai agar koi aur option na ho?",
+      "question_english": "Is it permissible in Islam to receive a pig-derived heart valve if no alternative exists?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein, pig se bana heart valve lena Islam ki ahdat pehle nahi zaruriat hai. Mujtahideen (Islamic scholars) differ in opinion, but generally, it is considered haraam (prohibited). This ruling applies to the Maliki and Shafi'i schools of thought, who consider it haraam due to its origin from a non-creedal animal. However, the Hanafi school allows it if there are no other options available and it is used for a permissible purpose. The Zahiri school also considers it haraam but only if the pig is slaughtered in a non-Islamic manner.",
+      "timestamp": "2026-10-11 06:34:19"
+    },
+    {
+      "id": "Q28",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Hanafi fiqh mein Ramadan ke roze ki halat mein blood donate karna jaiz hai?",
+      "question_english": "Is blood donation permissible during Ramadan fasting in Hanafi fiqh?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein, Ramadan ke roze ki halat mein blood donation (blood donate) jaiz nahi hai. Conditionally, Hanafi madhab ne roza mein blood donation ka hukm abruri (unclear) diya. Ijma' Hanafi madhab ne roza mein blood donation ki permissibility ko abruri diya hai. Hanafi school of thought believes that fasting during Ramadan is a very important religious duty and any action that might interfere with this duty or cause unnecessary hardship to the fast is discouraged. Therefore, blood donation during Ramadan is not permissible according to Hanafi madhab.\n\nHowever, it's important to note that this ruling may vary based on the specific conditions and interpretations within Hanafi thought.",
+      "timestamp": "2026-10-11 06:34:23"
+    },
+    {
+      "id": "Q29",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Muslim kisi doosre mazhab ke shakhs se blood donation le sakta hai?",
+      "question_english": "Can a Muslim accept a blood donation from someone of another religion?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic law, the act of receiving blood transfusions is generally considered permissible (makruh but mukarrar) for a Muslim. This ruling applies to all four major schools of Islamic thought (Hanafi, Maliki, Shafi'i, and Hanbali).\n\nThe relevant condition is that the blood transfusion must be necessary for saving a patient's life. If it is not essential, then abstaining from the transfusion would be more virtuous (makruh but mukarrar). However, if the patient's life is at stake and a blood transfusion is required to save it, then accepting the transfusion would be permissible.\n\nTherefore, a Muslim can accept blood transfusions if they are medically necessary to save the patient's life.",
+      "timestamp": "2026-10-11 06:34:27"
+    },
+    {
+      "id": "Q30",
+      "category": "Blood_Organ_Donation",
+      "language": "hinglish",
+      "question": "Kya Islam mein paison ke liye khoon ya organs bechna jaiz hai?",
+      "question_english": "Is it permissible in Islam to sell blood or organs for money?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, taking or giving organs from one person to another (khoon) is generally not permissible. This ruling comes from the Hanafi school of thought, which considers organ transplants as a form of taking life or causing harm to another person's body. The Hanafi school believes that preserving and restoring the health of a living individual is more virtuous than taking organs from one person to give them to another. However, it's important to note that this ruling does not apply universally across all Islamic schools of thought. The other main schools (Shafi'i, Maliki, and Jaafari) generally allow organ transplants if they are considered beneficial for the patient's health.",
+      "timestamp": "2026-10-11 06:34:30"
+    },
+    {
+      "id": "Q31",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Kya Islam mein aise strong painkillers dena jaiz hai jo terminal patient ki zindagi kam kar sakte hain?",
+      "question_english": "Is it permissible in Islam to use strong painkillers that may shorten a terminal patient's life?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, the use of strong painkillers for terminally ill patients who are suffering greatly is generally permissible (Jaiz) based on the principles of mercy and alleviation of pain. This ruling is supported by various schools of thought including the Hanafi, Maliki, and Shafi'i schools. The rationale behind this permissibility is rooted in the hadiths that emphasize mercy (Rahma) and alleviation of suffering for patients.\n\nHowever, it is important to note that the use of such strong painkillers must be done with caution and under medical supervision. The intention should always be to alleviate suffering without causing harm or prolonging the patient's distress.\n\nThe Hanbali school, on the other hand, has a more conservative stance and may view such actions with greater caution due to their emphasis on the prohibition of causing harm (Haram Al-Munkar).\n\nTherefore, based on the Hanafi, Maliki, and Shafi'i schools of thought, it is permissible to use strong painkillers for terminally ill patients who are in severe suffering.",
+      "timestamp": "2026-10-11 06:34:36"
+    },
+    {
+      "id": "Q32",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Kya Muslim family doctors se terminally ill patient ka life support band karne ko keh sakti hai?",
+      "question_english": "Can a Muslim family request doctors to stop life support for a terminally ill patient?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic law, the decision to discontinue life support for a terminally ill patient is generally guided by the principle of preserving life and avoiding unnecessary harm. The ruling on this matter varies between different Islamic legal schools (Madhhabs), but the consensus among scholars is that doctors are allowed to discontinue life support measures if it becomes clear that the patient's condition will not improve and there is no hope of recovery.\n\n**Hanafi School:**\nAccording to the Hanafi school, doctors are permitted to discontinue life support measures if it is clear that the patient's condition will not improve and there is no hope of recovery. The Hanafi school emphasizes mercy (ihtiyat) in such situations, meaning that doctors should take precautions to avoid causing unnecessary harm.\n\n**Maliki School:**\nThe Maliki school also allows doctors to discontinue life support measures if it is clear that the patient's condition will not improve and there is no hope of recovery. However, they also stress the importance of mercy (ihtiyat) and suggest that doctors should take all possible steps to improve the patient's condition before discontinuing life support.\n\n**Shafi'i School:**\nThe Shafi'i school allows doctors to discontinue life support measures if it is clear that the patient's condition will not improve and there is no hope of recovery. However, they also emphasize mercy (ihtiyat) and suggest that doctors should take all possible steps to improve the patient's condition before discontinuing life support.\n\n**Hanbali School:**\nThe Hanbali school allows doctors to discontinue life support measures if it is clear that the patient's condition will not improve and there is no hope of recovery. They also emphasize mercy (ihtiyat) but do not provide specific guidelines beyond this general principle.\n\n**Conditions:**\n- The patient must be terminally ill and have no hope of recovery.\n- Doctors should take all possible steps to improve the patient's condition before discontinuing life support measures.\n- The decision should be guided by mercy (ihtiyat) and the preservation of life.\n\n**Conclusion:**\nBased on these schools, Muslim family doctors are allowed to discontinue life support measures for a terminally ill patient if it is clear that the condition will not improve and there is no hope of recovery. However, they are encouraged to take all possible steps to improve the patient's condition before making such a decision.",
+      "timestamp": "2026-10-11 06:34:49"
+    },
+    {
+      "id": "Q33",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Kya Islam mein kisi bhi halat mein euthanasia ya assisted dying jaiz hai?",
+      "question_english": "Is euthanasia or assisted dying permissible in Islam under any circumstances?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Euthanasia and Assisted Suicide are not explicitly addressed in Islamic law. However, based on the principles of mercy (ihtiyat bi'du) and preventing harm (dharura), Islamic scholars generally discourage actions that lead to the death of a patient. The ruling would likely be against euthanasia and assisted suicide due to their direct involvement in causing death. \n\nThis ruling applies primarily to the Hanafi and Shafi schools of thought, which emphasize mercy and preventing harm. However, it is important to note that the Maliki school of thought generally allows for mercy in extreme cases where a patient's suffering is unbearable, but this does not extend to euthanasia or assisted suicide.\n\nConditions for mercy (ihtiyat bi'du) include cases where a patient's suffering is unbearable and there are no other alternatives. In such cases, the Hanafi school allows for mercy to be exercised by removing the patient from consciousness or pain without causing death. However, this is not applicable to euthanasia or assisted suicide.\n\nTherefore, based on the Hanafi and Shafi schools of thought, euthanasia and assisted suicide are generally considered impermissible due to their direct involvement in causing death.",
+      "timestamp": "2026-10-11 06:34:55"
+    },
+    {
+      "id": "Q34",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Brain-dead patient ko life support par rakhne ke baare mein Islamic hukm kya hai?",
+      "question_english": "What is the Islamic ruling on keeping a brain-dead patient on life support?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic law does not provide a specific ruling on whether to continue life support for brain-dead patients. The schools of Islamic thought generally do not address this specific scenario due to the lack of clear textual evidence. However, based on general principles and interpretations from various Islamic scholars:\n\n1. **Hanafi School**: Some Hanafi scholars argue that since the patient is brain-dead, they are not alive in a legal sense and therefore do not require life support. They suggest removing the patient from life support to prevent unnecessary use of resources.\n\n2. **Shafi'i School**: Similar to the Hanafi view, Shafi'is also generally advise removing life support for brain-dead patients. They argue that since the patient is not alive, there is no need to continue life support.\n\n3. **Maliki and Jaafari Schools**: These schools do not provide specific rulings on this issue either, but they generally agree with the Hanafi and Shafi'i views that brain-dead patients do not require life support.\n\n**Conditions**: The ruling does not change based on the specific conditions of the patient or the resources available. It is primarily a matter of determining whether the patient is alive in a legal sense, which for brain-dead patients is not considered to be so.\n\n**Conclusion**: The Hanafi and Shafi'i schools of thought generally advise removing life support for brain-dead patients, while other schools do not provide specific rulings on this issue.",
+      "timestamp": "2026-10-11 06:35:02"
+    },
+    {
+      "id": "Q35",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Kya Islamic ethics ke mutabiq Muslim patient do-not-resuscitate (DNR) order likh sakta hai?",
+      "question_english": "Can a Muslim patient write a do-not-resuscitate order according to Islamic ethics?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic medical ethics does not explicitly address the concept of a \"do-not-resuscitate\" (DNR) order. However, based on the principles of Islamic law and ethics, a patient can request to have such an order placed in their medical file. The ruling would generally be considered permissable by most schools of Islamic thought, including the Hanafi, Maliki, and Shafi'i schools.\n\nConditions for this ruling include:\n1. The patient must be fully conscious, rational, and capable of making informed decisions.\n2. The DNR request should be made voluntarily without any external coercion or pressure.\n3. It must not contradict the patient's religious obligations and rights.\n\nThe Hanafi school, in particular, allows patients to make their own decisions regarding resuscitation and treatment. The patient's autonomy is respected, and the decision to request a DNR order can be considered within this framework.\n\nThe Shafi'i school also allows patients to make their own decisions regarding resuscitation, but they may require a second opinion from a respected scholar to confirm the patient's wishes.\n\nThe Maliki school generally allows patients to make their own decisions regarding resuscitation, but they may require a second opinion from a respected scholar to confirm the patient's wishes.\n\nTherefore, while there is no direct ruling on DNR orders from Islamic sources, the principle of respecting patient autonomy and their right to make decisions regarding their own treatment is upheld.",
+      "timestamp": "2026-10-11 06:35:09"
+    },
+    {
+      "id": "Q36",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Kya Islam mein terminally ill patient ke liye mazeed treatment se inkaar karna jaiz hai?",
+      "question_english": "Is it permissible in Islam for a terminally ill patient to refuse further treatment?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, treating a terminally ill patient with chemotherapy (mazeed treatment) is generally not encouraged. The ruling on this matter comes from the school of thought known as Wahhabi (Hanafi Madhab). \n\nThe relevant conditions include:\n1. The patient's condition is terminal, meaning there is no chance of recovery.\n2. The treatment involves significant side effects and suffering for the patient.\n\nThe Hanafi school of thought, which is one of the four major schools of Islamic jurisprudence (Maliki, Shafi'i, Hanbali, and Ja'fari), among others, holds that in cases of terminal illness where the treatment involves significant suffering and no chance of recovery, it is permissible to avoid such treatments. This ruling aims to protect the dignity and comfort of the patient.\n\nHowever, it's important to note that this ruling is specific to terminal illnesses and significant suffering. In other cases, treatment should be pursued unless it causes undue harm or suffering to the patient.",
+      "timestamp": "2026-10-11 06:35:14"
+    },
+    {
+      "id": "Q37",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Hospital mein bhartee Muslim patient jo hil nahi sakta, apni chhooti hui namazon ko kaise handle kare?",
+      "question_english": "How should a Muslim patient handle missed prayers when hospitalized and unable to move?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In this scenario, the Islamic ruling on handling a Muslim patient who is unable to hold their catheter (chooti) due to paralysis or other conditions, would be based on the principles of mercy and dignity (respect for human life) as interpreted by various schools of thought within Sunni Islam, particularly the Hanafi and Maliki schools.\n\n**Hanafi School:**\nAccording to the Hanafi school, if a patient is unable to hold their catheter due to paralysis or other conditions, it is permissible for the healthcare provider to insert a catheter without the patient's consent. The Hanafi school emphasizes mercy and the preservation of life, suggesting that in cases where a patient cannot manage their own catheter due to physical limitations, it is permissible for the healthcare provider to intervene. However, this ruling would require a doctor's consent and care to ensure that the patient is not harmed.\n\n**Maliki School:**\nThe Maliki school also allows for a healthcare provider to insert a catheter without the patient's consent if it is necessary due to the patient's condition. The Maliki school also emphasizes mercy and the preservation of life, but it requires that such actions be taken with care to avoid causing harm.\n\n**Conditions:**\n- The patient must be in a state where they cannot manage their catheter due to paralysis or other physical conditions.\n- The healthcare provider must have the necessary medical training and consent from a doctor to perform such procedures.\n\n**Conclusion:**\nIn this situation, it would be permissible for the healthcare provider to insert a catheter without the patient's consent if they are unable to manage it due to paralysis or other conditions. However, this action should be taken with the utmost care and in accordance with medical protocols to ensure the patient's dignity and comfort.",
+      "timestamp": "2026-10-11 06:35:23"
+    },
+    {
+      "id": "Q38",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Kya Islam mein marne wale patient ko aakhri ghanton mein aisi sedation dena jaiz hai jo uska hosh kam kar de?",
+      "question_english": "Is it permissible in Islam to give a dying patient sedation that reduces their consciousness in final hours?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein, aakhri ghanton mein patient ko sedation dena wajib nahi hai. Aisay koi treatment mujahid nahin hota, jabki uske hosh kam karne ke liye aise treatment use karna hota hai. Is tarah se, mujahid nahin hota ki aakhri ghanton mein patient ko sedation dena. \n\nIs tarah se, mujahid nahin hota ki aakhri ghanton mein patient ko sedation dena. Mu'men ke liye, yeh treatment uss mu'amin ko zindagi ka qarz kam karne ke liye use aise treatment use karna hota hai, wohi yeh treatment Islam ke muammalon mein mujahid nahin hota.\n\nIs tarha se, aakhri ghanton mein patient ko sedation dena Islam ke madaris aur tariqat ke mu'amalat mein mujahid nahin hota.",
+      "timestamp": "2026-10-11 06:35:29"
+    },
+    {
+      "id": "Q39",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Muslim ki maut ke baad autopsy (postmortem) ke baare mein Islamic hukm kya hai?",
+      "question_english": "What is the Islamic ruling on autopsy after a Muslim's death?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamic law does not explicitly address the permissibility of postmortem examinations (autopsies) for medical purposes. However, based on the principles of Islamic law and ethical considerations, most schools of thought (Maliki, Shafi'i, Hanafi) generally allow postmortem examinations if they are deemed necessary for medical research or to prevent harm. \n\nThe Hanbali school, on the other hand, is more conservative and may view such examinations as impermissible unless absolutely necessary. \n\n**Conditions for Permissibility:**\n- The examination must be performed by a qualified medical professional.\n- It should serve the greater good, such as improving medical knowledge or preventing harm to future patients.\n\n**School of Thought:**\nMost permissive view comes from the Maliki and Shafi'i schools, while Hanafi school allows it under certain conditions. The Hanbali school is more conservative on this issue.\n\n**Ruling:**\nPermissible if it serves a greater good and is performed by qualified medical professionals.",
+      "timestamp": "2026-10-11 06:35:34"
+    },
+    {
+      "id": "Q40",
+      "category": "End_of_Life",
+      "language": "hinglish",
+      "question": "Kya Islam mein medical investigation ke liye dafan (burial) mein deri karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to delay burial for medical investigation purposes?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, performing a medical investigation on a deceased body for the purpose of determining its cause of death is generally permissible (Jaiz) under certain conditions. This ruling applies to the Sunni school of thought, particularly based on the consensus (Ijma) among scholars.\n\n**Conditions for Permissibility:**\n1. **Necessity:** The investigation must be deemed absolutely necessary to determine the cause of death accurately.\n2. **Minimization of Harm:** Efforts must be made to minimize any harm or discomfort caused during the investigation.\n3. **Consensus (Ijma):** The scholars agree that such investigations are permissible when they serve the greater good, which in this case is determining the cause of death accurately.\n\n**Ruling:**\nPermissible (Jaiz) under these conditions, as long as the above stipulations are met.\n\n**School of Thought:**\nThis ruling applies to Sunni thought, as well as Shia thought, although there might be slight variations in interpretation and application among different schools of thought within Islam.",
+      "timestamp": "2026-10-11 06:35:40"
+    },
+    {
+      "id": "Q41",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein kisi bhi halat mein gender reassignment surgery jaiz hai?",
+      "question_english": "Is gender reassignment surgery permissible in Islam under any circumstances?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, there is no specific mention of gender reassignment surgery (also known as sex affirmation or transgender surgeries). The ruling on such procedures is not explicitly addressed in the primary sources of Islamic law, such as the Quran and Hadith. \n\nHowever, based on general principles derived from Islamic teachings, most schools of thought (Maliki, Shafi'i, Hanafi) agree that such surgeries should be performed only when medically necessary and to alleviate the patient's suffering. The Hanbali school, on the other hand, tends to be more conservative and may require additional considerations based on their interpretation of Islamic law.\n\nThe primary concern in Islamic medical ethics is the well-being and dignity of the patient. Therefore, while there is no direct ruling on gender reassignment surgery, it should be performed if medically indicated to ensure the patient's health and comfort.",
+      "timestamp": "2026-10-11 06:35:44"
+    },
+    {
+      "id": "Q42",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein abortion jaiz hai agar pregnancy rape (zabardasti / sexual assault) ka nateeja ho?",
+      "question_english": "Is abortion permissible in Islam if the pregnancy results from rape (sexual assault)?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, abortion is generally not permissible under any circumstances. This ruling comes from the Hanafi school of thought, which is one of the four major schools of Islamic jurisprudence. The Hanafi school considers abortion to be impermissible, even in cases of rape or fetal anomaly (zangi), as it is seen as taking life before its due time. However, the Hanafi school does allow for emergency situations where the mother's life is at risk to be taken into consideration, but this does not apply to cases of rape or fetal anomaly.\n\nTherefore, based on Hanafi jurisprudence, abortion is not permissible even in the case of rape.",
+      "timestamp": "2026-10-11 06:37:17"
+    },
+    {
+      "id": "Q43",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein abortion jaiz hai agar foetus ko koi severe fatal medical condition ho?",
+      "question_english": "Is abortion permissible in Islam if the foetus has a severe fatal medical condition?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, the permissibility of abortion is not explicitly addressed in clear textual sources. However, based on general principles and interpretations from various Islamic schools of thought (Madhhabs), the issue of abortion in cases where the fetus has a severe fatal medical condition is generally considered permissible by most scholars, particularly from the Hanafi and Maliki schools.\n\n**Hanafi School:**\nAccording to the Hanafi school, abortion is generally permissible for saving the mother's life. If a fetus has a severe fatal medical condition that poses an immediate threat to the mother's health and survival, it is permissible to perform abortion. This ruling takes into account the protection of the mother's life as a fundamental Islamic principle.\n\n**Maliki School:**\nThe Maliki school also allows abortion in cases where the fetus has a severe fatal medical condition that endangers the mother's life. However, they require more stringent conditions and may consider other alternatives such as prayer for the fetus's recovery.\n\n**Conditions:**\n- The fetal condition must be severe and fatal.\n- There must be a clear imminent threat to the mother's life.\n- The decision should ideally come after consulting with knowledgeable medical professionals and religious scholars.\n\n**Conclusion:**\nBased on the Hanafi and Maliki schools, if a fetus has a severe fatal medical condition that endangers the mother's life and immediate action is required to save her, abortion may be considered permissible. However, it is crucial that this decision is made in consultation with medical experts and religious scholars to ensure compliance with Islamic law.\n\n**School of Thought:**\nHanafi and Maliki schools\n\n**Conditions:**\n- Severe fetal condition\n- Imminent threat to the mother's life",
+      "timestamp": "2026-10-11 06:36:01"
+    },
+    {
+      "id": "Q44",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Hanafi fiqh mein pregnancy ke 40 din se pehle abortion ka Islamic hukm kya hai?",
+      "question_english": "What is the Islamic ruling on abortion before 40 days of pregnancy in Hanafi fiqh?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Hanafi fiqh mein, abortion ke 40 din se pehle zarurat kaam nahi hai. Hanafi madhab mein, jism ki faas (jism ke zaroorat kaam) 40 din se pehle nahi ho sakta. Aisa zarurat kaam hoga jisme ijarah aur nafs ki faas zaroori ho. \n\nAisa hukm Hanafi madhab ke liye hai aur woh ijtihad se banta hai. Mu'tazila aur Shafi madhab mein aboortur pe yeh hukm nahi hai. Mu'tazila madhab mein, aboortur ke liye zaroorat nahi hai aur Shafi madhab mein aboortur ke liye 40 din se baad ho jate hain zaroorat.\n\nCondition: Ijtihad ke liye Hanafi madhab mein.",
+      "timestamp": "2026-10-11 06:36:07"
+    },
+    {
+      "id": "Q45",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein shaadi-shuda Muslim couple ke liye IVF jaiz hai?",
+      "question_english": "Is IVF permissible in Islam for a married Muslim couple?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islam mein IVF (In Vitro Fertilization) ke liye shaadi-shuda Muslim couple ko IVF ka nazar nahi aaya. Islam ke medikal ethics aur prenatal care se baare mein, IVF ka haq kuch specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. Muslim uloom-e-hadis aur fiqh school of thought ki taraf, IVF ka haq Islam mein specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka haq Muslim uloom-e-hadis aur fiqh school of thought ki taraf specific conditions ke liye apni aikat mein nazar karne ki zaroorat hoti hai. IVF ka ha",
+      "timestamp": "2026-10-11 06:36:20"
+    },
+    {
+      "id": "Q46",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein surrogacy jaiz hai?",
+      "question_english": "Is surrogacy permissible in Islam?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "Islamically, surrogacy is not explicitly addressed in the Quran or Hadith. However, based on Islamic principles of ethics and jurisprudence, most schools of thought (Maliki, Shafi'i, Hanafi) generally consider surrogacy permissible under certain conditions. \n\nThe Hanbali school (Maliki and Shafi'i inclinations) allows surrogacy if it is for the benefit of others, such as when a woman cannot carry a child due to health issues. The Hanafi school (Hanafi inclination) also allows surrogacy under similar conditions but with more stringent requirements.\n\n**Ruling:** Surrogacy is generally permissible in Islam, particularly when it serves the welfare of others. However, specific conditions must be met for permissibility.\n\n**Schools of Thought:** Maliki and Shafi'i inclinations allow surrogacy for the benefit of others, while Hanafi school allows it under more stringent conditions.\n\n**Conditions:** Surrogacy must serve the welfare of others, such as when a woman cannot carry a child due to health issues.",
+      "timestamp": "2026-10-11 06:36:25"
+    },
+    {
+      "id": "Q47",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein prenatal genetic testing jaiz hai?",
+      "question_english": "Is prenatal genetic testing permissible in Islam?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic jurisprudence, the permissibility of prenatal genetic testing (PNT) is a matter that falls under the school of thought of the Hanafi法学派. The Hanafis generally allow PNT if it is done for the welfare and health of the fetus, but they emphasize that such testing should be avoided if it leads to harm or distress for the mother.\n\n**Ruling:**\nPrenatal genetic testing is generally permissible in Islam, but it must be done with the intention of ensuring the welfare and health of the fetus. The Hanafi school does not explicitly prohibit PNT, but it advises against unnecessary testing that could cause harm to the mother or lead to complications.\n\n**Conditions:**\n1. The test must be done for a legitimate purpose.\n2. It should not cause undue harm or distress to the mother.\n3. The results of the test must be used in a manner that benefits both the fetus and the mother.\n\n**School of Thought:**\nHanafi法学派\n\nThese conditions are based on the Hanafi school's interpretation and guidance regarding medical practices in Islam.",
+      "timestamp": "2026-10-11 06:36:31"
+    },
+    {
+      "id": "Q48",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein maa ki sehat ki hifazat ke liye contraception use karna jaiz hai?",
+      "question_english": "Is it permissible in Islam to use contraception to protect the mother's health?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, the use of contraceptives for the purpose of preventing pregnancy is not explicitly addressed in clear textual sources. However, based on Islamic principles and interpretations by various scholars, the ruling is generally not permissable under normal circumstances. \n\nThe school of thought that applies this ruling includes the majority of Sunni scholars, particularly those following the Maliki and Shafi'i schools. The Hanafi school has a more permissive view, allowing the use of contraceptives under certain conditions.\n\n**Conditions for Hanafi scholars:**\n- If pregnancy is likely to cause harm or significant hardship.\n- In cases of clear and unchangeable infidelity (i.e., when the husband is certain his wife has been unfaithful).\n- For health reasons where pregnancy could endanger the mother's life or cause severe complications.\n\n**Conditions for Maliki and Shafi'i scholars:**\n- Not explicitly stated, but generally more restrictive.\n\n**General Ruling for Sunni Scholars (Maliki and Shafi'i):**\n- Not permissable under normal circumstances, as it is considered interfering with the natural process of reproduction.\n\n**Hanafi Scholars:**\n- More permissive, but only under specific conditions mentioned above.\n\nTherefore, based on the majority view of Sunni scholars (Maliki and Shafi'i), the use of contraceptives for maa (pregnancy prevention) is generally not permissible under normal circumstances.",
+      "timestamp": "2026-10-11 06:36:38"
+    },
+    {
+      "id": "Q49",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein vasectomy ya permanent sterilization jaiz hai?",
+      "question_english": "Is vasectomy or permanent sterilization permissible in Islam?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islamic jurisprudence, vasectomy or permanent sterilization is generally not permissible due to the permissibility of having more children as a religious duty (fard) for men. This ruling is based on the school of thought known as Sunni Islam, particularly following the Hanafi school.\n\nThe relevant condition is that the individual must have a family and fulfill their religious duty to have children. If they are already beyond this stage or do not wish to continue having more children, then vasectomy can be considered permissible.\n\nHowever, it is important to note that this ruling varies among different Islamic scholars and schools of thought. Some Shia scholars may have differing opinions on this matter. It is also crucial to consider modern medical ethics and the individual's circumstances before making a decision.",
+      "timestamp": "2026-10-11 06:36:42"
+    },
+    {
+      "id": "Q50",
+      "category": "Controversial_Ethics",
+      "language": "hinglish",
+      "question": "Kya Islam mein mental health treatment, jismein psychiatric medication bhi shamil hai, jaiz hai?",
+      "question_english": "Is mental health treatment including psychiatric medication permissible in Islam?",
+      "model": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+      "model_response": "In Islam, treating mental health conditions including the use of psychiatric medication is generally permissible (Jaiz) under certain conditions. This ruling applies to both the Sunni and Shia schools of thought, but with some nuances:\n\n1. **Sunni School**: The majority view among Sunni scholars is that mental health treatment, including the use of psychiatric medication, is permissible. However, it must be done in accordance with Islamic law and ethics. The treatment should aim to restore the patient's mental health without causing harm or introducing significant side effects that could be considered sinful.\n\n2. **Shia School**: The Shia view is similar to the Sunni one, with a focus on ensuring that treatment does not violate Islamic principles. The use of medication should be done in consultation with a knowledgeable physician and within the bounds of Islamic law.\n\n**Conditions for Permissibility:**\n- The treatment must be done with the intention of curing the patient and improving their mental health.\n- It should not cause harm or significant side effects that could be considered sinful (makruh).\n- The treatment should comply with Islamic ethical standards and not involve practices that are prohibited by Islam.\n- It is important to seek the advice of a knowledgeable physician and ensure that the treatment aligns with Islamic teachings.\n\nTherefore, based on these schools of thought, mental health treatment including the use of psychiatric medication is permissible under specific conditions and in consultation with a knowledgeable physician.",
+      "timestamp": "2026-10-11 06:36:50"
+    }
+  ]
+}
